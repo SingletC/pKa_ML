@@ -1,9 +1,7 @@
-import os
+from periodictable import elements
 from rdkit import Chem
 from rdkit.Chem import AllChem
-import pandas as pd
 import numpy as np
-import re
 
 
 # Smiles to mol type
@@ -19,13 +17,64 @@ def smile_to_mol(smile, name="None"):
     return m2
 
 
+def mol_to_text(mol):
+    if mol is None:
+        return None
+    try:
+        i = Chem.MolToMolBlock(mol)
+    except:
+        i = None
+    return i
+
+
 def get_coordinate(string, head=3):
-    i = 0
-    name_x_y_z = []
-    for line in string.splitlines():
-        if i > head and len(line) > 60:
-            (x, y, z) = re.findall(r"\d+\.?\d*", line)[0:3]
-            name = line[30:32]
-            name_x_y_z.append([name, x, y, z])
-        i = i + 1
-    return name_x_y_z
+    try:
+        i = 0
+        name_x_y_z = []
+        for line in string.splitlines():
+            if i > head and len(line) > 60:
+                (x, y, z) = [float(line[1:10]), float(line[11:20]), float(line[21:31])]
+                name = line[30:32]
+                charge = elements.symbol(name.strip()).number
+                name_x_y_z.append([name, x, y, z, charge])
+            i = i + 1
+        coord = name_x_y_z
+    except:
+        coord = None
+    return coord
+
+
+def coulomb_matrix(coord, eig=True):
+    try:
+        c_mat = np.eye(len(coord))
+        for i in range(len(coord)):
+            c_mat[i, i] = 0.5 * coord[i][4] ** 2.4
+            for j in range(i + 1, len(coord)):
+                r = ((coord[i][1] - coord[j][1]) ** 2 + (coord[i][2] - coord[j][2]) ** 2 + (
+                            coord[i][3] - coord[j][3]) ** 2
+                     ) ** 0.5
+                c_mat[i, j] = coord[i][4] * coord[j][4] / r
+                c_mat[j, i] = c_mat[i, j]
+        if eig == False:
+            cm = c_mat
+        else:
+            cm = np.linalg.eig(c_mat)[0]
+    except:
+        cm = None
+    return cm
+
+
+def max_num(data):
+    max = 0
+    for i in data:
+        if i.max() > max:
+            max = i.max()
+    return max
+
+
+def vec_resize(vec, size):
+    diff = size - len(vec)
+    if diff % 2 == 0:
+        return np.pad(vec, int(diff / 2))
+    else:
+        return np.pad(vec, (int((diff + 1) / 2), int((diff - 1) / 2)))
