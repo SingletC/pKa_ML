@@ -2,6 +2,9 @@ from periodictable import elements
 from rdkit import Chem
 from rdkit.Chem import AllChem
 import numpy as np
+import pandas as pd
+from joblib import Parallel, delayed
+from os import cpu_count
 
 
 # Smiles to mol type
@@ -15,6 +18,10 @@ def smile_to_mol(smile, name="None"):
     except:
         m2 = None
     return m2
+
+
+def smile_to_mol_df(df):
+    return df.apply(smile_to_mol)
 
 
 def mol_to_text(mol):
@@ -51,7 +58,7 @@ def coulomb_matrix(coord, eig=True):
             c_mat[i, i] = 0.5 * coord[i][4] ** 2.4
             for j in range(i + 1, len(coord)):
                 r = ((coord[i][1] - coord[j][1]) ** 2 + (coord[i][2] - coord[j][2]) ** 2 + (
-                            coord[i][3] - coord[j][3]) ** 2
+                        coord[i][3] - coord[j][3]) ** 2
                      ) ** 0.5
                 c_mat[i, j] = coord[i][4] * coord[j][4] / r
                 c_mat[j, i] = c_mat[i, j]
@@ -78,3 +85,27 @@ def vec_resize(vec, size):
         return np.pad(vec, int(diff / 2))
     else:
         return np.pad(vec, (int((diff + 1) / 2), int((diff - 1) / 2)))
+
+
+def apply_parallel(df, func, n=None):
+    """
+       @params df:
+       @params func:      apply
+       @params n:         n processor
+       @return Dataframe:
+　　 """
+
+    if n is None:
+        n = -1
+    dflength = len(df)
+    cpunum = cpu_count()
+    if n < 0:
+        spnum = cpunum + n + 1
+    else:
+        spnum = n or 1
+
+    sp = list(range(dflength)[::int(dflength / spnum + 0.5)])
+    sp.append(dflength)
+    slice_gen = (slice(*idx) for idx in zip(sp[:-1], sp[1:]))
+    results = Parallel(n_jobs=n)(delayed(func)(df[slc]) for slc in slice_gen)
+    return pd.concat(results)
