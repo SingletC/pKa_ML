@@ -63,7 +63,7 @@ def coulomb_matrix(coord, eig=True):
                      ) ** 0.5
                 c_mat[i, j] = coord[i][4] * coord[j][4] / r
                 c_mat[j, i] = c_mat[i, j]
-        if not eig:
+        if eig == False:
             cm = c_mat
         else:
             cm = np.linalg.eig(c_mat)[0]
@@ -73,11 +73,11 @@ def coulomb_matrix(coord, eig=True):
 
 
 def max_num(data):
-    data_max = 0
+    max = 0
     for i in data:
-        if i.max() > data_max:
-            data_max = i.max()
-    return data_max
+        if i.max() > max:
+            max = i.max()
+    return max
 
 
 def vec_resize(vec, size):
@@ -111,44 +111,45 @@ def apply_parallel(df, func, n=None):
     results = Parallel(n_jobs=n)(delayed(func)(df[slc]) for slc in slice_gen)
     return pd.concat(results)
 
-
-def get_mol_shape(mol, box=(10, 10, 10)):
+def get_mol_shape(mol,box=(10,10,10)):
     try:
-        shape_obj = Chem.AllChem.ComputeMolShape(mol, boxDim=box)
-        len_shape = (shape_obj.GetSize())
-        shape = []
-        for i in range(0, len_shape):
+        shape_obj=Chem.AllChem.ComputeMolShape(mol, boxDim=box)
+        len_shape=(shape_obj.GetSize())
+        shape=[]
+        for i in range(0,len_shape):
             shape.append(shape_obj.GetVal(i))
     except:
-        shape = None
+        shape=None
     return shape
 
 
-def atom_filter(mol, ban_list=False, atomic_range=False):
-    """
+def atom_filter(mol, ban_list=False , atomic_range=False):
+
+    ''' 
     Filter mol with ban element and atomic number range.
     Return True for mol pass the filter.
-
+    
     Args:
         mol: rdkit mol obj
         ban_list: list of element symbol as ['Na','Ca','B']
         atomic_range: range of atomic_number  (0,2) would only allow H an He, (12,12) only allow  C
     # TODO opt the speed of this func
-    """
-    if atomic_range:
-        for i in mol.GetAtoms():
-            if i.GetAtomicNum() > max(atomic_range) or i.GetAtomicNum() < min(atomic_range):
-                return False
-
-    if ban_list:
-        for i in reversed(mol.GetAtoms()):
+    '''
+    if atomic_range != False:
+         for i in mol.GetAtoms():
+                if i.GetAtomicNum() > max(atomic_range) or i.GetAtomicNum() < min(atomic_range):
+                    return False
+   
+                
+    if ban_list !=False:
+        for i in reversed(mol.GetAtoms()):                      
             if i.GetSymbol() in ban_list:
                 return False
 
     return True
 
 
-def filter_r(mol, patt):
+def filter_R(mol,patt):
     ''' 
     Filter mol with R group via SMARTS string 
     Return True for mol pass the filter.
@@ -157,7 +158,7 @@ def filter_r(mol, patt):
         patt: SMARTS list of string for function group eg. {'N[H]':0 , '[H]C=O':1} for zero number of non-aromatic amine and only one aldehyde
     '''
     for i in patt:
-        smarts = Chem.MolFromSmarts(i)
+        smarts=Chem.MolFromSmarts(i)
         if len(mol.GetSubstructMatches(smarts)) != patt[i]:
             return False
     return True
