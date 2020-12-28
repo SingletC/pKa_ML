@@ -15,6 +15,7 @@ def smile_to_mol(smile, name="None"):
         m2 = Chem.AddHs(m)
         m2.SetProp("_Name", name)
         AllChem.EmbedMolecule(m2, randomSeed=0xf00d)
+        AllChem.UFFOptimizeMolecule(m2)
     except:
         m2 = None
     return m2
@@ -109,3 +110,55 @@ def apply_parallel(df, func, n=None):
     slice_gen = (slice(*idx) for idx in zip(sp[:-1], sp[1:]))
     results = Parallel(n_jobs=n)(delayed(func)(df[slc]) for slc in slice_gen)
     return pd.concat(results)
+
+def get_mol_shape(mol,box=(10,10,10)):
+    try:
+        shape_obj=Chem.AllChem.ComputeMolShape(mol, boxDim=box)
+        len_shape=(shape_obj.GetSize())
+        shape=[]
+        for i in range(0,len_shape):
+            shape.append(shape_obj.GetVal(i))
+    except:
+        shape=None
+    return shape
+
+
+def atom_filter(mol, ban_list=False , atomic_range=False):
+
+    ''' 
+    Filter mol with ban element and atomic number range.
+    Return True for mol pass the filter.
+    
+    Args:
+        mol: rdkit mol obj
+        ban_list: list of element symbol as ['Na','Ca','B']
+        atomic_range: range of atomic_number  (0,2) would only allow H an He, (12,12) only allow  C
+    # TODO opt the speed of this func
+    '''
+    if atomic_range != False:
+         for i in mol.GetAtoms():
+                if i.GetAtomicNum() > max(atomic_range) or i.GetAtomicNum() < min(atomic_range):
+                    return False
+   
+                
+    if ban_list !=False:
+        for i in reversed(mol.GetAtoms()):                      
+            if i.GetSymbol() in ban_list:
+                return False
+
+    return True
+
+
+def filter_R(mol,patt):
+    ''' 
+    Filter mol with R group via SMARTS string 
+    Return True for mol pass the filter.
+    Args:
+        mol: rdkit mol obj
+        patt: SMARTS list of string for function group eg. {'N[H]':0 , '[H]C=O':1} for zero number of non-aromatic amine and only one aldehyde
+    '''
+    for i in patt:
+        smarts=Chem.MolFromSmarts(i)
+        if len(mol.GetSubstructMatches(smarts)) != patt[i]:
+            return False
+    return True
