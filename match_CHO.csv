@@ -1,0 +1,1013 @@
+,MWT,MF,PARENT_MWT,SMILES,SUPPLIER_NAME,CATALOG_NUMBER,CAS,CHEMICAL_NAME,MFCD,EMOLECULES_ID,mol,MFC#
+10,120.15,C8H8O,120.15,Cc1ccccc1C=O,Alfa Aesar (US),0,,"o-Tolualdehyde, 98%, stab. with 0.1% hydroquinone",MFCD00003338,479244,<rdkit.Chem.rdchem.Mol object at 0x0000020EE06FFAF0>,32
+42,120.15,C8H8O,120.15,Cc1cccc(C=O)c1,Alfa Aesar (US),0,,"m-Tolualdehyde, 97%, stab. with 0.1% hydroquinone",MFCD00003374,532075,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0704330>,36
+78,120.15,C8H8O,120.15,Cc1ccc(C=O)cc1,Alfa Aesar (US),0,,"p-Tolualdehyde, 98%",MFCD00006954,532081,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0704C30>,37
+160,122.12,C7H6O2,122.12,Oc1ccccc1C=O,InterBioScreen,0,,2-hydroxybenzaldehyde,MFCD00003317,475256,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0719130>,20
+180,122.12,C7H6O2,122.12,Oc1ccc(C=O)cc1,InterBioScreen,0,,4-hydroxybenzaldehyde,MFCD00006939,481831,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0719630>,46
+226,122.12,C7H6O2,122.12,Oc1cccc(C=O)c1,Alfa Aesar (US),0,,"3-Hydroxybenzaldehyde, 97%",MFCD00003368,519571,<rdkit.Chem.rdchem.Mol object at 0x0000020EE07241F0>,42
+271,124.11,C7H5FO,124.11,Fc1ccc(C=O)cc1,Activate Scientific,0,,4-Fluorobenzaldehyde,MFCD00003378,480287,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0724D30>,36
+307,124.11,C7H5FO,124.11,Fc1ccccc1C=O,Alfa Aesar (US),0,,"2-Fluorobenzaldehyde, 97%",MFCD00003302,511579,<rdkit.Chem.rdchem.Mol object at 0x0000020EE072B670>,31
+338,124.11,C7H5FO,124.11,Fc1cccc(C=O)c1,InterBioScreen,0,,3-fluorobenzaldehyde,MFCD00003348,511601,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D10D70>,38
+377,130.15,C9H6O,130.15,O=Cc1ccccc1C#C,EvoBlocks,0,,2-ethynylbenzaldehyde,MFCD04039985,523783,<rdkit.Chem.rdchem.Mol object at 0x0000020EE072BA30>,32
+409,130.15,C9H6O,130.15,O=Cc1ccc(cc1)C#C,ChemBridge,4003406,,4-ethynylbenzaldehyde,MFCD05664348,524405,<rdkit.Chem.rdchem.Mol object at 0x0000020EE073C270>,44
+453,130.15,C9H6O,130.15,O=Cc1cccc(c1)C#C,ChemBridge,4031050,,3-ethynylbenzaldehyde,MFCD06245349,3786824,<rdkit.Chem.rdchem.Mol object at 0x0000020EE073CD70>,29
+483,131.13,C8H5NO,131.13,O=Cc1cccc(c1)C#N,Alinda Chemical,0,,3-formylbenzonitrile,MFCD00003344,482173,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0744530>,46
+529,131.13,C8H5NO,131.13,O=Cc1ccc(cc1)C#N,Alinda Chemical,0,,4-formylbenzonitrile,MFCD00003376,494584,<rdkit.Chem.rdchem.Mol object at 0x0000020EE074F0F0>,46
+575,131.13,C8H5NO,131.13,O=Cc1ccccc1C#N,Alinda Chemical,0,,2-formylbenzonitrile,MFCD00017503,500341,<rdkit.Chem.rdchem.Mol object at 0x0000020EE074FC70>,38
+621,132.16,C9H8O,132.16,C=Cc1ccccc1C=O,Matrix Scientific,173038,,2-Vinylbenzaldehyde,MFCD01321324,6756802,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0758830>,15
+636,132.16,C9H8O,132.16,C=Cc1ccc(C=O)cc1,Advamacs,0,,"Benzaldehyde, 4-ethenyl- 97%",MFCD00085289,11643123,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0758BF0>,17
+653,132.16,C9H8O,132.16,O=Cc1ccc2CCc2c1,AstaTech,67955,,"BICYCLO[4.2.0]OCTA-1,3,5-TRIENE-3-CARBALDEHYDE",MFCD09842341,49864268,<rdkit.Chem.rdchem.Mol object at 0x0000020EE075E070>,16
+766,134.18,C9H10O,134.18,Cc1ccc(C=O)c(C)c1,Alfa Aesar (US),0,,"2,4-Dimethylbenzaldehyde, 90+%",MFCD00003340,482097,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0765CF0>,34
+800,134.18,C9H10O,134.18,Cc1ccc(C)c(C=O)c1,Alfa Aesar (US),0,,"2,5-Dimethylbenzaldehyde, 98%",MFCD00003342,482103,<rdkit.Chem.rdchem.Mol object at 0x0000020EE076E5B0>,22
+822,134.18,C9H10O,134.18,CCc1ccc(C=O)cc1,Alfa Aesar (US),0,,"4-Ethylbenzaldehyde, 97%",MFCD00006956,490468,<rdkit.Chem.rdchem.Mol object at 0x0000020EE076EB30>,30
+852,134.18,C9H10O,134.18,Cc1ccc(C=O)cc1C,EvoBlocks,0,,"3,4-dimethylbenzaldehyde",MFCD00016612,514784,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E002F0>,42
+894,134.18,C9H10O,134.18,Cc1cccc(C)c1C=O,Activate Scientific,0,,"2,6-Dimethylbenzaldehyde",MFCD00128003,516283,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E00D70>,43
+937,134.18,C9H10O,134.18,Cc1cccc(C=O)c1C,Activate Scientific,0,,"2,3-Dimethylbenzaldehyde",MFCD00798004,516307,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E03870>,34
+971,134.18,C9H10O,134.18,Cc1cc(C)cc(C=O)c1,Alfa Aesar (US),0,,"3,5-Dimethylbenzaldehyde, 98+%",MFCD00082777,516533,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E04130>,42
+1013,134.18,C9H10O,134.18,CCc1ccccc1C=O,Activate Scientific,0,,2-Ethylbenzaldehyde,MFCD02261766,516535,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E04BB0>,39
+1052,134.18,C9H10O,134.18,CCc1cccc(C=O)c1,Platte Valley Scientific,0,,3-Ethylbenzaldehyde,MFCD09263482,43338598,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E075B0>,32
+1153,136.15,C8H8O2,136.15,COc1ccc(C=O)cc1,Aldlab Chemicals,0,,4-Methoxybenzaldehyde,MFCD00003385,477886,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E09F30>,44
+1197,136.15,C8H8O2,136.15,COc1ccccc1C=O,Alfa Aesar (US),0,,"2-Methoxybenzaldehyde, 98%",MFCD00003308,478508,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E0DA70>,43
+1240,136.15,C8H8O2,136.15,COc1cccc(C=O)c1,Alfa Aesar (US),0,,"3-Methoxybenzaldehyde, 98%",MFCD00003361,480395,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E17570>,38
+1278,136.15,C8H8O2,136.15,Cc1cc(C=O)ccc1O,Acros Organics,42755,,"4-Hydroxy-3-methylbenzaldehyde, 98%",MFCD00012360,497211,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E17EF0>,33
+1311,136.15,C8H8O2,136.15,Cc1cccc(C=O)c1O,Acros Organics,39854,,"2-Hydroxy-3-methylbenzaldehyde, 98%",MFCD00040798,508762,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E23770>,37
+1348,136.15,C8H8O2,136.15,Cc1ccc(O)c(C=O)c1,Activate Scientific,0,,2-Hydroxy-5-methylbenzaldehyde,MFCD00274297,509786,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E2E0F0>,36
+1384,136.15,C8H8O2,136.15,Cc1ccc(C=O)c(O)c1,ChemBridge,4002351,,2-hydroxy-4-methylbenzaldehyde,MFCD00799550,596081,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E2E9F0>,40
+1424,136.15,C8H8O2,136.15,Cc1cc(O)ccc1C=O,"Combi-Blocks, Inc.",0,,4-Hydroxy-2-methylbenzaldehyde,MFCD04037443,975184,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E3A430>,31
+1455,136.15,C8H8O2,136.15,OCc1ccc(C=O)cc1,"Combi-Blocks, Inc.",0,,4-(Hydroxymethyl)benzaldehyde,MFCD11870191,10855941,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E3ABF0>,35
+1490,136.15,C8H8O2,136.15,Cc1c(O)cccc1C=O,Accela ChemBio (ASD),0,,3-Hydroxy-2-methylbenzaldehyde,MFCD09999328,29542245,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E444F0>,33
+1523,136.15,C8H8O2,136.15,Cc1cc(O)cc(C=O)c1,AOBChem USA,28702,,3-Hydroxy-5-methylbenzaldehyde,MFCD16999707,31262212,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E44D30>,22
+1545,136.15,C8H8O2,136.15,Cc1ccc(C=O)cc1O,Key Organics/BIONET,0,,3-Hydroxy-4-methylbenzaldehyde,MFCD01632496,43445771,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E502F0>,33
+1578,136.15,C8H8O2,136.15,OCc1cccc(C=O)c1,ChemShuttle,130910,,3-(hydroxymethyl)-benzaldehyde,MFCD06797524,43445974,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E50B30>,12
+1590,136.15,C8H8O2,136.15,Cc1cccc(O)c1C=O,"Combi-Blocks, Inc.",0,,2-Hydroxy-6-methylbenzaldehyde,MFCD16038308,44455390,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E50E30>,30
+1620,136.15,C8H8O2,136.15,Cc1ccc(O)cc1C=O,"Combi-Blocks, Inc.",0,,5-Hydroxy-2-methylbenzaldehyde,MFCD16997527,45981020,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E5B5F0>,19
+1682,138.12,C7H6O3,138.12,Oc1ccc(C=O)c(O)c1,InterBioScreen,0,,"2,4-dihydroxybenzaldehyde",MFCD00011686,484950,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E675B0>,44
+1726,138.12,C7H6O3,138.12,Oc1cccc(C=O)c1O,InterBioScreen,0,,"2,3-dihydroxybenzaldehyde",MFCD00003324,486855,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E6F0F0>,39
+1765,138.12,C7H6O3,138.12,Oc1cc(O)cc(C=O)c1,Aldlab Chemicals,0,,"3,5-Dihydroxybenzaldehyde",MFCD00016611,501807,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E6FAB0>,28
+1793,138.12,C7H6O3,138.12,Oc1ccc(O)c(C=O)c1,Alfa Aesar (US),0,,"2,5-Dihydroxybenzaldehyde, 98+%",MFCD00003333,502517,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E7A1F0>,43
+1836,138.12,C7H6O3,138.12,Oc1ccc(C=O)cc1O,Vitas M Labs,0,,"3,4-dihydroxybenzaldehyde",MFCD00003370,502521,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E7ACB0>,49
+1885,138.12,C7H6O3,138.12,Oc1cccc(O)c1C=O,Key Organics/BIONET,0,,"2,6-Dihydroxybenzaldehyde",MFCD08061915,43446005,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E84930>,28
+1913,138.14,C8H7FO,138.14,Cc1c(F)cccc1C=O,Activate Scientific,0,,3-Fluoro-2-methylbenzaldehyde,MFCD00075256,499684,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E8F070>,36
+1949,138.14,C8H7FO,138.14,Cc1cc(C=O)ccc1F,Accela ChemBio (ASD),0,,4-Fluoro-3-methylbenzaldehyde,MFCD01631431,516279,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E8F970>,34
+1983,138.14,C8H7FO,138.14,Cc1ccc(F)c(C=O)c1,Activate Scientific,0,,2-Fluoro-5-methylbenzaldehyde,MFCD02093762,517012,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E98230>,38
+2021,138.14,C8H7FO,138.14,Cc1ccc(C=O)cc1F,Alfa Aesar (US),0,,"3-Fluoro-4-methylbenzaldehyde, 97%",MFCD01631532,517014,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0E98BB0>,33
+2054,138.14,C8H7FO,138.14,Cc1ccc(C=O)c(F)c1,Alfa Aesar (US),0,,"2-Fluoro-4-methylbenzaldehyde, 97%",MFCD03094325,911933,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EA3430>,31
+2085,138.14,C8H7FO,138.14,Cc1cccc(C=O)c1F,"Combi-Blocks, Inc.",0,,2-Fluoro-3-methylbenzaldehyde,MFCD06797948,917067,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EA3BF0>,25
+2110,138.14,C8H7FO,138.14,Cc1cc(F)ccc1C=O,Accela ChemBio (ASD),0,,4-Fluoro-2-methylbenzaldehyde,MFCD02261764,917214,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EAD270>,42
+2152,138.14,C8H7FO,138.14,Cc1ccc(F)cc1C=O,Alfa Aesar (US),0,,"5-Fluoro-2-methylbenzaldehyde, 97%",MFCD02261763,4850123,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EADCF0>,37
+2189,138.14,C8H7FO,138.14,Cc1cccc(F)c1C=O,Alfa Aesar (US),0,,"2-Fluoro-6-methylbenzaldehyde, 97%",MFCD09258962,13313074,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EB8670>,30
+2228,138.14,C8H7FO,138.14,Cc1cc(F)cc(C=O)c1,Alfa Aesar (US),0,,"3-Fluoro-5-methylbenzaldehyde, 97%",MFCD03094315,300441787,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EC1070>,31
+2387,140.11,C7H5FO2,140.11,Oc1c(F)cccc1C=O,Alfa Aesar (US),0,,"3-Fluorosalicylaldehyde, 98%",MFCD00003319,497356,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0ED68B0>,39
+2426,140.11,C7H5FO2,140.11,Oc1ccc(F)cc1C=O,Activate Scientific,0,,5-Fluoro-2-hydroxybenzaldehyde,MFCD01090997,517352,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EDE2B0>,38
+2464,140.11,C7H5FO2,140.11,Oc1ccc(C=O)cc1F,Alinda Chemical,0,,3-fluoro-4-hydroxybenzaldehyde,MFCD00016626,891857,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EDEC30>,37
+2501,140.11,C7H5FO2,140.11,Oc1cccc(F)c1C=O,Alfa Aesar (US),0,,"6-Fluorosalicylaldehyde, 97%",MFCD01090996,892187,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EE65B0>,39
+2540,140.11,C7H5FO2,140.11,Oc1cc(F)ccc1C=O,"Combi-Blocks, Inc.",0,,4-Fluoro-2-hydroxybenzaldehyde,MFCD03788526,912646,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EE6F70>,44
+2584,140.11,C7H5FO2,140.11,Oc1ccc(C=O)c(F)c1,Activate Scientific,0,,2-Fluoro-4-hydroxybenzaldehyde,MFCD06797918,10905977,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EF0AB0>,43
+2627,140.11,C7H5FO2,140.11,Oc1ccc(F)c(C=O)c1,Aldlab Chemicals,0,,2-Fluoro-5-hydroxybenzaldehyde,MFCD09038469,10905979,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EF95B0>,35
+2662,140.11,C7H5FO2,140.11,Oc1cc(C=O)ccc1F,Aldlab Chemicals,0,,4-Fluoro-3-hydroxybenzaldehyde,MFCD11110190,43338602,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0EF9E70>,20
+2682,140.11,C7H5FO2,140.11,Oc1cc(F)cc(C=O)c1,"Combi-Blocks, Inc.",0,,3-Fluoro-5-hydroxybenzaldehyde,MFCD13185579,43451673,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F033B0>,29
+2711,140.11,C7H5FO2,140.11,Oc1cccc(C=O)c1F,"Combi-Blocks, Inc.",0,,2-Fluoro-3-hydroxybenzaldehyde,MFCD11110191,44759913,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F03AF0>,32
+2743,140.57,C7H5ClO,140.57,Clc1ccc(C=O)cc1,Alfa Aesar (US),0,,"4-Chlorobenzaldehyde, 98%",MFCD00003379,478769,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F0B330>,32
+2775,140.57,C7H5ClO,140.57,Clc1ccccc1C=O,InterBioScreen,0,,2-chlorobenzaldehyde,MFCD00003304,479793,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F0BB30>,22
+2797,140.57,C7H5ClO,140.57,Clc1cccc(C=O)c1,Alfa Aesar (US),0,,"3-Chlorobenzaldehyde, 97%",MFCD00003350,490551,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F150F0>,35
+2835,142.1,C7H4F2O,142.1,Fc1cccc(C=O)c1F,Activate Scientific,0,,"2,3-Difluorobenzaldehyde",MFCD00010292,493219,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F15A70>,39
+2874,142.1,C7H4F2O,142.1,Fc1cccc(F)c1C=O,Activate Scientific,0,,"2,6-Difluorobenzaldehyde",MFCD00010293,493221,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F1E470>,40
+2914,142.1,C7H4F2O,142.1,Fc1ccc(C=O)cc1F,Alfa Aesar (US),0,,"3,4-Difluorobenzaldehyde, 98%",MFCD00010328,493223,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F1EE70>,44
+2958,142.1,C7H4F2O,142.1,Fc1ccc(C=O)c(F)c1,Activate Scientific,0,,"2,4-Difluorobenzaldehyde",MFCD00010326,493225,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F289B0>,35
+2993,142.1,C7H4F2O,142.1,Fc1ccc(F)c(C=O)c1,InterBioScreen,0,,"2,5-difluorobenzaldehyde",MFCD00010327,493227,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F302B0>,35
+3028,142.1,C7H4F2O,142.1,Fc1cc(F)cc(C=O)c1,Alfa Aesar (US),0,,"3,5-Difluorobenzaldehyde, 97%",MFCD00010329,495082,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F30B70>,41
+3079,145.16,C9H7NO,145.16,O=Cc1ccc2[nH]ccc2c1,InterBioScreen,0,,1H-indole-5-carbaldehyde,MFCD02093664,516150,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F3A7F0>,51
+3130,145.16,C9H7NO,145.16,O=Cc1cccc2cc[nH]c12,Chem-Impex,22042,,Indole-7-carboxaldehyde,MFCD01318152,518565,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F3E4F0>,37
+3167,145.16,C9H7NO,145.16,O=Cc1ccc2cc[nH]c2c1,InterBioScreen,0,,1H-indole-6-carbaldehyde,MFCD02179596,525251,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F3EE30>,39
+3206,145.16,C9H7NO,145.16,O=Cc1cccc2[nH]ccc12,InterBioScreen,0,,1H-indole-4-carbaldehyde,MFCD01632221,525253,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F41830>,47
+3253,145.16,C9H7NO,145.16,Cc1ccc(C=O)cc1C#N,Alinda Chemical,0,,5-formyl-2-methylbenzonitrile,MFCD12197728,29817651,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F42430>,16
+3285,145.16,C9H7NO,145.16,Cc1cc(ccc1C=O)C#N,"Combi-Blocks, Inc.",0,,4-Formyl-3-methylbenzonitrile,MFCD18394297,45981042,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F42C30>,25
+3310,145.16,C9H7NO,145.16,Cc1cccc(C=O)c1C#N,HE Chemical,33337,,2-Cyano-3-methylbenzaldehyde,MFCD16659619,48577533,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F4C2B0>,12
+3322,145.16,C9H7NO,145.16,Cc1cc(C=O)ccc1C#N,"Combi-Blocks, Inc.",0,,4-Formyl-2-methylbenzonitrile,MFCD18394298,49861661,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F4C5B0>,13
+3335,145.16,C9H7NO,145.16,Cc1ccc(C=O)c(c1)C#N,Key Organics/BIONET,0,,2-Formyl-5-methylbenzonitrile,MFCD18394293,50286647,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F4C8F0>,22
+3373,146.15,C9H6O2,146.15,O=Cc1ccc2occc2c1,Maybridge,0,,1-benzofuran-5-carbaldehyde,MFCD03411182,720110,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F572B0>,31
+3404,146.15,C9H6O2,146.15,O=Cc1cccc2ccoc12,Aldlab Chemicals,0,,benzofuran-7-carbaldehyde,MFCD08272125,30781584,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F57A70>,24
+3428,146.15,C9H6O2,146.15,O=Cc1cccc2occc12,"Combi-Blocks, Inc.",0,,4-Benzofurancarboxaldehyde,MFCD10699414,33511322,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F630B0>,16
+3444,146.15,C9H6O2,146.15,O=Cc1ccc2ccoc2c1,Toronto Research Chemicals,0,,Benzofuran-6-carbaldehyde,MFCD09038098,33511822,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F634B0>,14
+3467,146.15,C8H6N2O,146.15,O=Cc1ccc2[nH]ncc2c1,Chem-Impex,17606,,1H-Indazole-5-carbaldehyde,MFCD06738280,2728338,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F63A70>,27
+3494,146.15,C8H6N2O,146.15,O=Cc1ccc2[nH]cnc2c1,"Combi-Blocks, Inc.",0,,1H-Benzimidazole-5-carbaldehyde,MFCD08741423,5849667,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F6D170>,29
+3523,146.15,C8H6N2O,146.15,O=Cc1ccc2cn[nH]c2c1,Sinova,0,,1H-indazole-6-cabaldehyde,MFCD06738282,14091315,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F6D8B0>,36
+3559,146.15,C8H6N2O,146.15,O=Cc1cccc2[nH]ncc12,Frontier Scientific (Logan),0,,4-Formylindazole,MFCD06738279,28298772,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F791F0>,39
+3598,146.15,C8H6N2O,146.15,O=Cc1cccc2cn[nH]c12,Chem-Impex,18506,,1H-Indazole-7-carbaldehyde,MFCD06738281,30156841,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F79BB0>,20
+3653,146.19,C10H10O,146.19,O=Cc1ccccc1C1CC1,AOBChem USA,24818,,2-Cyclopropylbenzaldehyde,MFCD00480888,819401,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F849B0>,26
+3679,146.19,C10H10O,146.19,O=Cc1ccc2CCCc2c1,Bio-Farma,0,,"2,3-dihydro-1H-indene-5-carbaldehyde",MFCD00086208,4353590,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F8C070>,27
+3706,146.19,C10H10O,146.19,O=Cc1ccc(cc1)C1CC1,AstaTech,33489,,4-CYCLOPROPYLBENZALDEHYDE,MFCD06802398,37036169,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F8C730>,30
+3736,146.19,C10H10O,146.19,O=Cc1cccc(c1)C1CC1,ACS Scientific,12,,3-cyclopropylbenzaldehyde,MFCD06802399,37036171,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F8CEB0>,12
+3748,146.19,C10H10O,146.19,O=Cc1cccc2CCCc12,Activate Scientific,0,,"2,3-Dihydro-1H-indene-4-carbaldehyde",MFCD18808942,70144114,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F8D1F0>,11
+3774,146.19,C10H10O,146.19,C=CCc1ccccc1C=O,Enamine - UA Stock,0,,2-(prop-2-en-1-yl)benzaldehyde,MFCD18824313,207615902,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F8D870>,12
+3788,147.13,C8H5NO2,147.13,Oc1cc(ccc1C=O)C#N,Advamacs,0,,4-Formyl-3-hydroxybenzonitrile 98%,MFCD08361770,34103,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F8DBF0>,20
+3808,147.13,C8H5NO2,147.13,Oc1ccc(cc1C=O)C#N,Accela ChemBio (ASD),0,,3-Formyl-4-hydroxybenzonitrile,MFCD09839541,36762000,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F92130>,19
+3827,147.13,C8H5NO2,147.13,O=Cc1ccc2ocnc2c1,BetaPharma,86,,5-Benzoxazolecarboxaldehyde,MFCD20527251,43481371,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F925F0>,26
+3853,147.13,C8H5NO2,147.13,O=Cc1ccc2ncoc2c1,Aldlab Chemicals,0,,Benzo[d]oxazole-6-carbaldehyde,MFCD11040758,44391346,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F92C70>,24
+3901,147.13,C8H5NO2,147.13,Oc1ccc(C=O)cc1C#N,ChemScene,0,,3-Cyano-4-hydroxybenzaldehyde,MFCD16999751,49435216,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0F9C8B0>,19
+3952,148.12,C7H4N2O2,148.12,O=Cc1ccc2nonc2c1,Alinda Chemical,0,,"2,1,3-benzoxadiazole-5-carbaldehyde",MFCD01200350,720186,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FA75B0>,33
+3985,148.12,C7H4N2O2,148.12,O=Cc1cccc2nonc12,Aldlab Chemicals,0,,"Benzo[c][1,2,5]oxadiazole-4-carbaldehyde",MFCD07772900,11642440,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FA7DF0>,29
+4031,148.14,C9H5FO,148.14,Fc1ccc(C#C)c(C=O)c1,"Combi-Blocks, Inc.",0,,2-Ethynyl-5-fluorobenzaldehyde,MFCD24674725,46574449,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FAF9B0>,10
+4041,148.14,C9H5FO,148.14,Fc1ccc(C=O)c(c1)C#C,"Combi-Blocks, Inc.",0,,2-Ethynyl-4-fluorobenzaldehyde,MFCD18824363,81805371,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FAFC30>,20
+4075,148.16,C9H8O2,148.16,CC(=O)c1ccc(C=O)cc1,HE Chemical,2458993,,4'-Formylacetophenone,MFCD02093689,516383,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FB94F0>,19
+4094,148.16,C9H8O2,148.16,CC(=O)c1cccc(C=O)c1,"Combi-Blocks, Inc.",0,,3-Acetylbenzaldehyde,MFCD05865161,521721,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FB99B0>,10
+4109,148.16,C9H8O2,148.16,O=Cc1ccc2OCCc2c1,Frontier Scientific (Logan),0,,"2,3-Dihydro-1-benzofuran-5-carboxaldehyde",MFCD00068058,525213,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FB9D70>,44
+4153,148.16,C9H8O2,148.16,O=Cc1cccc2CCOc12,Maybridge,0,,"2,3-dihydro-1-benzofuran-7-carbaldehyde",MFCD06200853,724854,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FBD8B0>,29
+4194,148.16,C9H8O2,148.16,O=Cc1cccc2OCCc12,Key Organics/BIONET,0,,"2,3-Dihydrobenzofuran-4-carbaldehyde",MFCD03426203,36760300,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FC0330>,27
+4221,148.16,C9H8O2,148.16,O=Cc1ccc2COCc2c1,"Combi-Blocks, Inc.",0,,"1,3-Dihydro-2-benzofuran-5-carbaldehyde",MFCD09842492,37896192,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FC09F0>,19
+4240,148.16,C9H8O2,148.16,O=Cc1ccc2CCOc2c1,Enamine - UA Backorder,0,,"2,3-dihydro-1-benzofuran-6-carbaldehyde",MFCD16658153,49264452,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FC0EB0>,10
+4275,148.21,C10H12O,148.21,CC(C)c1ccc(C=O)cc1,Alfa Aesar (US),0,,"4-Isopropylbenzaldehyde, tech. 90%",MFCD00006953,480952,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FC17B0>,28
+4303,148.21,C10H12O,148.21,Cc1cc(C)c(C=O)cc1C,"Combi-Blocks, Inc.",0,,"2,4,5-Trimethylbenzaldehyde",MFCD00017713,517366,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FC1EB0>,18
+4321,148.21,C10H12O,148.21,CCCc1ccc(C=O)cc1,Rieke Metals,8091,,4-n-propylbenzaldehyde,MFCD00041870,521719,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FC4370>,27
+4348,148.21,C10H12O,148.21,Cc1cc(C)c(C=O)c(C)c1,Activate Scientific,0,,"2,4,6-Trimethylbenzaldehyde",MFCD00003341,525984,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FC4A30>,38
+4386,148.21,C10H12O,148.21,CC(C)c1ccccc1C=O,Platte Valley Scientific,0,,2-iso-Propylbenzaldehyde,MFCD06201222,1014143,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FC63F0>,27
+4418,148.21,C10H12O,148.21,CC(C)c1cccc(C=O)c1,Platte Valley Scientific,0,,3-iso-Propylbenzaldehyde,MFCD08062435,6204215,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FC6BF0>,28
+4474,149.12,C8H4FNO,149.12,Fc1ccc(C=O)cc1C#N,Alinda Chemical,0,,2-fluoro-5-formylbenzonitrile,MFCD01863558,514806,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FC9A30>,41
+4515,149.12,C8H4FNO,149.12,Fc1cc(ccc1C=O)C#N,Activate Scientific,0,,4-Cyano-2-fluorobenzaldehyde,MFCD07368786,917083,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FCD4B0>,39
+4561,149.12,C8H4FNO,149.12,Fc1cc(C=O)ccc1C#N,Accela ChemBio (ASD),0,,2-Fluoro-4-formylbenzonitrile,MFCD06738989,17256932,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FD7070>,36
+4597,149.12,C8H4FNO,149.12,Fc1ccc(cc1C=O)C#N,Accela ChemBio (ASD),0,,4-Fluoro-3-formylbenzonitrile,MFCD04974126,24629125,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FD7970>,30
+4627,149.12,C8H4FNO,149.12,Fc1ccc(C=O)c(c1)C#N,"Combi-Blocks, Inc.",0,,2-Cyano-4-fluorobenzaldehyde,MFCD08275455,25039641,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FE0130>,25
+4652,149.12,C8H4FNO,149.12,Fc1ccc(C#N)c(C=O)c1,AstaTech,0,,2-CYANO-5-FLUOROBENZALDEHYDE,MFCD16619724,36761992,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FE0770>,23
+4675,149.12,C8H4FNO,149.12,Fc1cc(C=O)cc(c1)C#N,AstaTech,0,,3-CYANO-5-FLUOROBENZALDEHYDE,MFCD04974123,36762022,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FE0D30>,34
+4709,149.12,C8H4FNO,149.12,Fc1c(C=O)cccc1C#N,"Combi-Blocks, Inc.",0,,2-Fluoro-3-formylbenzonitrile,MFCD18394005,44692228,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FEA5F0>,10
+4793,149.19,C9H11NO,149.19,CN(C)c1ccc(C=O)cc1,Chem-Impex,30053,,4-(Dimethylamino)benzaldehyde,MFCD00003381,475155,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FEFB30>,50
+4843,149.19,C9H11NO,149.19,CN(C)c1ccccc1C=O,Aldlab Chemicals,0,,"2-(N,N-Dimethylamino)benzaldehyde",MFCD03407377,933174,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FF27F0>,33
+4876,149.19,C9H11NO,149.19,CN(C)c1cccc(C=O)c1,Rieke Metals,8139,,3-(Dimethylamino)benzaldehyde,MFCD05148649,4345701,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0FF4070>,26
+5077,150.13,C8H6O3,150.13,OC(=O)c1ccc(C=O)cc1,Vitas M Labs,0,,4-formylbenzoic acid,MFCD00006951,479789,<rdkit.Chem.rdchem.Mol object at 0x0000020EE100C370>,43
+5120,150.13,C8H6O3,150.13,OC(=O)c1cccc(C=O)c1,Alinda Chemical,0,,3-formylbenzoic acid,MFCD00039575,489153,<rdkit.Chem.rdchem.Mol object at 0x0000020EE100CE30>,47
+5167,150.13,C8H6O3,150.13,O=Cc1cccc2OCOc12,Accela ChemBio (ASD),0,,"4-Formyl-1,3-benzodioxole",MFCD00016902,503759,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1015A30>,34
+5209,150.13,C8H6O3,150.13,OC(=O)c1ccccc1C=O,Frontier Scientific (Logan),0,,2-Carboxybenzaldehyde,MFCD00003336,711860,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10204F0>,38
+5308,150.18,C9H10O2,150.18,CCOc1ccc(C=O)cc1,InterBioScreen,0,,4-ethoxybenzaldehyde,MFCD00003388,475159,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1029DF0>,38
+5346,150.18,C9H10O2,150.18,Cc1cc(C=O)cc(C)c1O,Activate Scientific,0,,"3,5-Dimethyl-4-hydroxybenzaldehyde",MFCD00006946,481550,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10337B0>,45
+5391,150.18,C9H10O2,150.18,COc1ccc(C=O)cc1C,Accela ChemBio (ASD),0,,4-Methoxy-3-methylbenzaldehyde,MFCD00003375,483063,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1035330>,32
+5423,150.18,C9H10O2,150.18,CCOc1ccccc1C=O,Alfa Aesar (US),0,,"2-Ethoxybenzaldehyde, 97+%",MFCD00003316,483339,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1035B30>,27
+5450,150.18,C9H10O2,150.18,CCOc1cccc(C=O)c1,Alinda Chemical,0,,3-ethoxybenzaldehyde,MFCD00016606,516379,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1038230>,24
+5474,150.18,C9H10O2,150.18,COc1ccc(C=O)c(C)c1,Accela ChemBio (ASD),0,,4-Methoxy-2-methylbenzaldehyde,MFCD02261771,516381,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1038830>,45
+5519,150.18,C9H10O2,150.18,COc1cc(C=O)ccc1C,"Combi-Blocks, Inc.",0,,3-Methoxy-4-methylbenzaldehyde,MFCD04114050,932377,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10393B0>,39
+5558,150.18,C9H10O2,150.18,Cc1cc(C=O)c(C)cc1O,Aldlab Chemicals,0,,"4-Hydroxy-2,5-dimethylbenzaldehyde",MFCD03411744,978319,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1039D70>,30
+5593,150.18,C9H10O2,150.18,Cc1ccc(C)c(C=O)c1O,AstaTech,27800,,"2-HYDROXY-3,6-DIMETHYLBENZALDEHYDE",MFCD04037328,978395,<rdkit.Chem.rdchem.Mol object at 0x0000020EE103C670>,21
+5614,150.18,C9H10O2,150.18,Cc1cc(C)c(C=O)c(O)c1,Aldlab Chemicals,0,,"2-Hydroxy-4,6-dimethylbenzaldehyde",MFCD04113848,978397,<rdkit.Chem.rdchem.Mol object at 0x0000020EE103CBB0>,14
+5628,150.18,C9H10O2,150.18,Cc1cc(O)cc(C)c1C=O,Accela ChemBio (ASD),0,,"2,6-Dimethyl-4-hydroxybenzaldehyde",MFCD00016979,987548,<rdkit.Chem.rdchem.Mol object at 0x0000020EE103CF30>,27
+5655,150.18,C9H10O2,150.18,COc1ccc(C)cc1C=O,Rieke Metals,8077,,2-Methoxy-5-methylbenzaldehyde,MFCD02261770,1014128,<rdkit.Chem.rdchem.Mol object at 0x0000020EE103E630>,34
+5689,150.18,C9H10O2,150.18,COc1cc(C)ccc1C=O,ChemBridge,4004828,,2-methoxy-4-methylbenzaldehyde,MFCD06248007,1530994,<rdkit.Chem.rdchem.Mol object at 0x0000020EE103EEB0>,33
+5722,150.18,C9H10O2,150.18,COc1c(C)cccc1C=O,Aldlab Chemicals,0,,2-Methoxy-3-methylbenzaldehyde,MFCD07783657,1530996,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1041730>,27
+5749,150.18,C9H10O2,150.18,Cc1cc(C)c(O)c(C=O)c1,Aldlab Chemicals,0,,"2-Hydroxy-3,5-dimethyl-benzaldehyde",MFCD05625710,1554636,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1041DF0>,24
+5773,150.18,C9H10O2,150.18,CCc1ccc(O)c(C=O)c1,"Combi-Blocks, Inc.",0,,5-Ethyl-2-hydroxybenzenecarbaldehyde,MFCD06739514,4853584,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1042430>,15
+5796,150.18,C9H10O2,150.18,COc1cc(C)cc(C=O)c1,AstaTech,0,,3-METHOXY-5-METHYLBENZALDEHYDE,MFCD11046639,16553917,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10429F0>,32
+5828,150.18,C9H10O2,150.18,COCc1ccc(C=O)cc1,Bio-Farma,0,,4-(methoxymethyl)benzaldehyde,MFCD11553601,25679789,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1045230>,15
+5843,150.18,C9H10O2,150.18,COc1cccc(C)c1C=O,Aldlab Chemicals,0,,2-Methoxy-6-methylbenzaldehyde,MFCD08235006,32320519,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10455F0>,28
+5871,150.18,C9H10O2,150.18,COc1ccc(C)c(C=O)c1,Advamacs,0,,5-METHOXY-2-METHYLBENZALDEHYDE 95%,MFCD12547802,36764578,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1045CF0>,34
+5918,150.18,C9H10O2,150.18,COc1cccc(C=O)c1C,Accela ChemBio (ASD),0,,3-Methoxy-2-methylbenzaldehyde,MFCD11044581,43478023,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10478F0>,26
+5960,150.18,C9H10O2,150.18,CCc1ccc(C=O)c(O)c1,Aldlab Chemicals,0,,4-Ethyl-2-hydroxy-benzaldehyde,MFCD16997668,48606220,<rdkit.Chem.rdchem.Mol object at 0x0000020EE104A3B0>,15
+5986,150.18,C9H10O2,150.18,COCc1ccccc1C=O,Angene Chemical,0,,2-(Methoxymethyl)benzaldehyde,MFCD24395542,96200052,<rdkit.Chem.rdchem.Mol object at 0x0000020EE104AA30>,15
+6014,151.12,C7H5NO3,151.12,[O-][N+](=O)c1ccc(C=O)cc1,InterBioScreen,0,,4-nitrobenzaldehyde,MFCD00007346,480451,<rdkit.Chem.rdchem.Mol object at 0x0000020EE104B170>,36
+6050,151.12,C7H5NO3,151.12,[O-][N+](=O)c1ccccc1C=O,InterBioScreen,0,,2-nitrobenzaldehyde,MFCD00007132,529718,<rdkit.Chem.rdchem.Mol object at 0x0000020EE104BA70>,34
+6084,151.12,C7H5NO3,151.12,[O-][N+](=O)c1cccc(C=O)c1,InterBioScreen,0,,3-nitrobenzaldehyde,MFCD00007249,529722,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1056330>,33
+6194,152.15,C8H8O3,152.15,COc1cccc(C=O)c1O,InterBioScreen,0,,2-hydroxy-3-methoxybenzaldehyde,MFCD00003322,479465,<rdkit.Chem.rdchem.Mol object at 0x0000020EE105EEF0>,40
+6234,152.15,C8H8O3,152.15,COc1ccc(C=O)cc1O,InterBioScreen,0,,3-hydroxy-4-methoxybenzaldehyde,MFCD00003369,481778,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1063930>,46
+6280,152.15,C8H8O3,152.15,COc1ccc(O)c(C=O)c1,InterBioScreen,0,,2-hydroxy-5-methoxybenzaldehyde,MFCD00003332,482227,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10644F0>,44
+6324,152.15,C8H8O3,152.15,COc1ccc(C=O)c(O)c1,Alfa Aesar (US),0,,"2-Hydroxy-4-methoxybenzaldehyde, 98%",MFCD00003327,484247,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1067030>,47
+6371,152.15,C8H8O3,152.15,COc1cc(O)ccc1C=O,Alinda Chemical,0,,4-hydroxy-2-methoxybenzaldehyde,MFCD00051964,520674,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1067BF0>,41
+6412,152.15,C8H8O3,152.15,Cc1cc(O)cc(O)c1C=O,Aldlab Chemicals,0,,"2,4-Dihydroxy-6-methylbenzaldehyde",MFCD00033852,527368,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1069670>,34
+6446,152.15,C8H8O3,152.15,COc1cc(C=O)ccc1O,InterBioScreen,0,,4-hydroxy-3-methoxybenzaldehyde,MFCD00006942,533216,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1069EF0>,53
+6499,152.15,C8H8O3,152.15,COc1cccc(O)c1C=O,Alfa Aesar (US),0,,"2-Hydroxy-6-methoxybenzaldehyde, 98+%",MFCD00151830,815114,<rdkit.Chem.rdchem.Mol object at 0x0000020EE106CC70>,27
+6526,152.15,C8H8O3,152.15,COc1ccc(O)cc1C=O,Alinda Chemical,0,,5-hydroxy-2-methoxybenzaldehyde,MFCD03820046,6794894,<rdkit.Chem.rdchem.Mol object at 0x0000020EE106D370>,28
+6554,152.15,C8H8O3,152.15,OCc1ccc(O)c(C=O)c1,Alinda Chemical,0,,2-hydroxy-5-(hydroxymethyl)benzaldehyde,MFCD00456941,30489206,<rdkit.Chem.rdchem.Mol object at 0x0000020EE106DA70>,20
+6574,152.15,C8H8O3,152.15,COc1c(O)cccc1C=O,Aldlab Chemicals,0,,3-hydroxy-2-methoxybenzaldehyde,MFCD06656119,36729278,<rdkit.Chem.rdchem.Mol object at 0x0000020EE106DF70>,35
+6609,152.15,C8H8O3,152.15,Cc1c(O)ccc(C=O)c1O,Accela ChemBio (ASD),0,,4-Hydroxy-3-methylsalicylaldehyde,MFCD00156883,37036990,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1070870>,26
+6635,152.15,C8H8O3,152.15,Cc1cc(C=O)c(O)cc1O,BLD Pharmatech,0,,"2,4-Dihydroxy-5-methylbenzaldehyde",MFCD24673936,42618167,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1070EF0>,10
+6652,152.15,C8H8O3,152.15,COc1cc(O)cc(C=O)c1,Key Organics/BIONET,0,,3-Hydroxy-5-methoxybenzaldehyde,MFCD16998726,46015556,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1072370>,19
+6679,152.15,C8H8O3,152.15,Cc1cc(O)c(C=O)cc1O,Angene Chemical,0,,"2,5-DIHYDROXY-4-METHYL-BENZALDEHYDE",MFCD24675617,96160677,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1072A30>,11
+6706,152.17,C9H9FO,152.17,Cc1cc(C=O)cc(C)c1F,Alfa Aesar (US),0,,"4-Fluoro-3,5-dimethylbenzaldehyde, 97%",MFCD06660264,4849931,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1075130>,14
+6720,152.17,C9H9FO,152.17,Cc1cc(F)cc(C)c1C=O,Key Organics/BIONET,0,,"4-fluoro-2,6-dimethylbenzaldehyde",MFCD03701054,44386817,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10754B0>,20
+6793,152.21,C8H8OS,152.21,CSc1ccc(C=O)cc1,InterBioScreen,0,,4-(methylthio)benzaldehyde,MFCD00006948,489590,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1076730>,32
+6825,152.21,C8H8OS,152.21,CSc1ccccc1C=O,TCI America,0,,2-(Methylthio)benzaldehyde,MFCD00196822,517008,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1076F30>,14
+6839,152.21,C8H8OS,152.21,CSc1cccc(C=O)c1,ChemBridge,4002911,,3-(methylthio)benzaldehyde,MFCD09864229,18188593,<rdkit.Chem.rdchem.Mol object at 0x0000020EE107E2F0>,13
+6867,154.12,C7H6O4,154.12,Oc1cc(C=O)cc(O)c1O,Advamacs,0,,"Benzaldehyde, 3,4,5-trihydroxy- 98%",MFCD00003371,492738,<rdkit.Chem.rdchem.Mol object at 0x0000020EE107E9F0>,24
+6891,154.12,C7H6O4,154.12,Oc1ccc(C=O)c(O)c1O,Chem-Impex,26870,,"2,3,4-Trihydroxybenzaldehyde",MFCD00003325,492838,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1087030>,30
+6921,154.12,C7H6O4,154.12,Oc1cc(O)c(C=O)cc1O,Alfa Aesar (US),0,,"2,4,5-Trihydroxybenzaldehyde, 97%",MFCD00016592,514786,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10877B0>,16
+6937,154.12,C7H6O4,154.12,Oc1cc(O)c(C=O)c(O)c1,Alfa Aesar (US),0,,"2,4,6-Trihydroxybenzaldehyde, 95%",MFCD00003329,530477,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1087BB0>,42
+6979,154.14,C8H7FO2,154.14,COc1ccc(C=O)cc1F,ChemBridge,4303013,,3-fluoro-4-methoxybenzaldehyde,MFCD00003349,482818,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1092670>,45
+7024,154.14,C8H7FO2,154.14,COc1ccc(F)cc1C=O,Activate Scientific,0,,5-Fluoro-2-methoxybenzaldehyde,MFCD00143458,517006,<rdkit.Chem.rdchem.Mol object at 0x0000020EE109B1F0>,40
+7064,154.14,C8H7FO2,154.14,COc1ccc(C=O)c(F)c1,Alfa Aesar (US),0,,"2-Fluoro-4-methoxybenzaldehyde, 97%",MFCD00236679,517719,<rdkit.Chem.rdchem.Mol object at 0x0000020EE109BBF0>,38
+7102,154.14,C8H7FO2,154.14,COc1cccc(F)c1C=O,Alfa Aesar (US),0,,"2-Fluoro-6-methoxybenzaldehyde, 98%",MFCD01090998,518595,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10A75B0>,32
+7134,154.14,C8H7FO2,154.14,COc1ccc(F)c(C=O)c1,InterBioScreen,0,,2-fluoro-5-methoxybenzaldehyde,MFCD00070795,519184,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10A7DB0>,35
+7169,154.14,C8H7FO2,154.14,COc1cccc(C=O)c1F,Alfa Aesar (US),0,,"2-Fluoro-3-methoxybenzaldehyde, 97%",MFCD03411962,524385,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10B26B0>,29
+7198,154.14,C8H7FO2,154.14,COc1cc(C=O)ccc1F,Alinda Chemical,0,,4-fluoro-3-methoxybenzaldehyde,MFCD00143320,527425,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10B2DF0>,47
+7245,154.14,C8H7FO2,154.14,COc1cc(F)ccc1C=O,Alfa Aesar (US),0,,"4-Fluoro-2-methoxybenzaldehyde, 98%",MFCD00143318,909315,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10BE9F0>,34
+7279,154.14,C8H7FO2,154.14,COc1cc(F)cc(C=O)c1,Alfa Aesar (US),0,,"3-Fluoro-5-methoxybenzaldehyde, 98%",MFCD08741376,13312967,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10C82B0>,36
+7315,154.14,C8H7FO2,154.14,COc1c(F)cccc1C=O,Alfa Aesar (US),0,,"3-Fluoro-2-methoxybenzaldehyde, 96%",MFCD04112486,17395232,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10C8BB0>,22
+7346,154.14,C8H7FO2,154.14,Cc1cc(F)cc(C=O)c1O,"Combi-Blocks, Inc.",0,,5-Fluoro-2-hydroxy-3-methylbenzaldehyde,MFCD04039244,45490555,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10D43B0>,15
+7393,154.59,C8H7ClO,154.59,Cc1ccc(C=O)cc1Cl,Acros Organics,43669,,"3-Chloro-4-methylbenzaldehyde, 97%",MFCD06411284,521747,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10D4F70>,32
+7425,154.59,C8H7ClO,154.59,Cc1cccc(Cl)c1C=O,Alfa Aesar (US),0,,"2-Chloro-6-methylbenzaldehyde, 98%",MFCD01934409,930045,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10E07B0>,27
+7452,154.59,C8H7ClO,154.59,Cc1cc(Cl)ccc1C=O,Accela ChemBio (ASD),0,,4-Chloro-2-methylbenzaldehyde,MFCD02261735,1836720,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10E0E70>,41
+7493,154.59,C8H7ClO,154.59,Cc1cc(C=O)ccc1Cl,Rieke Metals,8041,,4-Chloro-3-methylbenzaldehyde,MFCD02261736,6248034,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10EA8F0>,39
+7532,154.59,C8H7ClO,154.59,Cc1c(Cl)cccc1C=O,Aldlab Chemicals,0,,"Benzaldehyde,3-chloro-2-methyl-",MFCD11047716,11553034,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10F32F0>,27
+7559,154.59,C8H7ClO,154.59,Cc1ccc(C=O)c(Cl)c1,Advamacs,0,,2-Chloro-4-methylbenzaldehyde 98%,MFCD10703515,24589063,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10F39B0>,26
+7585,154.59,C8H7ClO,154.59,Cc1cc(Cl)cc(C=O)c1,AOBChem USA,15285,,3-Chloro-5-methylbenzaldehyde,MFCD11553565,25033673,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10FE070>,28
+7613,154.59,C8H7ClO,154.59,Cc1ccc(Cl)cc1C=O,Aldlab Chemicals,0,,5-Chloro-2-methylbenzaldehyde,MFCD11111042,25679609,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10FE770>,31
+7644,154.59,C8H7ClO,154.59,ClCc1ccc(C=O)cc1,HE Chemical,1449960,,4-(Chloromethyl)benzaldehyde,MFCD00191396,30177339,<rdkit.Chem.rdchem.Mol object at 0x0000020EE10FEF30>,14
+7658,154.59,C8H7ClO,154.59,Cc1cccc(C=O)c1Cl,Accela ChemBio (ASD),0,,2-Chloro-3-methylbenzaldehyde,MFCD11845907,36763485,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11082F0>,23
+7681,154.59,C8H7ClO,154.59,Cc1ccc(Cl)c(C=O)c1,"Combi-Blocks, Inc.",0,,2-Chloro-5-methylbenzaldehyde,MFCD12025212,44680242,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11088B0>,18
+7704,154.59,C8H7ClO,154.59,ClCc1cccc(C=O)c1,Aldlab Chemicals,0,,"Benzaldehyde,3-(chloromethyl)-",MFCD19232727,50366427,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1108E70>,19
+7853,156.13,C8H6F2O,156.13,Cc1ccc(C=O)c(F)c1F,Alfa Aesar (US),0,,"2,3-Difluoro-4-methylbenzaldehyde, 97%",MFCD01631644,886300,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1125470>,23
+7876,156.13,C8H6F2O,156.13,Cc1ccc(F)c(C=O)c1F,Alfa Aesar (US),0,,"2,6-Difluoro-3-methylbenzaldehyde, 97+%",MFCD01631333,886614,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1125A30>,11
+7900,156.13,C8H6F2O,156.13,FC(F)c1cccc(C=O)c1,Aldlab Chemicals,0,,3-(Difluoromethyl)benzaldehyde,MFCD18791599,36095952,<rdkit.Chem.rdchem.Mol object at 0x0000020EE112F070>,16
+7916,156.13,C8H6F2O,156.13,FC(F)c1ccccc1C=O,Aldlab Chemicals,0,,2-(Difluoromethyl)benzaldehyde,MFCD16875639,36552882,<rdkit.Chem.rdchem.Mol object at 0x0000020EE112F470>,19
+7935,156.13,C8H6F2O,156.13,Cc1c(F)ccc(C=O)c1F,Aldlab Chemicals,0,,"2,4-Difluoro-3-methylbenzaldehyde",MFCD07777152,36761990,<rdkit.Chem.rdchem.Mol object at 0x0000020EE112F930>,26
+7961,156.13,C8H6F2O,156.13,Cc1cc(C=O)c(F)cc1F,"Combi-Blocks, Inc.",0,,"2,4-Difluoro-5-methylbenzaldehyde",MFCD12196967,36766470,<rdkit.Chem.rdchem.Mol object at 0x0000020EE112FFB0>,10
+7971,156.13,C8H6F2O,156.13,Cc1cc(F)c(C=O)c(F)c1,"Combi-Blocks, Inc.",0,,"2,6-Difluoro-4-methylbenzaldehyde",MFCD11847293,44391446,<rdkit.Chem.rdchem.Mol object at 0x0000020EE113A270>,20
+7991,156.13,C8H6F2O,156.13,Cc1c(F)cc(C=O)cc1F,AOBChem USA,30926,,"3,5-Difluoro-4-methylbenzaldehyde",MFCD24038601,45909464,<rdkit.Chem.rdchem.Mol object at 0x0000020EE113A770>,17
+8008,156.13,C8H6F2O,156.13,Cc1c(F)ccc(F)c1C=O,HE Chemical,402246,,"3,6-Difluoro-2-methylbenzaldehyde",MFCD16250132,48605056,<rdkit.Chem.rdchem.Mol object at 0x0000020EE113ABB0>,17
+8025,156.13,C8H6F2O,156.13,FC(F)c1ccc(C=O)cc1,Aldlab Chemicals,0,,"Benzaldehyde,4-(difluoromethyl)-",MFCD18072541,48671165,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1143030>,17
+8042,156.13,C8H6F2O,156.13,Cc1c(F)c(F)ccc1C=O,Frontier Scientific (Logan),0,,"3,4-Difluoro-2-methylbenzaldehyde",MFCD07777151,49239330,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1143470>,21
+8073,156.13,C8H6F2O,156.13,Cc1cc(F)c(C=O)cc1F,A1 Biochem Labs,0,,"2,5-Difluoro-4-methylbenzaldehyde",MFCD16250131,50490791,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1143C30>,11
+8113,156.18,C11H8O,156.18,O=Cc1cccc2ccccc12,InterBioScreen,0,,1-naphthaldehyde,MFCD00004003,529366,<rdkit.Chem.rdchem.Mol object at 0x0000020EE114E670>,29
+8142,156.18,C11H8O,156.18,O=Cc1ccc2ccccc2c1,Alfa Aesar (US),0,,"2-Naphthaldehyde, 98%",MFCD00004094,529370,<rdkit.Chem.rdchem.Mol object at 0x0000020EE114EDB0>,29
+8171,156.57,C7H5ClO2,156.57,Oc1ccc(C=O)c(Cl)c1,Accela ChemBio (ASD),0,,2-Chloro-4-hydroxybenzaldehyde,MFCD00052184,500049,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1153530>,38
+8209,156.57,C7H5ClO2,156.57,Oc1ccc(Cl)cc1C=O,Activate Scientific,0,,5-Chlorosalicylaldehyde,MFCD00003331,509066,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1153EB0>,42
+8251,156.57,C7H5ClO2,156.57,Oc1ccc(C=O)cc1Cl,Frontier Scientific (Logan),0,,3-Chloro-4-hydroxybenzaldehyde,MFCD00016981,526487,<rdkit.Chem.rdchem.Mol object at 0x0000020EE115B970>,41
+8292,156.57,C7H5ClO2,156.57,Oc1cccc(C=O)c1Cl,ChemScene,0,,2-Chloro-3-hydroxybenzaldehyde,MFCD06798118,526813,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11633F0>,25
+8317,156.57,C7H5ClO2,156.57,Oc1c(Cl)cccc1C=O,Accela ChemBio (ASD),0,,3-Chloro-2-hydroxybenzaldehyde,MFCD04973581,981276,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1163A30>,35
+8352,156.57,C7H5ClO2,156.57,Oc1cc(Cl)ccc1C=O,Activate Scientific,0,,4-Chloro-2-hydroxybenzaldehyde,MFCD06252499,6200216,<rdkit.Chem.rdchem.Mol object at 0x0000020EE116D330>,36
+8388,156.57,C7H5ClO2,156.57,Oc1cccc(Cl)c1C=O,Accela ChemBio (ASD),0,,6-Chlorosalicylaldehyde,MFCD01646166,6237265,<rdkit.Chem.rdchem.Mol object at 0x0000020EE116DC30>,45
+8433,156.57,C7H5ClO2,156.57,Oc1cc(Cl)cc(C=O)c1,"Combi-Blocks, Inc.",0,,3-Chloro-5-hydroxybenzaldehyde,MFCD08234659,33509587,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11767B0>,33
+8466,156.57,C7H5ClO2,156.57,Oc1ccc(Cl)c(C=O)c1,Accela ChemBio (ASD),0,,2-Chloro-5-hydroxybenzaldehyde,MFCD07783652,36027865,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1180030>,28
+8494,156.57,C7H5ClO2,156.57,Oc1cc(C=O)ccc1Cl,"Combi-Blocks, Inc.",0,,4-Chloro-3-hydroxy-benzaldehyde,MFCD16999770,42857725,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1180730>,29
+8566,157.17,C10H7NO,157.17,O=Cc1cccc2cccnc12,Maybridge,0,,8-quinolinecarbaldehyde,MFCD00805837,720064,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1188970>,50
+8616,157.17,C10H7NO,157.17,O=Cc1ccc2ncccc2c1,Tyger Scientific,0,,6-Quinolinecarboxaldehyde,MFCD00805836,724479,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1190630>,45
+8661,157.17,C10H7NO,157.17,O=Cc1ccc2cccnc2c1,ChemBridge,4300501,,7-quinolinecarbaldehyde,MFCD01366121,812078,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11921B0>,31
+8692,157.17,C10H7NO,157.17,O=Cc1cccc2ncccc12,ChemBridge,4300479,,quinoline-5-carbaldehyde,MFCD00805835,832948,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1192970>,38
+8730,157.17,C10H7NO,157.17,O=Cc1cccc2cnccc12,Accela ChemBio (ASD),0,,Isoquinoline-5-carbaldehyde,MFCD03412483,892013,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1195330>,48
+8778,157.17,C10H7NO,157.17,O=Cc1cccc2ccncc12,Chem-Impex,19424,,Isoquinoline-8-carbaldehyde,MFCD06227440,8295726,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1195F30>,36
+8814,157.17,C10H7NO,157.17,O=Cc1ccc2cnccc2c1,Frontier Scientific (Logan),0,,6-Formylisoquinoline,MFCD06227438,19160619,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1196870>,22
+8836,157.17,C10H7NO,157.17,O=Cc1ccc2ccncc2c1,"Combi-Blocks, Inc.",0,,7-Isoquinolinecarboxaldehyde,MFCD06227439,19160621,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1196DF0>,19
+8870,158.1,C7H4F2O2,158.1,Oc1c(F)cc(F)cc1C=O,"Combi-Blocks, Inc.",0,,"3,5-Difluoro-2-hydroxybenzaldehyde",MFCD04039224,512717,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11996B0>,27
+8897,158.1,C7H4F2O2,158.1,Oc1ccc(F)c(C=O)c1F,Alfa Aesar (US),0,,"2,6-Difluoro-3-hydroxybenzaldehyde, 95%",MFCD08275284,10918239,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1199D70>,25
+8922,158.1,C7H4F2O2,158.1,Oc1ccc(F)c(F)c1C=O,AOBChem USA,17241,,"2,3-Difluoro-6-hydroxybenzaldehyde",MFCD08275282,11472383,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11A13F0>,14
+8936,158.1,C7H4F2O2,158.1,Oc1cc(F)c(F)cc1C=O,Alfa Aesar (US),0,,"4,5-Difluorosalicylaldehyde, 98%",MFCD08458005,11472385,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11A1770>,29
+8965,158.1,C7H4F2O2,158.1,Oc1c(F)ccc(F)c1C=O,"Combi-Blocks, Inc.",0,,"3,6-Difluoro-2-hydroxybenzaldehyde",MFCD08275281,11472397,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11A1EB0>,18
+8983,158.1,C7H4F2O2,158.1,Oc1cc(F)c(C=O)c(F)c1,Alfa Aesar (US),0,,"2,6-Difluoro-4-hydroxybenzaldehyde, 95%",MFCD07772042,11472433,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11AB370>,30
+9013,158.1,C7H4F2O2,158.1,Oc1c(F)cc(C=O)cc1F,Alfa Aesar (US),0,,"3,5-Difluoro-4-hydroxybenzaldehyde, 99%",MFCD06797917,11473288,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11ABAF0>,34
+9047,158.1,C7H4F2O2,158.1,Oc1ccc(C=O)c(F)c1F,Aldlab Chemicals,0,,"2,3-Difluoro-4-hydroxybenzaldehyde",MFCD08235194,11473290,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11B33B0>,32
+9079,158.1,C7H4F2O2,158.1,Oc1cc(F)c(C=O)cc1F,Alfa Aesar (US),0,,"2,5-Difluoro-4-hydroxybenzaldehyde, 99%",MFCD04112521,29706640,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11B3BB0>,26
+9105,158.1,C7H4F2O2,158.1,Oc1c(F)c(F)ccc1C=O,Aldlab Chemicals,0,,"3,4-difluoro-2-hydroxy-benzaldehyde",MFCD08275283,36766448,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11BD270>,22
+9127,158.1,C7H4F2O2,158.1,Oc1cc(F)cc(F)c1C=O,"Combi-Blocks, Inc.",0,,"2,4-Difluoro-6-hydroxybenzaldehyde",MFCD03701048,37153760,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11BD7F0>,25
+9152,158.1,C7H4F2O2,158.1,Oc1c(F)ccc(C=O)c1F,Aldlab Chemicals,0,,"2,4-Difluoro-3-hydroxybenzaldehyde",MFCD12405741,42857786,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11BDE30>,22
+9174,158.1,C7H4F2O2,158.1,Oc1cc(C=O)cc(F)c1F,"Combi-Blocks, Inc.",0,,"4,5-Difluoro-3-hydroxybenzaldehyde",MFCD04972451,48575057,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11C63F0>,22
+9202,158.16,C9H6N2O,158.16,O=Cc1cccc2nccnc12,Accela ChemBio (ASD),0,,Quinoxaline-5-carbaldehyde,MFCD00805833,832952,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11C6AF0>,20
+9222,158.16,C9H6N2O,158.16,O=Cc1ccc2nccnc2c1,Frontier Scientific (Logan),0,,Quinoxaline-6-carboxaldehyde,MFCD00805834,832956,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11CE030>,41
+9263,158.16,C9H6N2O,158.16,O=Cc1ccc2ncncc2c1,Manchester Organics,0,,Quinazoline-6-carbaldehyde,MFCD12024550,44479255,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11CEA70>,10
+9273,158.16,C9H6N2O,158.16,O=Cc1cccc2cncnc12,"Combi-Blocks, Inc.",0,,Quinazoline-8-carbaldehyde,MFCD27923546,49256025,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11CECF0>,14
+9293,158.56,C7H4ClFO,158.56,Fc1cccc(Cl)c1C=O,InterBioScreen,0,,2-chloro-6-fluorobenzaldehyde,MFCD00003306,481292,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11CF230>,33
+9326,158.56,C7H4ClFO,158.56,Fc1ccc(C=O)cc1Cl,InterBioScreen,0,,3-chloro-4-fluorobenzaldehyde,MFCD00011735,496554,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11CFA70>,44
+9370,158.56,C7H4ClFO,158.56,Fc1ccc(C=O)c(Cl)c1,Activate Scientific,0,,2-Chloro-4-fluorobenzaldehyde,MFCD00042527,500249,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11D85B0>,37
+9407,158.56,C7H4ClFO,158.56,Fc1c(Cl)cccc1C=O,InterBioScreen,0,,3-chloro-2-fluorobenzaldehyde,MFCD01631571,516690,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11D8EF0>,40
+9447,158.56,C7H4ClFO,158.56,Fc1cc(C=O)ccc1Cl,Activate Scientific,0,,4-Chloro-3-fluorobenzaldehyde,MFCD00143288,518635,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11E1930>,40
+9487,158.56,C7H4ClFO,158.56,Fc1cc(Cl)cc(C=O)c1,Alfa Aesar (US),0,,"3-Chloro-5-fluorobenzaldehyde, 97%",MFCD02261734,567203,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11EB370>,38
+9525,158.56,C7H4ClFO,158.56,Fc1ccc(Cl)cc1C=O,InterBioScreen,0,,5-chloro-2-fluorobenzaldehyde,MFCD03094518,908286,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11EBCF0>,43
+9568,158.56,C7H4ClFO,158.56,Fc1ccc(Cl)c(C=O)c1,"Combi-Blocks, Inc.",0,,2-Chloro-5-fluorobenzaldehyde,MFCD03788511,912561,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11F37F0>,31
+9599,158.56,C7H4ClFO,158.56,Fc1cccc(C=O)c1Cl,Accela ChemBio (ASD),0,,2-Chloro-3-fluorobenzaldehyde,MFCD07782053,14090423,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11F3FB0>,36
+9635,158.56,C7H4ClFO,158.56,Fc1cc(Cl)ccc1C=O,InterBioScreen,0,,4-chloro-2-fluorobenzaldehyde,MFCD00143282,45493822,<rdkit.Chem.rdchem.Mol object at 0x0000020EE11FD8F0>,41
+9678,159.19,C10H9NO,159.19,Cn1ccc2ccc(C=O)cc12,Alinda Chemical,0,,1-methyl-1H-indole-6-carbaldehyde,MFCD08690251,985152,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12063F0>,36
+9714,159.19,C10H9NO,159.19,Cn1ccc2cc(C=O)ccc12,Alinda Chemical,0,,1-methyl-1H-indole-5-carbaldehyde,MFCD08271908,5849545,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1206CF0>,26
+9740,159.19,C10H9NO,159.19,Cn1ccc2c(C=O)cccc12,Aldlab Chemicals,0,,1-Methyl-1H-indole-4-carbaldehyde,MFCD08690261,5849653,<rdkit.Chem.rdchem.Mol object at 0x0000020EE120C3B0>,27
+9767,159.19,C10H9NO,159.19,Cn1ccc2cccc(C=O)c12,Maybridge,0,,1-methyl-1H-indole-7-carbaldehyde,MFCD11109329,24192026,<rdkit.Chem.rdchem.Mol object at 0x0000020EE120CA70>,21
+9826,160.09,C7H3F3O,160.09,Fc1ccc(C=O)c(F)c1F,InterBioScreen,0,,"2,3,4-trifluorobenzaldehyde",MFCD00061230,498155,<rdkit.Chem.rdchem.Mol object at 0x0000020EE120D970>,38
+9864,160.09,C7H3F3O,160.09,Fc1ccc(F)c(C=O)c1F,Alfa Aesar (US),0,,"2,3,6-Trifluorobenzaldehyde, 97%",MFCD00061195,509223,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1213330>,31
+9895,160.09,C7H3F3O,160.09,Fc1cc(C=O)cc(F)c1F,InterBioScreen,0,,"3,4,5-trifluorobenzaldehyde",MFCD00083523,517763,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1213AF0>,41
+9936,160.09,C7H3F3O,160.09,Fc1cc(F)c(C=O)cc1F,Alfa Aesar (US),0,,"2,4,5-Trifluorobenzaldehyde, 97%",MFCD00061196,517765,<rdkit.Chem.rdchem.Mol object at 0x0000020EE121C570>,32
+9968,160.09,C7H3F3O,160.09,Fc1cc(F)c(C=O)c(F)c1,Alfa Aesar (US),0,,"2,4,6-Trifluorobenzaldehyde, 97%",MFCD00061197,885184,<rdkit.Chem.rdchem.Mol object at 0x0000020EE121CD70>,36
+10004,160.09,C7H3F3O,160.09,Fc1cc(F)c(F)c(C=O)c1,Alfa Aesar (US),0,,"2,3,5-Trifluorobenzaldehyde, 97%",MFCD00083538,45490212,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12266B0>,30
+10034,160.17,C10H8O2,160.17,O=Cc1ccccc1OCC#C,Key Organics/BIONET,9,,2-(2-propynyloxy)benzenecarbaldehyde,MFCD02380378,441179,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1226E30>,31
+10065,160.17,C10H8O2,160.17,O=Cc1ccc(OCC#C)cc1,ChemBridge,4015099,,4-(prop-2-yn-1-yloxy)benzaldehyde,MFCD01088150,857881,<rdkit.Chem.rdchem.Mol object at 0x0000020EE122D630>,26
+10099,160.17,C10H8O2,160.17,O=Cc1cccc(OCC#C)c1,Aldlab Chemicals,0,,3-(2-Propyn-1-yloxy)benzaldehyde,MFCD05625818,1531988,<rdkit.Chem.rdchem.Mol object at 0x0000020EE122DEB0>,12
+10135,160.18,C9H8N2O,160.18,Cn1ncc2c(C=O)cccc12,Acros Organics,42934,,"1-Methyl-1H-indazole-4-carboxaldehyde, 95%",MFCD10699167,23909228,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12307F0>,29
+10164,160.18,C9H8N2O,160.18,Cn1ncc2cc(C=O)ccc12,Chem-Impex,24043,,1-Methyl-1H-indazole-5-carbaldehyde,MFCD11109365,24869742,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1230F30>,25
+10189,160.18,C9H8N2O,160.18,Cn1ncc2ccc(C=O)cc12,Chem-Impex,24044,,1-Methyl-1H-indazole-6-carbaldehyde,MFCD11109366,24869744,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12325B0>,33
+10222,160.18,C9H8N2O,160.18,Cn1ncc2cccc(C=O)c12,Chem-Impex,24045,,1-Methyl-1H-indazole-7-carbaldehyde,MFCD11111019,28220149,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1232DF0>,14
+10247,160.18,C9H8N2O,160.18,Cn1cnc2cc(C=O)ccc12,"Combi-Blocks, Inc.",0,,1-Methyl-1h-benzimidazole-5-carboxaldehyde,MFCD09261052,37153666,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1235470>,14
+10261,160.18,C9H8N2O,160.18,Cn1cc2c(C=O)cccc2n1,"Combi-Blocks, Inc.",0,,2-Methyl-2h-indazole-4-carboxaldehyde,MFCD21642049,48584477,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12357F0>,15
+10281,160.18,C9H8N2O,160.18,Cn1cc2cc(C=O)ccc2n1,Activate Scientific,0,,2-Methyl-2H-indazole-5-carbaldehyde,MFCD21642047,50367471,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1235CF0>,12
+10293,160.18,C9H8N2O,160.18,Cn1cc2ccc(C=O)cc2n1,Key Organics/BIONET,0,,2-methyl-2h-indazole-6-carboxaldehyde,MFCD21642051,50367479,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1236030>,16
+10309,160.18,C9H8N2O,160.18,Cn1cc2cccc(C=O)c2n1,"Combi-Blocks, Inc.",0,,2-Methyl-2h-indazole-7-carboxaldehyde,MFCD21642053,50367483,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1236430>,15
+10336,160.18,C9H8N2O,160.18,Cc1cc2[nH]ncc2cc1C=O,"Combi-Blocks, Inc.",0,,6-Methyl-1h-indazole-5-carbaldehyde,MFCD27987810,89940212,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1236AF0>,14
+10366,160.22,C11H12O,160.22,O=Cc1ccc2CCCCc2c1,Aldlab Chemicals,0,,"5,6,7,8-Tetrahydro-naphthalene-2-carbaldehyde",MFCD00017658,6251224,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12392B0>,24
+10390,160.22,C11H12O,160.22,O=Cc1cccc2CCCCc12,Aldlab Chemicals,0,,"5,6,7,8-Tetrahydronaphthalene-1-carbaldehyde",MFCD15474839,44689012,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12398B0>,26
+10418,160.22,C11H12O,160.22,O=Cc1ccc(cc1)C1CCC1,AOBChem USA,28579,,4-Cyclobutylbenzaldehyde,MFCD19440003,48598911,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1239FB0>,17
+10472,161.16,C9H7NO2,161.16,O=Cc1ccccc1OCC#N,Alinda Chemical,0,,(2-formylphenoxy)acetonitrile,MFCD01157218,846187,<rdkit.Chem.rdchem.Mol object at 0x0000020EE123BD70>,20
+10492,161.16,C9H7NO2,161.16,O=Cc1ccc(OCC#N)cc1,Alinda Chemical,0,,(4-formylphenoxy)acetonitrile,MFCD02629373,2866460,<rdkit.Chem.rdchem.Mol object at 0x0000020EE123E2B0>,26
+10518,161.16,C9H7NO2,161.16,COc1cc(ccc1C=O)C#N,Advamacs,0,,4-Formyl-3-methoxybenzonitrile 98%,MFCD07779491,30154350,<rdkit.Chem.rdchem.Mol object at 0x0000020EE123E930>,31
+10571,161.16,C9H7NO2,161.16,COc1ccc(C=O)c(c1)C#N,Advamacs,0,,2-Cyano-4-methoxybenzaldehyde 95%,MFCD08275456,36750882,<rdkit.Chem.rdchem.Mol object at 0x0000020EE123F6B0>,21
+10645,161.16,C9H7NO2,161.16,Cc1nc2ccc(C=O)cc2o1,"Combi-Blocks, Inc.",0,,2-Methylbenzo[d]oxazole-6-carbaldehyde,MFCD20528168,44469975,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1242970>,21
+10666,161.16,C9H7NO2,161.16,Cc1noc2ccc(C=O)cc12,Activate Scientific,0,,3-Methyl-benzo[d]isoxazole-5-carbaldehyde,MFCD18804969,44836428,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1242EB0>,10
+10676,161.16,C9H7NO2,161.16,COc1cc(C=O)ccc1C#N,Aldlab Chemicals,0,,4-ForMyl-2-Methoxybenzonitrile,MFCD16295254,45981006,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1244170>,28
+10751,161.16,C8H7N3O,161.16,Cn1nnc2cc(C=O)ccc12,Maybridge,0,,"1-methyl-1H-1,2,3-benzotriazole-5-carbaldehyde",MFCD03407337,720624,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1247470>,30
+10781,161.16,C8H7N3O,161.16,Cn1nnc2ccc(C=O)cc12,Enamine - UA Backorder,0,,"1-methyl-1H-1,2,3-benzotriazole-6-carbaldehyde",MFCD21099500,48673595,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1247BF0>,11
+10820,161.2,C10H11NO,161.2,CN1CCc2cc(C=O)ccc12,Maybridge,0,,1-methylindoline-5-carbaldehyde,MFCD03208513,10919906,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12485F0>,18
+10921,162.15,C8H6N2O2,162.15,O=Cc1ccc2[nH]c(=O)[nH]c2c1,HTS Biochemie,0,,"2-oxo-2,3-dihydro-1H-benzimidazole-5-carbaldehyde",MFCD18807917,37541697,<rdkit.Chem.rdchem.Mol object at 0x0000020EE124BF70>,25
+10977,162.19,C10H10O2,162.19,C=CCOc1ccccc1C=O,Alinda Chemical,0,,2-(allyloxy)benzaldehyde,MFCD00014130,508846,<rdkit.Chem.rdchem.Mol object at 0x0000020EE124DDB0>,35
+11012,162.19,C10H10O2,162.19,C=CCOc1ccc(C=O)cc1,InterBioScreen,0,,4-(allyloxy)benzaldehyde,MFCD00014133,519424,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12506B0>,25
+11037,162.19,C10H10O2,162.19,Oc1cccc(C=O)c1CC=C,Maybridge,0,,2-allyl-3-hydroxybenzaldehyde,MFCD00100646,725944,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1250CF0>,24
+11061,162.19,C10H10O2,162.19,Oc1c(CC=C)cccc1C=O,Tyger Scientific,0,,3-Allylsalicylaldehyde,MFCD00037364,836834,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1251330>,26
+11087,162.19,C10H10O2,162.19,C=CCOc1cccc(C=O)c1,Aldlab Chemicals,0,,3-(Allyloxy)benzaldehyde,MFCD04227161,2860930,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12519B0>,41
+11128,162.19,C10H10O2,162.19,O=Cc1ccc2OCCCc2c1,Maybridge,0,,chroman-6-carbaldehyde,MFCD08146589,5769625,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1254430>,26
+11154,162.19,C10H10O2,162.19,CC1Cc2cc(C=O)ccc2O1,ChemBridge,4017150,,"2-methyl-2,3-dihydro-1-benzofuran-5-carbaldehyde",MFCD06255192,6899567,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1254AB0>,18
+11179,162.19,C10H10O2,162.19,O=Cc1cccc2CCCOc12,Angene Chemical,0,,chroman-8-carbaldehyde,MFCD12198125,28199636,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1256130>,20
+11288,162.21,C9H6OS,162.21,O=Cc1ccc2sccc2c1,Maybridge,0,,1-benzothiophene-5-carbaldehyde,MFCD05663673,724568,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1259CB0>,21
+11309,162.21,C9H6OS,162.21,O=Cc1cccc2ccsc12,Chem-Impex,26259,,Benzo[b]thiophene-7-carboxaldehyde,MFCD08572207,4351126,<rdkit.Chem.rdchem.Mol object at 0x0000020EE125C230>,20
+11329,162.21,C9H6OS,162.21,O=Cc1cccc2sccc12,Activate Scientific,0,,Benzo[b]thiophene-4-carbaldehyde,MFCD18432490,43608283,<rdkit.Chem.rdchem.Mol object at 0x0000020EE125C730>,18
+11347,162.21,C9H6OS,162.21,O=Cc1ccc2ccsc2c1,"Combi-Blocks, Inc.",0,,Benzo[b]thiophene-6-carbaldehyde,MFCD18451824,44847645,<rdkit.Chem.rdchem.Mol object at 0x0000020EE125CBB0>,12
+11359,162.23,C11H14O,162.23,CC(C)(C)c1ccc(C=O)cc1,InterBioScreen,0,,4-(tert-butyl)benzaldehyde,MFCD00035742,487389,<rdkit.Chem.rdchem.Mol object at 0x0000020EE125CEB0>,37
+11396,162.23,C11H14O,162.23,CCCCc1ccc(C=O)cc1,Alfa Aesar (US),0,,"4-n-Butylbenzaldehyde, 97%",MFCD00040751,516531,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1267830>,15
+11417,162.23,C11H14O,162.23,CC(C)Cc1ccc(C=O)cc1,TCI America,0,,4-Isobutylbenzaldehyde,MFCD00075760,2728881,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1267D70>,24
+11441,162.23,C11H14O,162.23,CC(C)(C)c1cccc(C=O)c1,Platte Valley Scientific,0,,3-tert-Butylbenzaldehyde,MFCD11100027,11552441,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12693B0>,22
+11654,163.19,C8H5NOS,163.19,O=Cc1ccc2ncsc2c1,Aldlab Chemicals,0,,6-Benzothiazolecarboxaldehyde,MFCD03086101,32279377,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1272930>,23
+11677,163.19,C8H5NOS,163.19,O=Cc1ccc2scnc2c1,"Combi-Blocks, Inc.",0,,5-Benzothiazolecarboxaldehyde,MFCD11858591,43219767,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1272EF0>,20
+11697,163.19,C8H5NOS,163.19,O=Cc1cccc2ncsc12,"Combi-Blocks, Inc.",0,,Benzo[d]thiazole-7-carbaldehyde,MFCD18822744,44388294,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1278430>,18
+11741,163.22,C10H13NO,163.22,CN(C)c1ccc(C=O)c(C)c1,Alinda Chemical,0,,4-(dimethylamino)-2-methylbenzaldehyde,MFCD00043519,1014502,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1278F30>,19
+11760,163.22,C10H13NO,163.22,CN(C)Cc1cccc(C=O)c1,Alinda Chemical,0,,3-[(dimethylamino)methyl]benzaldehyde,MFCD08060612,5415351,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1282430>,13
+11773,163.22,C10H13NO,163.22,CN(C)Cc1ccc(C=O)cc1,Alinda Chemical,0,,4-[(dimethylamino)methyl]benzaldehyde,MFCD06800601,5415353,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1282770>,15
+11788,163.22,C10H13NO,163.22,CCN(C)c1ccc(C=O)cc1,ChemBridge,4028755,,4-[ethyl(methyl)amino]benzaldehyde,MFCD09864610,18189456,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1282B30>,10
+11798,163.22,C10H13NO,163.22,CN(C)Cc1ccccc1C=O,Alinda Chemical,0,,2-[(dimethylamino)methyl]benzaldehyde,MFCD08060611,30076170,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1282DB0>,12
+11810,163.22,C10H13NO,163.22,CN(C)c1ccc(C=O)cc1C,"Combi-Blocks, Inc.",0,,4-(Dimethylamino)-3-methylbenzaldehyde,MFCD01313806,31525983,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12830F0>,20
+11972,164.13,C9H5FO2,164.13,Fc1ccc(C=O)c2occc12,"Combi-Blocks, Inc.",0,,4-Fluorobenzofuran-7-carbaldehyde,MFCD11052336,23804215,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12889F0>,25
+12003,164.13,C9H5FO2,164.13,Fc1ccc2occc2c1C=O,"Combi-Blocks, Inc.",0,,"4-Benzofurancarboxaldehyde, 5-fluoro-",MFCD18819778,64089778,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12901F0>,14
+12029,164.14,C8H5FN2O,164.14,Fc1cc2[nH]ncc2cc1C=O,"Combi-Blocks, Inc.",0,,6-Fluoro-1h-indazole-5-carbaldehyde,MFCD16658672,44404425,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1290870>,15
+12064,164.16,C9H8O3,164.16,CC(=O)Oc1ccc(C=O)cc1,Accela ChemBio (ASD),0,,4-Acetoxybenzaldehyde,MFCD00003384,491142,<rdkit.Chem.rdchem.Mol object at 0x0000020EE129A170>,20
+12084,164.16,C9H8O3,164.16,COC(=O)c1ccc(C=O)cc1,InterBioScreen,0,,methyl 4-formylbenzoate,MFCD00006950,491312,<rdkit.Chem.rdchem.Mol object at 0x0000020EE129A670>,50
+12134,164.16,C9H8O3,164.16,O=Cc1ccc2OCCOc2c1,InterBioScreen,0,,"2,3-dihydrobenzo[b][1,4]dioxine-6-carbaldehyde",MFCD00010092,493195,<rdkit.Chem.rdchem.Mol object at 0x0000020EE129D330>,54
+12213,164.16,C9H8O3,164.16,COC(=O)c1cccc(C=O)c1,Accela ChemBio (ASD),0,,Methyl 3-Formylbenzoate,MFCD00189379,513302,<rdkit.Chem.rdchem.Mol object at 0x0000020EE129F730>,39
+12260,164.16,C9H8O3,164.16,CC(=O)Oc1cccc(C=O)c1,Alfa Aesar (US),0,,"3-Acetoxybenzaldehyde, 97%",MFCD00016603,617609,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A2330>,23
+12283,164.16,C9H8O3,164.16,COC(=O)c1ccccc1C=O,Maybridge,0,,methyl 2-formylbenzoate,MFCD00204231,723278,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A28F0>,42
+12325,164.16,C9H8O3,164.16,O=Cc1cccc2OCCOc12,Maybridge,0,,"2,3-dihydro-1,4-benzodioxine-5-carbaldehyde",MFCD00239451,723403,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A33B0>,17
+12369,164.16,C9H8O3,164.16,OC(=O)Cc1ccc(C=O)cc1,Accela ChemBio (ASD),0,,2-(4-Formylphenyl)acetic Acid,MFCD09998872,36762364,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A3EB0>,15
+12388,164.16,C9H8O3,164.16,Cc1cc(C=O)ccc1C(O)=O,"Combi-Blocks, Inc.",0,,4-Formyl-2-methylbenzoic acid,MFCD20646141,43481355,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A63B0>,19
+12411,164.16,C9H8O3,164.16,Cc1cc(ccc1C=O)C(O)=O,"Combi-Blocks, Inc.",0,,4-Formyl-3-methylbenzoic acid,MFCD20660431,44814031,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A6970>,12
+12423,164.16,C9H8O3,164.16,OC(=O)Cc1cccc(C=O)c1,"Combi-Blocks, Inc.",0,,2-(3-Formylphenyl)acetic acid,MFCD20638515,45983609,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A6C70>,18
+12441,164.16,C9H8O3,164.16,Cc1ccc(cc1C=O)C(O)=O,Accela ChemBio (ASD),0,,3-Formyl-4-methylbenzoic Acid,MFCD20660432,48606231,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A8130>,18
+12459,164.16,C9H8O3,164.16,Cc1cc(C=O)cc(c1)C(O)=O,"Combi-Blocks, Inc.",0,,3-Formyl-5-methylbenzoic acid,MFCD20645804,49832047,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A85B0>,13
+12472,164.16,C9H8O3,164.16,OC(=O)Cc1ccccc1C=O,ChemScene,0,,2-(2-Formylphenyl)acetic acid,MFCD01026106,49844490,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A88F0>,10
+12482,164.16,C9H8O3,164.16,Cc1ccc(C=O)cc1C(O)=O,HE Chemical,1450094,,5-Formyl-2-methylbenzoic acid,MFCD26673176,50413655,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12A8B70>,17
+12539,164.18,C10H9FO,164.18,Fc1ccc(C=O)cc1C1CC1,AOBChem USA,22309,,3-Cyclopropyl-4-fluorobenzaldehyde,MFCD16778849,39112829,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12AB9F0>,13
+12574,164.18,C7H4N2OS,164.18,O=Cc1cccc2nsnc12,Maybridge,0,,"2,1,3-benzothiadiazole-4-carbaldehyde",MFCD02681902,720148,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12AC2F0>,24
+12598,164.18,C7H4N2OS,164.18,O=Cc1ccc2nsnc2c1,Alinda Chemical,0,,"2,1,3-benzothiadiazole-5-carbaldehyde",MFCD00457949,720166,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12AC8F0>,28
+12636,164.2,C10H12O2,164.2,COc1ccc(C=O)c(C)c1C,Advamacs,0,,"4-Methoxy-2,3-dimethylbenzaldehyde 97%",MFCD00003339,483041,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12B52B0>,26
+12662,164.2,C10H12O2,164.2,COc1cc(C)c(C=O)cc1C,Vitas M Labs,0,,"4-methoxy-2,5-dimethylbenzaldehyde",MFCD00003343,483049,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12B5930>,22
+12684,164.2,C10H12O2,164.2,CCCOc1ccc(C=O)cc1,InterBioScreen,0,,4-propoxybenzaldehyde,MFCD00014134,498445,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12B5EB0>,33
+12717,164.2,C10H12O2,164.2,CCCOc1ccccc1C=O,Alinda Chemical,0,,2-propoxybenzaldehyde,MFCD00046150,626489,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12B8730>,19
+12736,164.2,C10H12O2,164.2,CC(C)Oc1ccccc1C=O,Aldlab Chemicals,0,,2-Isopropoxybenzaldehyde,MFCD01571834,626507,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12B8BF0>,31
+12767,164.2,C10H12O2,164.2,CC(C)Oc1ccc(C=O)cc1,InterBioScreen,0,,4-isopropoxybenzaldehyde,MFCD00052357,717107,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12BB3F0>,40
+12807,164.2,C10H12O2,164.2,CCCOc1cccc(C=O)c1,Alinda Chemical,0,,3-propoxybenzaldehyde,MFCD01993679,836774,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12BBDF0>,28
+12835,164.2,C10H12O2,164.2,CC(C)Oc1cccc(C=O)c1,Alinda Chemical,0,,3-isopropoxybenzaldehyde,MFCD01922005,1012824,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12BC530>,32
+12867,164.2,C10H12O2,164.2,CC(C)c1ccc(O)c(C=O)c1,Aldlab Chemicals,0,,2-hydroxy-5-propan-2-ylbenzaldehyde,MFCD06739518,5412865,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12BCD30>,16
+12883,164.2,C10H12O2,164.2,COc1c(C)cc(C)cc1C=O,ChemBridge,4016822,,"2-methoxy-3,5-dimethylbenzaldehyde",MFCD06247962,5765421,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12BF170>,10
+12893,164.2,C10H12O2,164.2,COc1c(C)cc(C=O)cc1C,Rieke Metals,8061,,"4-Methoxy-3,5-dimethylbenzaldehyde",MFCD02261755,5765449,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12BF3F0>,38
+12931,164.2,C10H12O2,164.2,COc1cc(C)c(C=O)c(C)c1,Aldlab Chemicals,0,,"4-Methoxy-2,6-dimethylbenzaldehyde",MFCD04971199,13728366,<rdkit.Chem.rdchem.Mol object at 0x0000020EE12BFD70>,30
+12967,164.2,C10H12O2,164.2,CCOc1ccc(C=O)c(C)c1,Bio-Farma,0,,4-ethoxy-2-methylbenzaldehyde,MFCD06247360,18622697,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19416B0>,14
+12987,164.2,C10H12O2,164.2,CCOc1ccc(C)cc1C=O,AOBChem USA,32548,,2-Ethoxy-5-methylbenzaldehyde,MFCD06247359,30423532,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1941BB0>,13
+13028,164.2,C10H12O2,164.2,CCOc1cc(C=O)ccc1C,AOBChem USA,14249,,3-Ethoxy-4-methylbenzaldehyde,MFCD18375378,46106241,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1944630>,12
+13044,164.2,C10H12O2,164.2,CC(C)c1ccc(C=O)c(O)c1,Aldlab Chemicals,0,,2-Hydroxy-4-isopropylbenzaldehyde,MFCD16997144,48606303,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1944A30>,18
+13062,164.2,C10H12O2,164.2,COc1cc(C)cc(C)c1C=O,AstaTech,95641,,"2-METHOXY-4,6-DIMETHYLBENZALDEHYDE",MFCD22415104,49199871,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1944EB0>,11
+13155,165.15,C8H7NO3,165.15,Cc1ccc(C=O)c(c1)[N+]([O-])=O,Sinova,0,,4-Methyl-2-nitro-benzaldehyde,MFCD08669895,35186,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1948670>,30
+13185,165.15,C8H7NO3,165.15,Cc1ccc(C=O)cc1[N+]([O-])=O,Alfa Aesar (US),0,,"4-Methyl-3-nitrobenzaldehyde, 98%",MFCD00017011,516551,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1948DF0>,31
+13216,165.15,C8H7NO3,165.15,Cc1ccc(cc1C=O)[N+]([O-])=O,"Combi-Blocks, Inc.",0,,2-Methyl-5-nitrobenzaldehyde,MFCD03840506,4352916,<rdkit.Chem.rdchem.Mol object at 0x0000020EE194D5F0>,28
+13244,165.15,C8H7NO3,165.15,Cc1c(C=O)cccc1[N+]([O-])=O,Aldlab Chemicals,0,,2-METHYL-3-NITROBENZALDEHYDE,MFCD07772901,7415974,<rdkit.Chem.rdchem.Mol object at 0x0000020EE194DCF0>,12
+13264,165.15,C8H7NO3,165.15,Cc1ccc(c(C=O)c1)[N+]([O-])=O,Aldlab Chemicals,0,,5-methyl-2-nitrobenzaldehyde,MFCD08703362,29542227,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1950230>,21
+13285,165.15,C8H7NO3,165.15,Cc1cccc(C=O)c1[N+]([O-])=O,Aldlab Chemicals,0,,3-methyl-2-nitrobenzaldehyde,MFCD08703364,30156734,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1950770>,13
+13298,165.15,C8H7NO3,165.15,Cc1cc(C=O)ccc1[N+]([O-])=O,Bio-Farma,0,,3-methyl-4-nitrobenzaldehyde,MFCD08445621,30548666,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1950AB0>,30
+13330,165.15,C8H7NO3,165.15,Cc1cc(C=O)cc(c1)[N+]([O-])=O,"Combi-Blocks, Inc.",0,,3-Methyl-5-nitrobenzaldehyde,MFCD18399644,46014425,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19512F0>,11
+13341,165.15,C8H7NO3,165.15,Cc1cc(ccc1C=O)[N+]([O-])=O,Accela ChemBio (ASD),0,,2-Methyl-4-nitrobenzaldehyde,MFCD12755933,46573306,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19515B0>,16
+13373,165.19,C9H11NO2,165.19,CN(C)c1ccc(C=O)c(O)c1,Aldlab Chemicals,0,,4-(Dimethylamino)-2-hydroxybenzaldehyde,MFCD00027419,33503713,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1951DB0>,26
+13416,165.58,C8H4ClNO,165.58,Clc1cccc(C=O)c1C#N,"Combi-Blocks, Inc.",0,,2-Chloro-6-formylbenzonitrile,MFCD10699534,31525940,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19548B0>,20
+13436,165.58,C8H4ClNO,165.58,Clc1ccc(cc1C=O)C#N,"Combi-Blocks, Inc.",0,,4-Chloro-3-formylbenzonitrile,MFCD11035756,32179519,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1954DB0>,28
+13464,165.58,C8H4ClNO,165.58,Clc1ccc(C#N)c(C=O)c1,Accela ChemBio (ASD),0,,4-Chloro-2-formylbenzonitrile,MFCD10699537,33511544,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19594F0>,14
+13478,165.58,C8H4ClNO,165.58,Clc1ccc(C=O)c(c1)C#N,"Combi-Blocks, Inc.",0,,5-Chloro-2-formylbenzonitrile,MFCD10699538,33511546,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1959870>,23
+13501,165.58,C8H4ClNO,165.58,Clc1c(C=O)cccc1C#N,"Combi-Blocks, Inc.",0,,2-Chloro-3-cyanobenzaldehyde,MFCD08460147,42767357,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1959E30>,25
+13526,165.58,C8H4ClNO,165.58,Clc1cc(C=O)cc(c1)C#N,"Combi-Blocks, Inc.",0,,3-Chloro-5-formylbenzonitrile,MFCD18392412,43338596,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19634B0>,21
+13547,165.58,C8H4ClNO,165.58,Clc1ccc(C=O)cc1C#N,"Combi-Blocks, Inc.",0,,2-Chloro-5-formylbenzonitrile,MFCD18392413,44817518,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19639F0>,16
+13563,165.58,C8H4ClNO,165.58,Clc1cccc(C#N)c1C=O,"Combi-Blocks, Inc.",0,,3-Chloro-2-formylbenzonitrile,MFCD16251143,49787868,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1963DF0>,11
+13574,165.58,C8H4ClNO,165.58,Clc1cc(ccc1C=O)C#N,AstaTech,0,,2-CHLORO-4-CYANOBENZALDEHYDE,MFCD11036376,49824425,<rdkit.Chem.rdchem.Mol object at 0x0000020EE196B0F0>,18
+13592,165.58,C8H4ClNO,165.58,Clc1cc(C=O)ccc1C#N,Frontier Scientific (Logan),0,,2-Chloro-4-formylbenzonitrile,MFCD18392411,50438967,<rdkit.Chem.rdchem.Mol object at 0x0000020EE196B570>,16
+13638,166.13,C8H6O4,166.13,OC(=O)c1cc(C=O)ccc1O,Alinda Chemical,0,,5-formyl-2-hydroxybenzoic acid,MFCD00006945,513214,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1972130>,31
+13669,166.13,C8H6O4,166.13,OC(=O)c1ccc(C=O)c(O)c1,Key Organics/BIONET,0,,4-Formyl-3-hydroxybenzoic acid,MFCD05865188,525402,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19728F0>,28
+13697,166.13,C8H6O4,166.13,OC(=O)c1ccc(O)c(C=O)c1,Advamacs,0,,3-Formyl-4-hydroxybenzoic acid 95+%,MFCD00016595,525404,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1974030>,35
+13732,166.13,C8H6O4,166.13,OC(=O)c1cccc(C=O)c1O,Acros Organics,37707,,"3-Formylsalicylic acid hydrate, 97%",MFCD00143165,719103,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19748F0>,21
+13754,166.13,C8H6O4,166.13,Oc1cc2OCOc2cc1C=O,Bio-Farma,0,,"6-hydroxy-2H-1,3-benzodioxole-5-carbaldehyde",MFCD09864084,11245004,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1974E70>,14
+13817,166.13,C8H6O4,166.13,OC(=O)c1ccc(C=O)cc1O,Key Organics/BIONET,0,,4-formyl-2-hydroxybenzoic acid,MFCD16999740,53899461,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1977E70>,11
+13949,166.18,C9H10O3,166.18,CCOc1cc(C=O)ccc1O,InterBioScreen,0,,3-ethoxy-4-hydroxybenzaldehyde,MFCD00006944,475326,<rdkit.Chem.rdchem.Mol object at 0x0000020EE197D030>,44
+13993,166.18,C9H10O3,166.18,COc1cc(OC)cc(C=O)c1,InterBioScreen,0,,"3,5-dimethoxybenzaldehyde",MFCD00003366,479955,<rdkit.Chem.rdchem.Mol object at 0x0000020EE197DB30>,49
+14042,166.18,C9H10O3,166.18,COc1ccc(C=O)cc1OC,InterBioScreen,0,,"3,4-dimethoxybenzaldehyde",MFCD00003363,481790,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19807B0>,52
+14094,166.18,C9H10O3,166.18,CCOc1cccc(C=O)c1O,Vitas M Labs,0,,3-ethoxy-2-hydroxybenzaldehyde,MFCD00003323,484269,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19814F0>,26
+14120,166.18,C9H10O3,166.18,COc1cccc(OC)c1C=O,Alfa Aesar (US),0,,"2,6-Dimethoxybenzaldehyde, 99%",MFCD00010862,495370,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1981B70>,40
+14160,166.18,C9H10O3,166.18,COc1cccc(C=O)c1OC,Accela ChemBio (ASD),0,,"2,3-Dimethoxybenzaldehyde",MFCD00003309,503483,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19845B0>,46
+14206,166.18,C9H10O3,166.18,COc1ccc(C=O)c(OC)c1,Vitas M Labs,0,,"2,4-dimethoxybenzaldehyde",MFCD00003311,503497,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1986170>,48
+14254,166.18,C9H10O3,166.18,COc1ccc(OC)c(C=O)c1,InterBioScreen,0,,"2,5-dimethoxybenzaldehyde",MFCD00003314,503509,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1986D70>,35
+14289,166.18,C9H10O3,166.18,COc1cc(C)c(C=O)c(O)c1,Accela ChemBio (ASD),0,,4-Methoxy-6-methylsalicylaldehyde,MFCD06496263,828468,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1989670>,19
+14308,166.18,C9H10O3,166.18,OCCOc1cccc(C=O)c1,Alinda Chemical,0,,3-(2-hydroxyethoxy)benzaldehyde,MFCD00191448,859915,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1989B30>,18
+14326,166.18,C9H10O3,166.18,OCCOc1ccc(C=O)cc1,Alinda Chemical,0,,4-(2-hydroxyethoxy)benzaldehyde,MFCD00191450,859917,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1989FB0>,27
+14353,166.18,C9H10O3,166.18,OCCOc1ccccc1C=O,Angene Chemical,0,,2-(2-HYDROXYETHOXY)BENZALDEHYDE,MFCD00191449,859921,<rdkit.Chem.rdchem.Mol object at 0x0000020EE198A6B0>,11
+14369,166.18,C9H10O3,166.18,CCOc1ccc(O)c(C=O)c1,Vitas M Labs,0,,5-ethoxy-2-hydroxybenzaldehyde,MFCD05039365,1405704,<rdkit.Chem.rdchem.Mol object at 0x0000020EE198AAB0>,13
+14382,166.18,C9H10O3,166.18,CCOc1ccc(C=O)c(O)c1,Accela ChemBio (ASD),0,,4-Ethoxysalicylaldehyde,MFCD03032734,2852811,<rdkit.Chem.rdchem.Mol object at 0x0000020EE198ADF0>,29
+14452,166.18,C9H10O3,166.18,CCOc1cc(O)cc(C=O)c1,"Combi-Blocks, Inc.",0,,3-Ethoxy-5-hydroxybenzaldehyde,MFCD20485677,44846784,<rdkit.Chem.rdchem.Mol object at 0x0000020EE198DFB0>,15
+14633,167.12,C8H3F2NO,167.12,Fc1cc(cc(F)c1C=O)C#N,AstaTech,54279,,"3,5-DIFLUORO-4-FORMYLBENZONITRILE",MFCD08457661,528960,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1993DB0>,27
+14660,167.12,C8H3F2NO,167.12,Fc1ccc(C#N)c(F)c1C=O,Advamacs,0,,"Benzonitrile, 2,4-difluoro-3-formyl- 95+%",MFCD09907858,36008975,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19994B0>,15
+14675,167.12,C8H3F2NO,167.12,Fc1cc(C=O)cc(F)c1C#N,"Combi-Blocks, Inc.",0,,"2,6-Difluoro-4-formylbenzonitrile",MFCD09263470,36761996,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1999870>,31
+14732,167.12,C8H3F2NO,167.12,Fc1cc(F)c(cc1C=O)C#N,"Combi-Blocks, Inc.",0,,"2,4-Difluoro-5-formylbenzonitrile",MFCD19440211,50479845,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19A26F0>,23
+14761,167.12,C7H5NO4,167.12,Oc1ccc(C=O)cc1[N+]([O-])=O,Vitas M Labs,0,,4-hydroxy-3-nitrobenzaldehyde,MFCD00007117,481872,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19A2E30>,37
+14798,167.12,C7H5NO4,167.12,Oc1cc(C=O)ccc1[N+]([O-])=O,Acros Organics,16856,,"3-Hydroxy-4-nitrobenzaldehyde, 97%",MFCD00007109,483817,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19AC7B0>,37
+14835,167.12,C7H5NO4,167.12,Oc1ccc(cc1C=O)[N+]([O-])=O,InterBioScreen,0,,2-hydroxy-5-nitrobenzaldehyde,MFCD00007337,493843,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19B5130>,42
+14877,167.12,C7H5NO4,167.12,Oc1c(C=O)cccc1[N+]([O-])=O,Vitas M Labs,0,,2-hydroxy-3-nitrobenzaldehyde,MFCD00041874,517482,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19B5BB0>,33
+14910,167.12,C7H5NO4,167.12,Oc1ccc(c(C=O)c1)[N+]([O-])=O,Activate Scientific,0,,5-Hydroxy-2-nitrobenzaldehyde,MFCD00007332,521331,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19C0430>,39
+14949,167.12,C7H5NO4,167.12,Oc1cc(ccc1C=O)[N+]([O-])=O,"Combi-Blocks, Inc.",0,,2-Hydroxy-4-nitrobenzaldehyde,MFCD00049373,7404107,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19C0DF0>,35
+14989,167.12,C7H5NO4,167.12,Oc1cccc(C=O)c1[N+]([O-])=O,Angene Chemical,0,,3-HYDROXY-2-NITROBENZALDEHYDE,MFCD09753744,44468692,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19C9830>,15
+15006,167.12,C7H5NO4,167.12,Oc1ccc(C=O)c(c1)[N+]([O-])=O,"Combi-Blocks, Inc.",0,,4-Hydroxy-2-nitrobenzaldehyde,MFCD18397317,49849073,<rdkit.Chem.rdchem.Mol object at 0x0000020EE19C9C70>,16
+15350,168.12,C8H5FO3,168.12,OC(=O)c1ccc(F)c(C=O)c1,Maybridge,0,,4-Fluoro-3-formyl-benzoic acid,MFCD06411555,724696,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A073F0>,32
+15382,168.12,C8H5FO3,168.12,OC(=O)c1cc(C=O)ccc1F,Maybridge,0,,2-fluoro-5-formylbenzoic acid,MFCD04972875,5850077,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A07BF0>,39
+15421,168.12,C8H5FO3,168.12,OC(=O)c1cc(F)ccc1C=O,Princeton BioMolecular Research,0,,5-fluoro-2-formylbenzoic acid,MFCD11053106,36763361,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A125F0>,21
+15442,168.12,C8H5FO3,168.12,OC(=O)c1ccc(C=O)cc1F,"Combi-Blocks, Inc.",0,,2-Fluoro-4-formylbenzoic acid,MFCD12026481,45492673,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A12B30>,15
+15457,168.12,C8H5FO3,168.12,OC(=O)c1cccc(C=O)c1F,"Combi-Blocks, Inc.",0,,2-Fluoro-3-formylbenzoic acid,MFCD20526383,45980768,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A12EF0>,28
+15485,168.12,C8H5FO3,168.12,OC(=O)c1ccc(C=O)c(F)c1,"Combi-Blocks, Inc.",0,,3-Fluoro-4-formylbenzoic acid,MFCD20483546,48573391,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A1C630>,16
+15501,168.12,C8H5FO3,168.12,OC(=O)c1cc(F)cc(C=O)c1,"Combi-Blocks, Inc.",0,,3-Fluoro-5-formylbenzoic acid,MFCD22544368,48606465,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A1CA30>,18
+15519,168.12,C8H5FO3,168.12,OC(=O)c1c(F)cccc1C=O,HE Chemical,409830,,2-Fluoro-6-formylbenzoic acid,MFCD28357171,50492645,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A1CEB0>,16
+15535,168.12,C8H5FO3,168.12,OC(=O)c1cccc(F)c1C=O,Apollo Scientific US,0,,3-Fluoro-2-formylbenzoic acid,MFCD18453664,50492647,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A272F0>,11
+15546,168.12,C8H5FO3,168.12,OC(=O)c1ccc(F)cc1C=O,Apollo Scientific US,0,,4-Fluoro-2-formylbenzoic acid,MFCD20658188,50492649,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A275B0>,25
+15579,168.15,C8H8O4,168.15,COc1cc(C=O)cc(O)c1O,InterBioScreen,0,,"3,4-dihydroxy-5-methoxybenzaldehyde",MFCD00016610,511320,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A27DF0>,28
+15610,168.15,C8H8O4,168.15,COc1cc(C=O)c(O)cc1O,Alinda Chemical,0,,"2,4-dihydroxy-5-methoxybenzaldehyde",MFCD07626333,7720333,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A2E5F0>,11
+15622,168.15,C8H8O4,168.15,COc1ccc(C=O)c(O)c1O,"Combi-Blocks, Inc.",0,,"2,3-Dihydroxy-4-methoxybenzaldehyde",MFCD00016589,43296999,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A2E8F0>,18
+15640,168.15,C8H8O4,168.15,Cc1c(O)cc(O)c(C=O)c1O,Enamine - UA Backorder,0,,"2,4,6-trihydroxy-3-methylbenzaldehyde",MFCD24674224,49862366,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A2ED70>,16
+15656,168.15,C8H8O4,168.15,COc1c(O)ccc(C=O)c1O,AA Blocks LLC,0,,"2,4-Dihydroxy-3-methoxybenzaldehyde",MFCD19301266,90471523,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A311B0>,11
+15691,168.17,C9H9FO2,168.17,CCOc1ccc(C=O)cc1F,"Combi-Blocks, Inc.",0,,4-Ethoxy-3-fluorobenzaldehyde,MFCD06247348,37439981,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A31A70>,22
+15713,168.17,C9H9FO2,168.17,FCCOc1ccc(C=O)cc1,Aldlab Chemicals,0,,4-(2-FLUOROETHOXY)-BENZALDEHYDE,MFCD11521336,42848383,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A33030>,12
+15732,168.17,C9H9FO2,168.17,CCOc1cc(C=O)ccc1F,Platte Valley Scientific,0,,3-Ethoxy-4-fluorobenzaldehyde,MFCD12022599,43476239,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A334F0>,17
+15765,168.17,C9H9FO2,168.17,CCOc1cc(F)cc(C=O)c1,AOBChem USA,27271,,3-Ethoxy-5-fluorobenzaldehyde,MFCD18375377,46106239,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A33D30>,20
+15821,168.17,C9H9FO2,168.17,CCOc1cccc(C=O)c1F,Bellen Chem,0,,3-Ethoxy-2-fluorobenzaldehyde,MFCD24678362,259764089,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A36B70>,12
+15857,168.21,C8H8O2S,168.21,CSc1ccc(O)c(C=O)c1,"Combi-Blocks, Inc.",0,,2-Hydroxy-5-(methylthio)benzaldehyde,MFCD03309091,35873043,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A374B0>,19
+15919,168.62,C9H9ClO,168.62,Cc1cc(C=O)cc(C)c1Cl,AOBChem USA,18803,,"4-Chloro-3,5-dimethylbenzaldehyde",MFCD11111043,25033703,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A3B470>,14
+15945,168.62,C9H9ClO,168.62,Cc1c(C)c(C=O)ccc1Cl,AOBChem USA,30357,,"4-Chloro-2,3-dimethylbenzaldehyde",MFCD18917146,36770354,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A3BAF0>,10
+15955,168.62,C9H9ClO,168.62,CCc1cc(C=O)ccc1Cl,AOBChem USA,26281,,4-Chloro-3-ethylbenzaldehyde,MFCD11111044,36770841,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A3BD70>,15
+15970,168.62,C9H9ClO,168.62,Cc1cc(Cl)cc(C)c1C=O,AOBChem USA,18588,,"4-Chloro-2,6-dimethybenzaldehyde",MFCD11846957,44465339,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A3F170>,15
+16018,169.11,C7H4FNO3,169.11,[O-][N+](=O)c1ccc(F)c(C=O)c1,Activate Scientific,0,,2-Fluoro-5-nitrobenzaldehyde,MFCD00042298,509710,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A3FD70>,37
+16055,169.11,C7H4FNO3,169.11,[O-][N+](=O)c1cc(C=O)ccc1F,Alfa Aesar (US),0,,"4-Fluoro-3-nitrobenzaldehyde, 98%",MFCD01861388,516545,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A446F0>,41
+16096,169.11,C7H4FNO3,169.11,[O-][N+](=O)c1ccc(F)cc1C=O,Alfa Aesar (US),0,,"5-Fluoro-2-nitrobenzaldehyde, 98%",MFCD00153175,891859,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A4C170>,22
+16118,169.11,C7H4FNO3,169.11,[O-][N+](=O)c1ccc(C=O)c(F)c1,Alfa Aesar (US),0,,"2-Fluoro-4-nitrobenzaldehyde, 97%",MFCD00968941,4330174,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A4C6F0>,30
+16148,169.11,C7H4FNO3,169.11,[O-][N+](=O)c1cc(F)ccc1C=O,Chem-Impex,20289,,4-Fluoro-2-nitro-benzaldehyde,MFCD01666439,6202311,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A4CE70>,33
+16181,169.11,C7H4FNO3,169.11,[O-][N+](=O)c1cccc(F)c1C=O,"Combi-Blocks, Inc.",0,,2-Fluoro-6-nitrobenzaldehyde,MFCD09835320,11578664,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A576F0>,24
+16205,169.11,C7H4FNO3,169.11,[O-][N+](=O)c1ccc(C=O)cc1F,Key Organics/BIONET,0,,3-fluoro-4-nitrobenzenecarbaldehyde,MFCD00968940,29542235,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A57CF0>,33
+16238,169.11,C7H4FNO3,169.11,[O-][N+](=O)c1cccc(C=O)c1F,Accela ChemBio (ASD),0,,2-Fluoro-3-nitrobenzaldehyde,MFCD08669885,36750892,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A61570>,32
+16270,169.11,C7H4FNO3,169.11,[O-][N+](=O)c1cc(F)cc(C=O)c1,Accela ChemBio (ASD),0,,3-Fluoro-5-nitrobenzaldehyde,MFCD11111000,36761994,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A61D70>,19
+16289,169.11,C7H4FNO3,169.11,[O-][N+](=O)c1c(F)cccc1C=O,"Combi-Blocks, Inc.",0,,3-Fluoro-2-nitrobenzaldehyde,MFCD11111001,44692353,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A6C270>,18
+16307,169.11,C7H4FNO3,169.11,Fc1cc(C=O)cc(c1)N(=O)=O,Angene Chemical,0,,3-fluoro-5-nitrobenzaldehyde,,313087768,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A6C6F0>,12
+16345,170.14,C8H7FO3,170.14,COc1cc(C=O)cc(F)c1O,Accela ChemBio (ASD),0,,3-Fluoro-4-hydroxy-5-methoxybenzaldehyde,MFCD02683560,517408,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A730B0>,31
+16447,170.2,C8H7FOS,170.2,CSc1ccc(F)cc1C=O,AOBChem USA,20195,,5-Fluoro-2-(methylthio)benzaldehyde,MFCD18887990,40039698,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A76A70>,10
+16475,170.2,C8H7FOS,170.2,CSc1cc(C=O)ccc1F,"Combi-Blocks, Inc.",0,,4-Fluoro-3-(methylsulfanyl)benzaldehyde,MFCD22543662,45980766,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A7C1B0>,10
+16485,170.2,C8H7FOS,170.2,CSc1ccc(C=O)c(F)c1,AOBChem USA,20898,,2-Fluoro-4-(methylthio)benzaldehyde,MFCD26935988,48596820,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A7C430>,13
+16570,170.59,C8H7ClO2,170.59,COc1ccc(C=O)cc1Cl,Alfa Aesar (US),0,,"3-Chloro-4-methoxybenzaldehyde, 96%",MFCD00016601,522025,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A859B0>,44
+16614,170.59,C8H7ClO2,170.59,COc1cccc(C=O)c1Cl,TCI America,0,,2-Chloro-3-methoxybenzaldehyde,MFCD07369787,527674,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A8A4F0>,26
+16640,170.59,C8H7ClO2,170.59,Cc1cc(Cl)cc(C=O)c1O,Maybridge,0,,5-chloro-2-hydroxy-3-methylbenzaldehyde,MFCD00275687,723519,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A8AB70>,17
+16657,170.59,C8H7ClO2,170.59,COc1ccc(Cl)cc1C=O,Aldlab Chemicals,0,,5-Chloro-2-methoxybenzaldehyde,MFCD00033854,848510,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A8AFB0>,40
+16697,170.59,C8H7ClO2,170.59,Cc1cc(O)c(C=O)cc1Cl,Aldlab Chemicals,0,,5-Chloro-2-hydroxy-4-methyl-benzaldehyde,MFCD03094618,918471,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A969F0>,23
+16720,170.59,C8H7ClO2,170.59,Oc1ccc(CCl)cc1C=O,Alinda Chemical,0,,5-(chloromethyl)-2-hydroxybenzaldehyde,MFCD00226977,2861214,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1A96FB0>,17
+16737,170.59,C8H7ClO2,170.59,COc1ccc(C=O)c(Cl)c1,Accela ChemBio (ASD),0,,2-Chloro-4-methoxybenzaldehyde,MFCD01741722,2871465,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1AA1430>,40
+16782,170.59,C8H7ClO2,170.59,COc1cc(C=O)ccc1Cl,Chem-Impex,29065,,4-Chloro-3-methoxybenzaldehyde,MFCD07787490,16647476,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1AA1F70>,38
+16820,170.59,C8H7ClO2,170.59,COc1cc(Cl)ccc1C=O,Aldlab Chemicals,0,,4-chloro-2-methoxybenzaldehyde,MFCD08703355,25679667,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1AAD930>,31
+16851,170.59,C8H7ClO2,170.59,COc1cccc(Cl)c1C=O,"Combi-Blocks, Inc.",0,,2-Chloro-6-methoxybenzaldehyde,MFCD08059233,32179356,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1AB7130>,38
+16889,170.59,C8H7ClO2,170.59,COc1c(Cl)cccc1C=O,"Combi-Blocks, Inc.",0,,3-Chloro-2-methoxybenzaldehyde,MFCD09999135,32179411,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1AB7AB0>,33
+16922,170.59,C8H7ClO2,170.59,COc1cc(Cl)cc(C=O)c1,AstaTech,0,,3-CHLORO-5-METHOXYBENZALDEHYDE,MFCD08234653,33511001,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D43330>,30
+16952,170.59,C8H7ClO2,170.59,COc1ccc(Cl)c(C=O)c1,AstaTech,0,,2-CHLORO-5-METHOXYBENZALDEHYDE,MFCD11845925,36763523,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D43AB0>,34
+17046,171.2,C11H9NO,171.2,O=Cc1cccc(c1)-n1cccc1,Maybridge,0,,3-(1H-pyrrol-1-yl)benzaldehyde,MFCD03086140,720582,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D592B0>,12
+17058,171.2,C11H9NO,171.2,O=Cc1ccc(cc1)-n1cccc1,"Combi-Blocks, Inc.",0,,4-(1H-Pyrrol-1-yl)benzaldehyde,MFCD03822126,720698,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D595B0>,29
+17094,171.2,C11H9NO,171.2,Cc1ccc2cc(C=O)ccc2n1,Accela ChemBio (ASD),0,,2-Methylquinoline-6-carbaldehyde,MFCD08060502,727554,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D59EB0>,18
+17112,171.2,C11H9NO,171.2,Cc1ccc(C=O)c2cccnc12,ChemBridge,4003229,,8-methyl-5-quinolinecarbaldehyde,MFCD15204350,31238460,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D5A370>,11
+17221,172.13,C8H6F2O2,172.13,FC(F)Oc1ccc(C=O)cc1,Alinda Chemical,0,,4-(difluoromethoxy)benzaldehyde,MFCD00042252,512074,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D5DEF0>,32
+17253,172.13,C8H6F2O2,172.13,FC(F)Oc1ccccc1C=O,Accela ChemBio (ASD),0,,2-(Difluoromethoxy)benzaldehyde,MFCD00042251,512084,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D5F730>,28
+17281,172.13,C8H6F2O2,172.13,COc1cc(F)c(C=O)c(F)c1,Chem-Impex,17627,,"2,6-Difluoro-4-methoxybenzaldehyde",MFCD04114368,525187,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D5FE30>,39
+17320,172.13,C8H6F2O2,172.13,FC(F)Oc1cccc(C=O)c1,InterBioScreen,0,,3-(difluoromethoxy)benzaldehyde,MFCD00236222,907243,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D6B830>,41
+17361,172.13,C8H6F2O2,172.13,COc1ccc(F)c(F)c1C=O,Aldlab Chemicals,0,,"2,3-Difluoro-6-methoxybenzaldehyde",MFCD02093968,908902,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D752B0>,27
+17388,172.13,C8H6F2O2,172.13,COc1cc(C=O)cc(F)c1F,Advamacs,0,,"3,4-Difluoro-5-methoxybenzaldehyde 95+%",MFCD04972450,2725638,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D75970>,26
+17414,172.13,C8H6F2O2,172.13,COc1ccc(F)c(C=O)c1F,Aldlab Chemicals,0,,"2,6-Difluoro-3-methoxybenzaldehyde",MFCD04115899,4849514,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D81030>,23
+17437,172.13,C8H6F2O2,172.13,COc1c(F)cc(C=O)cc1F,Aldlab Chemicals,0,,"3,5-Difluoro-4-methoxybenzaldehyde",MFCD04115911,4849536,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D815F0>,32
+17469,172.13,C8H6F2O2,172.13,COc1c(F)ccc(C=O)c1F,Aldlab Chemicals,0,,"2,4-Difluoro-3-methoxybenzaldehyde",MFCD04115930,4849574,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D81DF0>,13
+17482,172.13,C8H6F2O2,172.13,COc1ccc(C=O)c(F)c1F,Alfa Aesar (US),0,,"2,3-Difluoro-4-methoxybenzaldehyde, 97%",MFCD04115981,4849666,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D8C170>,19
+17501,172.13,C8H6F2O2,172.13,COc1cc(F)c(F)cc1C=O,Alfa Aesar (US),0,,"4,5-Difluoro-2-methoxybenzaldehyde, 97%",MFCD06246884,4849839,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D8C630>,22
+17523,172.13,C8H6F2O2,172.13,COc1cc(F)c(C=O)cc1F,Maybridge,0,,"2,5-Difluoro-4-methoxybenzaldehyde",MFCD06246882,29706642,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D8CBB0>,35
+17558,172.13,C8H6F2O2,172.13,COc1c(F)ccc(F)c1C=O,Alfa Aesar (US),0,,"3,6-Difluoro-2-methoxybenzaldehyde, 97+%",MFCD08275289,31531163,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D984B0>,21
+17579,172.13,C8H6F2O2,172.13,COc1c(F)cc(F)cc1C=O,"Combi-Blocks, Inc.",0,,"3,5-Difluoro-2-methoxybenzaldehyde",MFCD06246883,45491331,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D989F0>,17
+17596,172.13,C8H6F2O2,172.13,COc1c(F)c(F)ccc1C=O,AOBChem USA,21169,,"3,4-Difluoro-2-methoxybenzaldehyde",MFCD04115951,45980279,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1D98E30>,12
+17608,172.13,C8H6F2O2,172.13,COc1cc(C=O)c(F)cc1F,Advamacs,0,,"Benzaldehyde, 2,4-difluoro-5-methoxy- 97+%",MFCD24539280,48606326,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DA2170>,24
+17640,172.14,C7H6O4:1.00H2O,154.12,O.Oc1cc(C=O)cc(O)c1O,Aldlab Chemicals,0,,"3,4,5-Trihydroxybenzaldehydehydrate",MFCD00149124,6879620,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DA2970>,19
+17666,172.18,C11H8O2,172.18,Oc1cc2ccccc2cc1C=O,"Combi-Blocks, Inc.",0,,3-Hydroxynaphthalene-2-carbaldehyde,MFCD00079346,37334,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DAB030>,18
+17684,172.18,C11H8O2,172.18,Oc1ccc2ccccc2c1C=O,InterBioScreen,0,,2-hydroxy-1-naphthaldehyde,MFCD00004005,478522,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DAB4B0>,36
+17720,172.18,C11H8O2,172.18,Oc1ccc(C=O)c2ccccc12,Frontier Scientific Services,500042183,,4-Hydroxynaphthalene-1-Carbaldehyde,MFCD00053486,480541,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DABDB0>,19
+17739,172.18,C11H8O2,172.18,O=Cc1ccc(cc1)-c1ccco1,Maybridge,0,,4-(2-furyl)benzaldehyde,MFCD03030050,725613,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DAD2B0>,19
+17758,172.18,C11H8O2,172.18,O=Cc1ccccc1-c1ccco1,Chem-Impex,26543,,2-(2-Furyl)benzaldehyde,MFCD03990475,812784,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DAD770>,15
+17773,172.18,C11H8O2,172.18,O=Cc1cccc(c1)-c1ccco1,ChemBridge,4003501,,3-(2-furyl)benzaldehyde,MFCD03990461,812786,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DADB30>,11
+17784,172.18,C11H8O2,172.18,Oc1ccc2cc(C=O)ccc2c1,Aldlab Chemicals,0,,6-Hydroxy-2-naphthaldehyde,MFCD03427537,933649,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DADDF0>,30
+17814,172.18,C11H8O2,172.18,Oc1c(C=O)ccc2ccccc12,TCI America,0,,1-Hydroxy-2-naphthaldehyde,MFCD00092325,1098892,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DB05B0>,26
+17857,172.18,C11H8O2,172.18,Oc1cc(C=O)c2ccccc2c1,"Combi-Blocks, Inc.",0,,3-Hydroxynaphthalene-1-carboxaldehyde,MFCD17012437,49435184,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DB10B0>,19
+17877,172.18,C11H8O2,172.18,Oc1cccc2c(C=O)cccc12,Accela ChemBio (ASD),0,,5-Hydroxy-1-naphthaldehyde,MFCD17012513,50453022,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DB15B0>,10
+17892,172.18,C11H8O2,172.18,Oc1cccc2cccc(C=O)c12,Accela ChemBio (ASD),0,,8-Hydroxy-1-naphthaldehyde,MFCD17012274,50453030,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DB1970>,13
+17906,172.19,C10H8N2O,172.19,O=Cc1ccc(cc1)-n1ccnc1,Key Organics/BIONET,3,,4-(1H-imidazol-1-yl)benzenecarbaldehyde,MFCD00209977,508752,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DB1CF0>,41
+17947,172.19,C10H8N2O,172.19,O=Cc1ccc(cc1)-n1cccn1,InterBioScreen,0,,4-(1H-pyrazol-1-yl)benzaldehyde,MFCD02681938,720472,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DB4770>,36
+17983,172.19,C10H8N2O,172.19,O=Cc1cccc(c1)-n1cccn1,Accela ChemBio (ASD),0,,3-(1-Pyrazolyl)benzaldehyde,MFCD06740321,725737,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DB60B0>,17
+18000,172.19,C10H8N2O,172.19,O=Cc1ccccc1-n1cccn1,Aldlab Chemicals,0,,2-(1H-Pyrazol-1-yl)benzaldehyde,MFCD03086186,726158,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DB64F0>,19
+18030,172.19,C10H8N2O,172.19,O=Cc1cccc(c1)-c1cn[nH]c1,Princeton BioMolecular Research,0,,3-(1H-Pyrazol-4-yl)-benzaldehyde,MFCD08056281,11473995,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DB6C70>,10
+18045,172.19,C10H8N2O,172.19,O=Cc1cccc(c1)-n1ccnc1,Maybridge,0,,3-(1H-imidazol-1-yl)benzaldehyde,MFCD09836178,17393500,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DB9070>,26
+18132,172.56,C7H5ClO3,172.56,Oc1cc(O)c(C=O)cc1Cl,Aldlab Chemicals,0,,"5-chloro-2,4-dihydroxybenzaldehyde",MFCD18324145,36250404,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DBA670>,20
+18159,172.58,C8H6ClFO,172.58,Cc1ccc(F)c(C=O)c1Cl,Alfa Aesar (US),0,,"2-Chloro-6-fluoro-3-methylbenzaldehyde, 97%",MFCD01631360,516692,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DBAD30>,21
+18180,172.58,C8H6ClFO,172.58,Cc1ccc(Cl)c(C=O)c1F,Alfa Aesar (US),0,,"6-Chloro-2-fluoro-3-methylbenzaldehyde, 97%",MFCD01631370,516694,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DC32B0>,12
+18192,172.58,C8H6ClFO,172.58,Cc1c(F)ccc(C=O)c1Cl,Aldlab Chemicals,0,,2-Chloro-4-fluoro-3-methylbenzaldehyde,MFCD15528861,43338584,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DC35B0>,20
+18227,172.58,C8H6ClFO,172.58,Cc1cc(F)cc(Cl)c1C=O,AOBChem USA,30685,,2-Chloro-4-fluoro-6-methylbenzaldehyde,MFCD28751751,50474306,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DC3E70>,11
+18268,172.58,C8H6ClFO,172.58,Cc1cc(C=O)c(F)cc1Cl,AOBChem USA,16217,,4-Chloro-2-fluoro-5-methylbenzaldehyde,MFCD28751755,54518825,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DCD8F0>,13
+18285,173.17,C10H7NO2,173.17,Oc1ccc(C=O)c2cccnc12,"Combi-Blocks, Inc.",0,,8-Hydroxyquinoline-5-carbaldehyde,MFCD03425064,7442255,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DCDD30>,19
+18338,173.17,C10H7NO2,173.17,O=Cc1cccc(c1)-c1cnco1,Key Organics/BIONET,0,,3-(5-Oxazolyl)benzaldehyde,MFCD24686783,49435046,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DD6AB0>,12
+18377,173.18,C9H7N3O,173.18,O=Cc1ccc(cc1)-n1cncn1,Aldlab Chemicals,0,,"4-(1H-1,2,4-Triazol-1-yl)benzaldehyde",MFCD02681969,720492,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DD74B0>,33
+18410,173.18,C9H7N3O,173.18,O=Cc1ccc(cc1)-n1ccnn1,"Combi-Blocks, Inc.",0,,"4-[1,2,3]Triazol-1-yl-benzaldehyde",MFCD07783843,2728308,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DD7CF0>,11
+18421,173.18,C9H7N3O,173.18,O=Cc1ccccc1-n1cncn1,Key Organics/BIONET,1,,"2-(1H-1,2,4-triazol-1-yl)benzenecarbaldehyde",MFCD03617913,4352377,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DD7FB0>,20
+18441,173.18,C9H7N3O,173.18,O=Cc1cccc(c1)-n1cncn1,"Combi-Blocks, Inc.",0,,"3-(1H-1,2,4-Triazol-1-yl)benzaldehyde",MFCD08271896,5849505,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DDA4F0>,22
+18463,173.18,C9H7N3O,173.18,O=Cc1ccc(cc1)-n1nccn1,"Combi-Blocks, Inc.",0,,"4-(2H-1,2,3-Triazol-2-yl)benzaldehyde",MFCD08669904,24589263,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DDAA70>,15
+18492,173.22,C11H11NO,173.22,CCn1ccc2c(C=O)cccc12,Alinda Chemical,0,,1-ethyl-1H-indole-4-carbaldehyde,MFCD09455239,14864007,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DDC1F0>,12
+18504,173.22,C11H11NO,173.22,CCn1ccc2cc(C=O)ccc12,Alinda Chemical,0,,1-ethyl-1H-indole-5-carbaldehyde,MFCD09455244,14864017,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DDC4F0>,16
+18520,173.22,C11H11NO,173.22,CCn1ccc2ccc(C=O)cc12,Alinda Chemical,0,,1-ethyl-1H-indole-6-carbaldehyde,MFCD09455258,14864045,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DDC8F0>,21
+18548,173.22,C11H11NO,173.22,CC(C)(C#N)c1ccc(C=O)cc1,Bellen Chem,0,,2-(4-formylphenyl)-2-methylpropanenitrile,MFCD21364688,43216836,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DDF030>,10
+18655,174.12,C8H5F3O,174.12,FC(F)(F)c1cccc(C=O)c1,Alinda Chemical,0,,3-(trifluoromethyl)benzaldehyde,MFCD00003373,487557,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DE0B30>,40
+18695,174.12,C8H5F3O,174.12,FC(F)(F)c1ccc(C=O)cc1,Alfa Aesar (US),0,,"4-(Trifluoromethyl)benzaldehyde, 97%",MFCD00006952,489714,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DEB570>,34
+18729,174.12,C8H5F3O,174.12,FC(F)(F)c1ccccc1C=O,Activate Scientific,0,,2-(Trifluoromethyl)benzaldehyde,MFCD00003337,491889,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DEBDF0>,34
+18783,174.16,C10H6O3,174.16,O=Cc1ccc2oc(=O)ccc2c1,Matrix Scientific,6891,,Coumarin-6-carboxaldehyde,MFCD01941322,918621,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DF5BB0>,12
+18811,174.16,C9H6N2O2,174.16,O=Cc1ccc(cc1)-c1ncon1,ChemBridge,3001863,,"4-(1,2,4-oxadiazol-3-yl)benzaldehyde",MFCD12026816,27332238,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DFE2F0>,11
+18832,174.16,C8H6N4O,174.16,O=Cc1ccc(cc1)-c1nnn[nH]1,Princeton BioMolecular Research,0,,4-(1H-tetraazol-5-yl)benzaldehyde,MFCD01311033,887795,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DFE830>,20
+18860,174.16,C8H6N4O,174.16,O=Cc1cccc(c1)-c1nn[nH]n1,Alinda Chemical,0,,3-(2H-tetrazol-5-yl)benzaldehyde,MFCD18064602,32175590,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DFEF30>,15
+18883,174.17,C11H7FO,174.17,Fc1ccc(C=O)c2ccccc12,Rieke Metals,8071,,4-Fluoro-1-naphthalenecarboxaldehyde,MFCD02261765,706915,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1DFF530>,40
+19045,174.2,C10H10N2O,174.2,Cc1n(C)nc2ccc(C=O)cc12,"Combi-Blocks, Inc.",0,,"2,3-Dimethyl-2h-indazole-5-carbaldehyde",MFCD17015998,56770588,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E04E30>,11
+19056,174.2,C10H10N2O,174.2,Cc1n(C)nc2cc(C=O)ccc12,"Combi-Blocks, Inc.",0,,"2,3-Dimethyl-2h-indazole-6-carbaldehyde",MFCD17015993,56975143,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E07130>,18
+19145,174.56,C7H4ClFO2,174.56,Oc1cc(Cl)c(F)cc1C=O,"Combi-Blocks, Inc.",0,,4-Chloro-5-fluoro-2-hydroxybenzaldehyde,MFCD20278246,44692546,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E087B0>,18
+19163,174.56,C7H4ClFO2,174.56,Oc1c(F)cc(C=O)cc1Cl,AOBChem USA,32641,,3-Chloro-5-fluoro-4-hydroxybenzaldehyde,MFCD06411310,45491012,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E08C30>,14
+19177,174.56,C7H4ClFO2,174.56,Oc1c(F)cc(Cl)cc1C=O,Key Organics/BIONET,0,,5-chloro-3-fluoro-2-hydroxybenzaldehyde,MFCD16658025,45773274,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E08FB0>,15
+19192,174.56,C7H4ClFO2,174.56,Oc1cc(F)c(C=O)cc1Cl,"Combi-Blocks, Inc.",0,,5-Chloro-2-fluoro-4-hydroxybenzaldehyde,MFCD22066584,46573716,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E113B0>,16
+19215,174.56,C7H4ClFO2,174.56,Oc1cc(F)c(Cl)cc1C=O,Aldlab Chemicals,0,,5-chloro-4-fluoro-2-hydroxybenzaldehyde,MFCD06739490,56970804,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E11970>,14
+19260,175.01,C7H4Cl2O,175.01,Clc1cc(Cl)cc(C=O)c1,Activate Scientific,0,,"3,5-Dichlorobenzaldehyde",MFCD00003352,481436,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E1A4F0>,45
+19305,175.01,C7H4Cl2O,175.01,Clc1ccc(C=O)c(Cl)c1,Alfa Aesar (US),0,,"2,4-Dichlorobenzaldehyde, 98%",MFCD00003305,482221,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E23070>,39
+19344,175.01,C7H4Cl2O,175.01,Clc1cccc(C=O)c1Cl,InterBioScreen,0,,"2,3-dichlorobenzaldehyde",MFCD00010127,492327,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E23A30>,42
+19386,175.01,C7H4Cl2O,175.01,Clc1cccc(Cl)c1C=O,Aldlab Chemicals,0,,"2,6-Dichlorobenzaldehyde",MFCD00003307,500419,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E2B4F0>,35
+19421,175.01,C7H4Cl2O,175.01,Clc1ccc(C=O)cc1Cl,Alfa Aesar (US),0,,"3,4-Dichlorobenzaldehyde, 97%",MFCD00003351,500421,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E2BDB0>,34
+19455,175.01,C7H4Cl2O,175.01,Clc1ccc(Cl)c(C=O)c1,Alfa Aesar (US),0,,"2,5-Dichlorobenzaldehyde, 98%",MFCD00156140,517102,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E35670>,36
+19506,175.16,C10H6FNO,175.16,Fc1ccc(C=O)c2ncccc12,"Combi-Blocks, Inc.",0,,5-fluoroquinoline-8-carbaldehyde,MFCD15526826,36086151,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E3E370>,19
+19667,175.23,C11H13NO,175.23,O=Cc1ccc(cc1)N1CCCC1,Alinda Chemical,0,,4-pyrrolidin-1-ylbenzaldehyde,MFCD00015469,725296,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E42C30>,43
+19710,175.23,C11H13NO,175.23,O=Cc1cccc(c1)N1CCCC1,Maybridge,0,,3-pyrrolidin-1-ylbenzaldehyde,MFCD07772825,726977,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E45730>,17
+19727,175.23,C11H13NO,175.23,CN1CCCc2cc(C=O)ccc12,InterBioScreen,0,,"1-methyl-1,2,3,4-tetrahydroquinoline-6-carbaldehyde",MFCD03180300,981009,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E45B70>,32
+19764,175.23,C11H13NO,175.23,O=Cc1ccccc1N1CCCC1,Accela ChemBio (ASD),0,,2-(1-Pyrrolidinyl)benzaldehyde,MFCD03419322,1523162,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E474F0>,27
+19834,176.13,C8H4N2O3,176.13,[O-][N+](=O)c1cc(ccc1C=O)C#N,"Combi-Blocks, Inc.",0,,4-Formyl-3-nitrobenzonitrile,MFCD10696869,44467196,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E4A6B0>,24
+19858,176.13,C8H4N2O3,176.13,[O-][N+](=O)c1ccc(cc1C=O)C#N,Matrix Scientific,97879,,3-Formyl-4-nitrobenzonitrile,MFCD10696868,44688813,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E4ACB0>,23
+19908,176.17,C10H8O3,176.17,OC(=O)\C=C\c1ccccc1C=O,"Combi-Blocks, Inc.",0,,2-Formylcinnamic acid,MFCD03840500,43449032,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E50970>,16
+19937,176.17,C10H8O3,176.17,OC(=O)\C=C\c1ccc(C=O)cc1,Alinda Chemical,0,,(2E)-3-(4-formylphenyl)acrylic acid,MFCD00006955,105335324,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E570F0>,10
+19981,176.22,C11H12O2,176.22,CC1(C)Cc2cccc(C=O)c2O1,Maybridge,0,,"2,2-dimethyl-2,3-dihydro-1-benzofuran-7-carbaldehyde",MFCD04115387,720722,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E57BF0>,16
+19997,176.22,C11H12O2,176.22,CC1(C)Cc2cc(C=O)ccc2O1,ChemBridge,4000012,,"2,2-dimethyl-2,3-dihydro-1-benzofuran-5-carbaldehyde",MFCD08445737,816150,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E59030>,13
+20010,176.22,C11H12O2,176.22,CC(=C)COc1ccccc1C=O,ChemBridge,9071550,,2-[(2-methyl-2-propen-1-yl)oxy]benzaldehyde,MFCD06751841,1521189,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E59370>,11
+20021,176.22,C11H12O2,176.22,COc1cc2CCCc2cc1C=O,ChemBridge,4015064,,6-methoxyindane-5-carbaldehyde,MFCD06248004,1523037,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E59630>,14
+20043,176.22,C11H12O2,176.22,CC(=C)COc1cccc(C=O)c1,ChemBridge,9071964,,3-[(2-methyl-2-propen-1-yl)oxy]benzaldehyde,MFCD07392462,8317613,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E59BB0>,10
+20061,176.22,C11H12O2,176.22,CC(=C)COc1ccc(C=O)cc1,ChemBridge,9071705,,4-[(2-methyl-2-propen-1-yl)oxy]benzaldehyde,MFCD00845682,18189666,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E5C070>,14
+20158,176.22,C11H12O2,176.22,CC1(C)Cc2c(O1)cccc2C=O,ChemScene,0,,"2,2-Dimethyl-2,3-dihydro-1-benzofuran-4-carbaldehyde",MFCD24676063,168891407,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E5D8F0>,13
+20226,176.26,C12H16O,176.26,Cc1c(C)c(C)c(C=O)c(C)c1C,Specs,0,,"2,3,4,5,6-pentamethylbenzaldehyde",MFCD00015560,508903,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E60A30>,14
+20272,176.55,C7H3ClF2O,176.55,Fc1ccc(F)c(C=O)c1Cl,Alfa Aesar (US),0,,"2-Chloro-3,6-difluorobenzaldehyde, 97%",MFCD01631443,517360,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E625F0>,35
+20307,176.55,C7H3ClF2O,176.55,Fc1ccc(Cl)c(F)c1C=O,Aldlab Chemicals,0,,"3-Chloro-2,6-difluorobenzaldehyde",MFCD01631323,517384,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E62EB0>,32
+20339,176.55,C7H3ClF2O,176.55,Fc1cc(Cl)cc(F)c1C=O,Alfa Aesar (US),0,,"4-Chloro-2,6-difluorobenzaldehyde, 97%",MFCD03094460,908240,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E696F0>,30
+20369,176.55,C7H3ClF2O,176.55,Fc1ccc(C=O)c(F)c1Cl,Alfa Aesar (US),0,,"3-Chloro-2,4-difluorobenzaldehyde, 97%",MFCD04116001,4849708,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E69E70>,31
+20400,176.55,C7H3ClF2O,176.55,Fc1cc(C=O)cc(F)c1Cl,AOBChem USA,26238,,"4-Chloro-3,5-difluorobenzaldehyde",MFCD11553555,25033607,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E71670>,18
+20418,176.55,C7H3ClF2O,176.55,Fc1cc(C=O)c(F)cc1Cl,Alfa Aesar (US),0,,"4-Chloro-2,5-difluorobenzaldehyde, 98%",MFCD07782051,36751019,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E71AF0>,34
+20452,176.55,C7H3ClF2O,176.55,Fc1c(F)c(C=O)ccc1Cl,HE Chemical,61778,,"4-Chloro-2,3-difluorobenzaldehyde",MFCD11845976,36763620,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E7B3B0>,22
+20474,176.55,C7H3ClF2O,176.55,Fc1ccc(Cl)c(C=O)c1F,Alfa Aesar (US),0,,"6-Chloro-2,3-difluorobenzaldehyde, 97%",MFCD07368118,36765055,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E7B930>,18
+20492,176.55,C7H3ClF2O,176.55,Fc1cc(Cl)c(C=O)cc1F,AOBChem USA,15237,,"2-Chloro-4,5-Difluorobenzaldehyde",MFCD07782050,43337476,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E7BDB0>,26
+20518,176.55,C7H3ClF2O,176.55,Fc1ccc(C=O)c(Cl)c1F,Aldlab Chemicals,0,,"2-Chloro-3,4-difluorobenzaldehyde",MFCD18415551,43466478,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E84470>,26
+20552,176.55,C7H3ClF2O,176.55,Fc1cc(F)c(C=O)cc1Cl,"Combi-Blocks, Inc.",0,,"5-Chloro-2,4-difluorobenzaldehyde",MFCD07782052,43469548,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E84CF0>,27
+20579,176.55,C7H3ClF2O,176.55,Fc1cc(Cl)cc(C=O)c1F,"Combi-Blocks, Inc.",0,,"5-Chloro-2,3-difluorobenzaldehyde",MFCD20924197,50472682,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E8E3F0>,15
+20594,176.55,C7H3ClF2O,176.55,Fc1cc(F)c(C=O)c(Cl)c1,Key Organics/BIONET,0,,"2-chloro-4,6-difluorobenzaldehyde",MFCD18415553,53990953,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E8E7B0>,18
+20715,177.2,C10H11NO2,177.2,CN1CCOc2cc(C=O)ccc12,"Combi-Blocks, Inc.",0,,"4-Methyl-3,4-dihydro-2h-1,4-benzoxazine-7-carbaldehyde",MFCD02681912,720338,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E98670>,19
+20734,177.2,C10H11NO2,177.2,CN(C)C(=O)c1ccc(C=O)cc1,A1 Biochem Labs,0,,"4-Formyl-N,N-dimethyl-benzamide",MFCD07186279,8296387,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E98B30>,10
+20810,177.22,C9H7NOS,177.22,Cc1nc2cc(C=O)ccc2s1,"Combi-Blocks, Inc.",0,,2-Methylbenzo[d]thiazole-5-carbaldehyde,MFCD02690143,2894835,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E9AE70>,16
+20854,177.25,C11H15NO,177.25,CCN(CC)c1ccc(C=O)cc1,InterBioScreen,0,,4-(diethylamino)benzaldehyde,MFCD00003382,497312,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1E9D9B0>,40
+21017,178.09,C7H2F4O,178.09,Fc1cc(F)c(F)c(C=O)c1F,Frontier Scientific (Logan),0,,"3,5-Dibromobenzonitrile, 98%",MFCD00167387,497995,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EA3330>,22
+21039,178.09,C7H2F4O,178.09,Fc1cc(C=O)c(F)c(F)c1F,Advamacs,0,,"2,3,4,5-Tetrafluorobenzaldehyde 98%",MFCD02683041,716605,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EA38B0>,26
+21138,178.19,C10H10O3,178.19,O=Cc1ccc2OCCCOc2c1,Maybridge,0,,"3,4-dihydro-2H-1,5-benzodioxepine-7-carbaldehyde",MFCD01893356,720308,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EAD1F0>,24
+21178,178.19,C10H10O3,178.19,O=Cc1ccc(cc1)C1OCCO1,Rieke Metals,0,,"4-[1,3]Dioxolan-2-ylbenzaldehyde",MFCD03180272,16555349,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EADBF0>,15
+21221,178.19,C10H10O3,178.19,OC(=O)CCc1ccc(C=O)cc1,Alfa Aesar (US),0,,"3-(4-Formylphenyl)propionic acid, 96%",MFCD08234824,32178376,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB06F0>,12
+21233,178.19,C10H10O3,178.19,COC(=O)Cc1ccccc1C=O,Accela ChemBio (ASD),0,,Methyl 2-(2-Formylphenyl)acetate,MFCD12755820,32179939,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB09F0>,29
+21269,178.19,C10H10O3,178.19,CCOC(=O)c1ccccc1C=O,Aldlab Chemicals,0,,2-formylbenzoicacidethylester,MFCD09743805,36805650,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB2330>,13
+21282,178.19,C10H10O3,178.19,CCOC(=O)c1ccc(C=O)cc1,Aldlab Chemicals,0,,4-formyl-benzoicacidethylester,MFCD00460463,36805652,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB2670>,29
+21324,178.19,C10H10O3,178.19,COC(=O)c1ccc(C=O)cc1C,"Combi-Blocks, Inc.",0,,Methyl 4-formyl-2-methylbenzoate,MFCD22380496,43481305,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB5130>,12
+21336,178.19,C10H10O3,178.19,COC(=O)Cc1ccc(C=O)cc1,AstaTech,0,,METHYL 2-(4-FORMYLPHENYL)ACETATE,MFCD17018734,44690973,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB5430>,21
+21357,178.19,C10H10O3,178.19,Cc1cc(C)c(cc1C=O)C(O)=O,"Combi-Blocks, Inc.",0,,"5-Formyl-2,4-dimethylbenzoic acid",MFCD20651233,44835989,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB5970>,11
+21387,178.19,C10H10O3,178.19,COC(=O)Cc1cccc(C=O)c1,"Combi-Blocks, Inc.",0,,Methyl 2-(3-formylphenyl)acetate,MFCD15523582,49844889,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB6130>,20
+21414,178.19,C10H10O3,178.19,COC(=O)c1cc(C=O)ccc1C,"Combi-Blocks, Inc.",0,,Methyl 5-formyl-2-methylbenzoate,MFCD21099506,50413649,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB67F0>,14
+21435,178.19,C10H10O3,178.19,Cc1cc(C=O)cc(C)c1C(O)=O,AOBChem USA,27870,,"2,6-Dimethyl-4-formyl-benzoic acid",MFCD20645598,92328755,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB6D30>,10
+21508,178.23,C11H14O2,178.23,CCCCOc1ccc(C=O)cc1,InterBioScreen,0,,4-butoxybenzaldehyde,MFCD00003389,490708,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EB9FB0>,32
+21540,178.23,C11H14O2,178.23,CC(C)(C)c1ccc(O)c(C=O)c1,AstaTech,29479,,5-TERT-BUTYL-2-HYDROXY-BENZALDEHYDE,MFCD01321335,513314,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EBB7F0>,28
+21568,178.23,C11H14O2,178.23,CC(C)(C)c1cccc(C=O)c1O,Activate Scientific,0,,3-(tert-butyl)-2-hydroxybenzaldehyde,MFCD00778877,513876,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EBBEF0>,28
+21596,178.23,C11H14O2,178.23,CC(C)(C)Oc1ccc(C=O)cc1,"Combi-Blocks, Inc.",0,,4-(tert-Butoxy)benzaldehyde,MFCD00040800,531145,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EBE630>,15
+21611,178.23,C11H14O2,178.23,CCCCOc1ccccc1C=O,Aldlab Chemicals,0,,"?Benzaldehyde,2-butoxy-",MFCD02257368,836054,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EBE9F0>,21
+21632,178.23,C11H14O2,178.23,CC(C)COc1ccc(C=O)cc1,InterBioScreen,0,,4-isobutoxybenzaldehyde,MFCD01922006,836768,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EBEF30>,40
+21672,178.23,C11H14O2,178.23,CC(C)COc1cccc(C=O)c1,InterBioScreen,0,,3-isobutoxybenzaldehyde,MFCD01993681,836780,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EBF970>,22
+21694,178.23,C11H14O2,178.23,CC(C)COc1ccccc1C=O,Alinda Chemical,0,,2-isobutoxybenzaldehyde,MFCD03422397,848384,<rdkit.Chem.rdchem.Mol object at 0x0000020EE1EBFEF0>,19
+21718,178.23,C11H14O2,178.23,CCCCOc1cccc(C=O)c1,Aldlab Chemicals,0,,3-Butoxybenzaldehyde,MFCD00129988,1012820,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEA2530>,13
+21731,178.23,C11H14O2,178.23,COc1cc(C)c(C=O)c(C)c1C,ChemBridge,5229799,,"4-methoxy-2,3,6-trimethylbenzaldehyde",MFCD00456729,1186523,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEA2870>,23
+21770,178.23,C11H14O2,178.23,CC(C)(C)Oc1cccc(C=O)c1,Accela ChemBio (ASD),0,,3-tert-Butoxybenzaldehyde,MFCD02258842,6285386,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEA4270>,20
+21790,178.23,C11H14O2,178.23,CC(C)(C)Oc1ccccc1C=O,AstaTech,31366,,2-TERT-BUTOXYBENZALDEHYDE,MFCD02258844,6285488,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEA4770>,16
+21806,178.23,C11H14O2,178.23,CCC(C)Oc1ccccc1C=O,ChemBridge,6539813,,2-sec-butoxybenzaldehyde,MFCD02629688,9907685,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEA4B70>,13
+21827,178.23,C11H14O2,178.23,CC(C)(C)c1ccc(C=O)c(O)c1,"Combi-Blocks, Inc.",0,,4-tert-Butylsalicylaldehyde,MFCD06412558,11642624,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEA70F0>,16
+21843,178.23,C11H14O2,178.23,COc1ccc(C=O)cc1C(C)C,Sinova,0,,3-Isopropyl-4-methoxybenzoaldehyde,MFCD06247877,19232131,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEA74F0>,34
+21889,178.23,C11H14O2,178.23,CCOc1c(C)cc(C=O)cc1C,Platte Valley Scientific,0,,"4-Ethoxy-3,5-dimethylbenzaldehyde",MFCD06247333,30423476,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEA80B0>,12
+21920,178.23,C11H14O2,178.23,CC(C)Oc1ccc(C=O)cc1C,AOBChem USA,23757,,4-Isopropoxy-3-methylbenzaldehyde,MFCD12547898,36764776,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEA8870>,12
+21935,178.23,C11H14O2,178.23,CC(C)Oc1ccc(C)cc1C=O,"Combi-Blocks, Inc.",0,,5-Methyl-2-(1-methylethoxy)-benzaldehyde,MFCD18331386,39749909,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEA8C30>,21
+21973,178.23,C11H14O2,178.23,CCc1cc(C=O)cc(CC)c1O,"Combi-Blocks, Inc.",0,,"3,5-Diethyl-4-hydroxybenzaldehyde",MFCD13152308,43609020,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEAB5F0>,21
+22007,178.23,C11H14O2,178.23,CC(C)Oc1ccc(C)c(C=O)c1,AOBChem USA,21525,,5-Isopropoxy-2-methylbenzaldehyde,MFCD19105379,45980778,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEABE70>,10
+22059,178.23,C11H14O2,178.23,CC(C)(C)c1ccc(C=O)cc1O,Enamine - UA Backorder,0,,4-tert-butyl-3-hydroxybenzaldehyde,MFCD16999737,70094823,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEADBB0>,11
+22151,178.31,C10H14OSi,178.31,C[Si](C)(C)c1ccc(C=O)cc1,"Combi-Blocks, Inc.",0,,4-(Trimethylsilyl)benzaldehyde,MFCD08064053,30156754,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEB1330>,13
+22314,179.22,C10H13NO2,179.22,CN(CCO)c1ccc(C=O)cc1,"Combi-Blocks, Inc.",0,,N-Methyl-n-(2-hydroxyethyl)-4-aminobenzaldehyde,MFCD00963547,517623,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEB6C70>,14
+22332,179.22,C10H13NO2,179.22,CN(C)Cc1cc(C=O)ccc1O,ChemBridge,4001986,,3-[(dimethylamino)methyl]-4-hydroxybenzaldehyde,MFCD07186317,1417818,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEB9130>,10
+22594,180.16,C9H8O4,180.16,OC(=O)COc1ccccc1C=O,InterBioScreen,0,,2-(2-formylphenoxy)acetic acid,MFCD00003315,483073,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEC23B0>,24
+22618,180.16,C9H8O4,180.16,OC(=O)COc1ccc(C=O)cc1,InterBioScreen,0,,2-(4-formylphenoxy)acetic acid,MFCD00016613,513298,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEC29B0>,30
+22648,180.16,C9H8O4,180.16,COc1cc(C=O)cc2OCOc12,Aldlab Chemicals,0,,Myristicin,MFCD00016900,889426,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEC3170>,35
+22683,180.16,C9H8O4,180.16,COc1cc2OCOc2cc1C=O,ChemBridge,4015071,,"6-methoxy-1,3-benzodioxole-5-carbaldehyde",MFCD00598413,977701,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEC3A30>,16
+22700,180.16,C9H8O4,180.16,COC(=O)c1cc(C=O)ccc1O,TCI America,0,,Methyl 5-Formylsalicylate,MFCD03840784,2725083,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEC3E70>,26
+22726,180.16,C9H8O4,180.16,OC(=O)COc1cccc(C=O)c1,Bio-Farma,0,,2-(3-formylphenoxy)acetic acid,MFCD00016605,4352173,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEC6530>,15
+22745,180.16,C9H8O4,180.16,COc1ccc(C=O)c(c1)C(O)=O,Aldlab Chemicals,0,,"Benzoicacid,2-formyl-5-methoxy-",MFCD06739603,6254058,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEC69F0>,10
+22755,180.16,C9H8O4,180.16,COc1ccc(C=O)cc1C(O)=O,Accela ChemBio (ASD),0,,5-Formyl-2-methoxybenzoic Acid,MFCD01442588,19230397,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEC6C70>,37
+22797,180.16,C9H8O4,180.16,COc1ccc(cc1C=O)C(O)=O,Sinova,0,,3-Formyl-4-methoxy-benzoic acid,MFCD12405165,29269736,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEC8730>,27
+22824,180.16,C9H8O4,180.16,COC(=O)c1ccc(C=O)c(O)c1,HE Chemical,414049,,Methyl 3-hydroxy-4-formylbenzoate,MFCD17015455,43615986,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEC8DF0>,20
+22853,180.16,C9H8O4,180.16,COC(=O)c1ccc(O)c(C=O)c1,Aldlab Chemicals,0,,Methyl3-formyl-4-hydroxybenzoate,MFCD01661473,45491363,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFECB570>,33
+22889,180.16,C9H8O4,180.16,COC(=O)c1ccc(C=O)cc1O,BLD Pharmatech,0,,Methyl 4-formyl-2-hydroxybenzoate,MFCD24674004,50493673,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFECBE70>,14
+22907,180.16,C9H8O4,180.16,COC(=O)c1cccc(O)c1C=O,Enamine - UA Backorder,0,,methyl 2-formyl-3-hydroxybenzoate,MFCD22665932,50493677,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFECC330>,10
+22918,180.16,C9H8O4,180.16,COC(=O)c1ccc(O)cc1C=O,Enamine - UA Stock,0,,methyl 2-formyl-4-hydroxybenzoate,MFCD24681961,50493681,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFECC5F0>,11
+22946,180.16,C9H8O4,180.16,COc1ccc(C(O)=O)c(C=O)c1,Aldlab Chemicals,0,,"Benzoicacid,2-formyl-4-methoxy-",MFCD18453659,92328805,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFECCCF0>,15
+23036,180.18,C10H9FO2,180.18,Fc1cc2CCCOc2c(C=O)c1,"Combi-Blocks, Inc.",0,,6-Fluorochroman-8-carbaldehyde,MFCD08236762,43219775,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFED13F0>,16
+23103,180.2,C10H12O3,180.2,CCOc1cc(C=O)ccc1OC,Accela ChemBio (ASD),0,,3-Ethoxy-4-methoxybenzaldehyde,MFCD00010128,492112,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFED44F0>,46
+23149,180.2,C10H12O3,180.2,COc1ccc(C=O)c(OC)c1C,"Combi-Blocks, Inc.",0,,"2,4-Dimethoxy-3-methylbenzaldehyde",MFCD00011489,495653,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFED60B0>,25
+23174,180.2,C10H12O3,180.2,CCOc1ccc(C=O)cc1OC,Alinda Chemical,0,,4-ethoxy-3-methoxybenzaldehyde,MFCD00016614,516393,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFED66F0>,36
+23216,180.2,C10H12O3,180.2,CCOc1c(OC)cccc1C=O,Alinda Chemical,0,,2-ethoxy-3-methoxybenzaldehyde,MFCD00016584,538098,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFED91B0>,12
+23228,180.2,C10H12O3,180.2,COCc1cc(C=O)ccc1OC,Alinda Chemical,0,,4-methoxy-3-(methoxymethyl)benzaldehyde,MFCD01822195,836886,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFED94B0>,21
+23249,180.2,C10H12O3,180.2,COc1cc(C=O)c(OC)cc1C,Alfa Aesar (US),0,,"2,5-Dimethoxy-4-methylbenzaldehyde, 97%",MFCD02253192,977131,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFED99F0>,25
+23274,180.2,C10H12O3,180.2,COc1cc(C)cc(OC)c1C=O,Alfa Aesar (US),0,,"2,6-Dimethoxy-4-methylbenzaldehyde, 97%",MFCD01321089,1012004,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEDB070>,12
+23286,180.2,C10H12O3,180.2,COc1cc(C)c(C=O)cc1OC,Vitas M Labs,0,,"4,5-dimethoxy-2-methylbenzaldehyde",MFCD00094433,1072197,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEDB370>,22
+23308,180.2,C10H12O3,180.2,CCOc1ccc(C=O)cc1CO,Alinda Chemical,0,,4-ethoxy-3-(hydroxymethyl)benzaldehyde,MFCD03180283,1508616,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEDB8F0>,12
+23320,180.2,C10H12O3,180.2,COCCOc1ccc(C=O)cc1,"Combi-Blocks, Inc.",0,,4-(2-Methoxyethoxy)benzaldehyde,MFCD08144121,1553241,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEDBBF0>,14
+23334,180.2,C10H12O3,180.2,COCCOc1cccc(C=O)c1,"Combi-Blocks, Inc.",0,,3-(2-Methoxyethoxy)benzaldehyde,MFCD08144122,1553243,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEDBF70>,14
+23380,180.2,C10H12O3,180.2,COc1ccc(C=O)c(C)c1OC,"Combi-Blocks, Inc.",0,,2-Methylveratraldehyde,MFCD03428551,30152799,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEDEB30>,14
+23401,180.2,C10H12O3,180.2,COCCOc1ccccc1C=O,"Combi-Blocks, Inc.",0,,2-(2-Methoxyethoxy)benzaldehyde,MFCD09036531,37350764,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEDF0B0>,11
+23460,180.2,C10H12O3,180.2,COc1cc(C=O)cc(OC)c1C,BLD Pharmatech,0,,"3,5-Dimethoxy-4-methylbenzaldehyde",MFCD12025247,76744996,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEDFF70>,15
+23578,180.59,C8H5ClN2O,180.59,Clc1n[nH]c2ccc(C=O)cc12,Bellen Chem,0,,3-chloro-1H-indazole-5-carbaldehyde,MFCD11499014,24870284,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEE4D70>,11
+23589,180.59,C8H5ClN2O,180.59,Clc1n[nH]c2cc(C=O)ccc12,Bellen Chem,0,,3-chloro-1H-indazole-6-carbaldehyde,MFCD11499021,24870304,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEE8070>,10
+23654,181.15,C8H7NO4,181.15,COc1cccc(C=O)c1[N+]([O-])=O,Acros Organics,17267,,"3-Methoxy-2-nitrobenzaldehyde, 97%",MFCD00007135,484602,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEF10F0>,33
+23687,181.15,C8H7NO4,181.15,COc1ccc(cc1C=O)[N+]([O-])=O,Alinda Chemical,0,,2-methoxy-5-nitrobenzaldehyde,MFCD02093683,516321,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEF1930>,28
+23715,181.15,C8H7NO4,181.15,COc1ccc(C=O)cc1[N+]([O-])=O,Alinda Chemical,0,,4-methoxy-3-nitrobenzaldehyde,MFCD00126498,516397,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEF4070>,34
+23749,181.15,C8H7NO4,181.15,COc1cc(ccc1C=O)[N+]([O-])=O,Chem-Impex,24702,,2-Methoxy-4-nitrobenzaldehyde,MFCD02683052,528022,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEF48F0>,23
+23772,181.15,C8H7NO4,181.15,COc1ccc(C=O)c(c1)[N+]([O-])=O,Accela ChemBio (ASD),0,,4-Methoxy-2-nitrobenzaldehyde,MFCD00024254,982526,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEF4EB0>,37
+23814,181.15,C8H7NO4,181.15,COc1ccc(c(C=O)c1)[N+]([O-])=O,"Combi-Blocks, Inc.",0,,5-Methoxy-2-nitrobenzaldehyde,MFCD00456498,4343643,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEF6970>,37
+23855,181.15,C8H7NO4,181.15,COc1cc(C=O)ccc1[N+]([O-])=O,Aldlab Chemicals,0,,3-methoxy-4-nitrobenzaldehyde,MFCD08703367,38801963,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEF93F0>,30
+23885,181.15,C8H7NO4,181.15,COc1cccc(c1C=O)[N+]([O-])=O,BetaPharma,86,,2-METHOXY-6-NITRO-BENZALDEHYDE,MFCD07371505,44390909,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEF9B70>,10
+23895,181.15,C8H7NO4,181.15,COc1cc(C=O)cc(c1)[N+]([O-])=O,"Combi-Blocks, Inc.",0,,3-Methoxy-5-nitrobenzaldehyde,MFCD09038015,44470944,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFEF9DF0>,20
+24036,182.15,C9H7FO3,182.15,Fc1cc2COCOc2c(C=O)c1,Bio-Farma,0,,"6-fluoro-2,4-dihydro-1,3-benzodioxine-8-carbaldehyde",MFCD02677682,719996,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF001F0>,12
+24048,182.15,C9H7FO3,182.15,COC(=O)c1cc(F)ccc1C=O,"Combi-Blocks, Inc.",0,,Methyl 5-fluoro-2-formylbenzoate,MFCD11226921,33510285,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF004F0>,22
+24070,182.15,C9H7FO3,182.15,COC(=O)c1cc(C=O)ccc1F,Key Organics/BIONET,0,,methyl 2-fluoro-5-formylbenzoate,MFCD18904319,36008850,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF00A70>,21
+24091,182.15,C9H7FO3,182.15,COC(=O)c1ccc(C=O)cc1F,"Combi-Blocks, Inc.",0,,Methyl 2-fluoro-4-formylbenzoate,MFCD20231454,36561506,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF00FB0>,31
+24122,182.15,C9H7FO3,182.15,COC(=O)c1ccc(C=O)c(F)c1,Advamacs,0,,Methyl 3-fluoro-4-formylbenzoate 98%,MFCD16036860,43451401,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF037B0>,28
+24150,182.15,C9H7FO3,182.15,COC(=O)c1ccc(F)c(C=O)c1,"Combi-Blocks, Inc.",0,,Methyl 4-fluoro-3-formylbenzoate,MFCD16036861,43469740,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF03EB0>,17
+24167,182.15,C9H7FO3,182.15,COC(=O)c1cc(F)cc(C=O)c1,"Combi-Blocks, Inc.",0,,Methyl 3-fluoro-5-formylbenzoate,MFCD22544332,48606463,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF04330>,23
+24190,182.15,C9H7FO3,182.15,COC(=O)c1cccc(C=O)c1F,"Combi-Blocks, Inc.",0,,Methyl 2-fluoro-3-formylbenzoate,MFCD24447977,50492671,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF048F0>,10
+24249,182.18,C9H10O4,182.18,COc1cc(O)c(C=O)c(OC)c1,TCI America,0,,"4,6-Dimethoxysalicylaldehyde",MFCD00003328,481375,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF077F0>,29
+24278,182.18,C9H10O4,182.18,COc1cc(C=O)cc(O)c1OC,Alinda Chemical,0,,"3-hydroxy-4,5-dimethoxybenzaldehyde",MFCD00010442,492635,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF07F30>,21
+24299,182.18,C9H10O4,182.18,COc1cc(O)cc(OC)c1C=O,Aldlab Chemicals,0,,"4-Hydroxy-2,6-dimethoxybenzaldehyde",MFCD01407645,504075,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF094B0>,27
+24326,182.18,C9H10O4,182.18,COc1cc(C=O)cc(OC)c1O,InterBioScreen,0,,"4-hydroxy-3,5-dimethoxybenzaldehyde",MFCD00006943,531762,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF09B70>,47
+24377,182.18,C9H10O4,182.18,COc1cc(O)c(C=O)cc1OC,"Combi-Blocks, Inc.",0,,"2-Hydroxy-4,5-dimethoxybenzaldehyde",MFCD00598182,1108622,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF0C870>,26
+24437,182.19,C10H11FO2,182.19,CC(C)Oc1ccc(F)cc1C=O,AOBChem USA,34745,,5-Fluoro-2-isopropoxybenzaldehyde,MFCD11639864,37623731,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF0D7B0>,14
+24451,182.19,C10H11FO2,182.19,CC(C)Oc1ccc(C=O)c(F)c1,"Combi-Blocks, Inc.",0,,2-fluoro-4-isopropoxybenzaldehyde,MFCD17011999,44474266,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF0DB30>,16
+24467,182.19,C10H11FO2,182.19,CC(C)Oc1cccc(C=O)c1F,AOBChem USA,19622,,2-Fluoro-3-isopropoxybenzaldehyde,MFCD16295274,45980493,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF0DF30>,12
+24479,182.19,C10H11FO2,182.19,CC(C)Oc1cc(C=O)ccc1F,AOBChem USA,20444,,4-Fluoro-3-(1-methylethoxy)-benzaldehyde,MFCD18447608,45980635,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF10270>,10
+24498,182.19,C10H11FO2,182.19,CCCOc1cc(F)ccc1C=O,AOBChem USA,27167,,4-Fluoro-2-n-propoxybenzaldehyde,MFCD06247717,46102542,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF10730>,10
+24522,182.19,C10H11FO2,182.19,CC(C)Oc1c(F)cccc1C=O,AOBChem USA,16646,,3-Fluoro-2-isopropoxybenzaldehyde,MFCD26056440,92323596,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF10D30>,11
+24614,182.22,C13H10O,182.22,O=Cc1ccc(cc1)-c1ccccc1,Vitas M Labs,0,,biphenyl-4-carbaldehyde,MFCD00006947,481844,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF154B0>,50
+24664,182.22,C13H10O,182.22,O=Cc1ccc2CCc3cccc1c23,Alinda Chemical,0,,"1,2-dihydroacenaphthylene-5-carbaldehyde",MFCD00805838,517386,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF16170>,12
+24676,182.22,C13H10O,182.22,O=Cc1ccccc1-c1ccccc1,Chem-Impex,23416,,2-Phenylbenzaldehyde,MFCD01740431,519841,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF16470>,32
+24708,182.22,C13H10O,182.22,O=Cc1cccc(c1)-c1ccccc1,Accela ChemBio (ASD),0,,3-Phenylbenzaldehyde,MFCD01740432,830496,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF16C70>,39
+24789,182.65,C10H11ClO,182.65,CC(C)c1cc(C=O)ccc1Cl,AOBChem USA,24865,,4-Chloro-3-isopropylbenzaldehyde,MFCD19686193,36770847,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF1B130>,10
+24865,183.12,C7H5NO5,183.12,Oc1cc(C=O)cc(c1O)[N+]([O-])=O,"Combi-Blocks, Inc.",0,,"3,4-Dihydroxy-5-nitrobenzaldehyde",MFCD00871897,933979,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF1F470>,22
+24897,183.12,C7H5NO5,183.12,Oc1cc(cc(C=O)c1O)[N+]([O-])=O,Angene Chemical,0,,"2,3-Dihydroxy-5-nitrobenzaldehyde",MFCD25964229,50280801,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF1FC70>,16
+24940,183.21,C12H9NO,183.21,O=Cc1ccc(cc1)-c1ccccn1,Activate Scientific,0,,4-Pyridin-2-yl-benzaldehyde,MFCD01863537,514438,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF21770>,43
+24983,183.21,C12H9NO,183.21,O=Cc1ccc(cc1)-c1ccncc1,Maybridge,0,,4-pyridin-4-ylbenzaldehyde,MFCD02684110,526643,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF24270>,37
+25020,183.21,C12H9NO,183.21,O=Cc1ccc(cc1)-c1cccnc1,Maybridge,0,,4-pyrid-3-ylbenzaldehyde,MFCD01631910,528874,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF24BB0>,33
+25053,183.21,C12H9NO,183.21,O=Cc1cccc(c1)-c1cccnc1,Chem-Impex,23516,,3-Pyridin-3-yl-benzaldehyde,MFCD02684104,725182,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF26430>,19
+25072,183.21,C12H9NO,183.21,O=Cc1cccc(c1)-c1ccncc1,Chem-Impex,23517,,3-Pyridin-4-yl-benzaldehyde,MFCD02684105,725224,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF268F0>,31
+25103,183.21,C12H9NO,183.21,O=Cc1ccccc1-c1cccnc1,Maybridge,0,,2-pyridin-3-ylbenzaldehyde,MFCD02684097,726122,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF290F0>,30
+25133,183.21,C12H9NO,183.21,O=Cc1cccc(c1)-c1ccccn1,Maybridge,0,,3-pyrid-2-ylbenzaldehyde,MFCD02684103,813520,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF29870>,37
+25170,183.21,C12H9NO,183.21,O=Cc1ccccc1-c1ccncc1,"Combi-Blocks, Inc.",0,,2-(4-Pyridinyl)benzaldehyde,MFCD02684098,819805,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF2A1F0>,25
+25220,183.64,C9H10ClNO,183.64,CN(C)c1ccc(C=O)c(Cl)c1,Maybridge,0,,2-chloro-4-(dimethylamino)benzaldehyde,MFCD00021051,722746,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF2AE70>,19
+25272,184.17,C9H9FO3,184.17,COc1cc(F)c(C=O)cc1OC,Alfa Aesar (US),0,,"6-Fluoroveratraldehyde, 98+%",MFCD00061108,500302,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF2EBB0>,32
+25304,184.17,C9H9FO3,184.17,COc1ccc(F)c(C=O)c1OC,Alfa Aesar (US),0,,"6-Fluoro-2,3-dimethoxybenzaldehyde, 97%",MFCD11110608,30555819,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF313F0>,16
+25327,184.17,C9H9FO3,184.17,COc1ccc(OC)c(C=O)c1F,AOBChem USA,20450,,"3,6-Dimethoxy-2-fluorobenzaldehyde",MFCD19439911,44467840,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF319B0>,10
+25337,184.17,C9H9FO3,184.17,COc1cc(C=O)cc(F)c1OC,"Combi-Blocks, Inc.",0,,"3-Fluoro-4,5-dimethoxybenzaldehyde",MFCD12756549,44479030,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF31C30>,22
+25367,184.17,C9H9FO3,184.17,COc1ccc(C=O)c(F)c1OC,Chemspace,0,,"2-fluoro-3,4-dimethoxybenzaldehyde",MFCD03411462,53889278,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF343F0>,18
+25398,184.17,C9H9FO3,184.17,COc1cc(F)c(C=O)c(OC)c1,ChemScene,0,,"2-Fluoro-4,6-dimethoxybenzaldehyde",MFCD18906188,54588394,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF34BB0>,10
+25487,184.2,C11H8N2O,184.2,O=Cc1ccc(cc1)-c1cncnc1,AstaTech,0,,4-(PYRIMIDIN-5-YL)BENZALDEHYDE,MFCD02684108,526783,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF38270>,17
+25504,184.2,C11H8N2O,184.2,O=Cc1cccc(c1)-c1cncnc1,Aldlab Chemicals,0,,3-Pyrimidin-5-ylbenzaldehyde,MFCD05864833,726679,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF386B0>,28
+25532,184.2,C11H8N2O,184.2,O=Cc1ccccc1-c1cncnc1,Chem-Impex,23512,,2-(5-Pyrimidinyl)benzaldehyde,MFCD02684096,813812,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF38DB0>,14
+25546,184.2,C11H8N2O,184.2,O=Cc1ccc(cc1)-c1ncccn1,Aldlab Chemicals,0,,4-(Pyrimidin-2-yl)benzaldehyde,MFCD08056282,821007,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF3A170>,27
+25573,184.2,C11H8N2O,184.2,O=Cc1cccc(c1)-c1ncccn1,"Combi-Blocks, Inc.",0,,3-(Pyrimidin-2-yl)benzaldehyde,MFCD08056283,821009,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF3A830>,16
+25589,184.2,C11H8N2O,184.2,O=Cc1ccc(cc1)-c1cnccn1,Chem-Impex,23520,,4-(Pyrazin-2-yl)benzaldehyde,MFCD02684109,932538,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF3AC30>,13
+25602,184.2,C11H8N2O,184.2,O=Cc1cccc(c1)-c1cnccn1,"Combi-Blocks, Inc.",0,,3-Pyrazin-2-ylbenzaldehyde,MFCD03002064,932669,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF3AF70>,13
+25643,184.2,C11H8N2O,184.2,Cc1c(C=O)ccc2[nH]c(cc12)C#N,ChemScene,0,,5-Formyl-4-methyl-1H-indole-2-carbonitrile,,276006160,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF3D9F0>,13
+25658,184.21,C8H8O3S,184.21,CS(=O)(=O)c1ccc(C=O)cc1,Activate Scientific,0,,4-Methylsulfonylbenzaldehyde,MFCD00216485,718623,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF3DDB0>,37
+25695,184.21,C8H8O3S,184.21,CS(=O)(=O)c1ccccc1C=O,Aldlab Chemicals,0,,2-(Methylsulfonyl)benzaldehyde,MFCD11052332,7327385,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF3E730>,14
+25709,184.21,C8H8O3S,184.21,CS(=O)(=O)c1cccc(C=O)c1,Aldlab Chemicals,0,,3-(Methylsulfonyl)benzaldehyde,MFCD11052329,22244366,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF3EAB0>,31
+25922,184.58,C8H5ClO3,184.58,Clc1cc2OCOc2cc1C=O,Alinda Chemical,0,,"6-chloro-1,3-benzodioxole-5-carbaldehyde",MFCD00022953,889239,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF5E0F0>,11
+25933,184.58,C8H5ClO3,184.58,Clc1cc(C=O)cc2OCOc12,InterBioScreen,0,,"7-chlorobenzo[d][1,3]dioxole-5-carbaldehyde",MFCD01124865,1261778,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF5E3B0>,14
+25947,184.58,C8H5ClO3,184.58,OC(=O)c1cc(Cl)ccc1C=O,AstaTech,0,,5-CHLORO-2-FORMYLBENZOIC ACID,MFCD06739601,5416517,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF5E730>,28
+25975,184.58,C8H5ClO3,184.58,OC(=O)c1cccc(Cl)c1C=O,Princeton BioMolecular Research,0,,3-chloro-2-formylbenzoic acid,MFCD11053065,36763363,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF5EE30>,10
+25985,184.58,C8H5ClO3,184.58,OC(=O)c1ccc(C=O)c(Cl)c1,"Combi-Blocks, Inc.",0,,3-Chloro-4-formylbenzoic acid,MFCD20649616,46306609,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF690F0>,20
+26005,184.58,C8H5ClO3,184.58,OC(=O)c1cc(Cl)cc(C=O)c1,Accela ChemBio (ASD),0,,3-Chloro-5-formylbenzoic Acid,MFCD20658588,48606459,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF695F0>,11
+26025,184.58,C8H5ClO3,184.58,OC(=O)c1ccc(C=O)cc1Cl,AOBChem USA,32251,,2-Chloro-4-formylbenzoic acid,MFCD11110998,50475283,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF69AF0>,24
+26056,184.58,C8H5ClO3,184.58,OC(=O)c1c(Cl)cccc1C=O,Princeton BioMolecular Research,0,,2-chloro-6-formylbenzoic acid,MFCD11053586,50475287,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF722F0>,10
+26066,184.58,C8H5ClO3,184.58,OC(=O)c1ccc(Cl)cc1C=O,Princeton BioMolecular Research,0,,4-chloro-2-formylbenzoic acid,MFCD18453660,50475289,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF72570>,14
+26090,184.62,C9H9ClO2,184.62,COc1ccc(C=O)cc1CCl,InterBioScreen,0,,3-(chloromethyl)-4-methoxybenzaldehyde,MFCD00995681,846605,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF72B70>,25
+26115,184.62,C9H9ClO2,184.62,CCOc1ccc(Cl)cc1C=O,Alinda Chemical,0,,5-chloro-2-ethoxybenzaldehyde,MFCD03422440,848512,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF7B1F0>,22
+26137,184.62,C9H9ClO2,184.62,Cc1cc(O)c(C=O)c(C)c1Cl,Aldlab Chemicals,0,,"3-Chloro-6-hydroxy-2,4-dimethyl-benzaldehyde",MFCD00732125,1648665,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF7B770>,10
+26147,184.62,C9H9ClO2,184.62,CCOc1ccc(C=O)cc1Cl,ChemBridge,4015100,,3-chloro-4-ethoxybenzaldehyde,MFCD06246171,1719075,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF7B9F0>,19
+26193,184.62,C9H9ClO2,184.62,ClCCOc1ccc(C=O)cc1,Key Organics/BIONET,0,,4-(2-Chloroethoxy)benzaldehyde,MFCD00043699,45478951,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF7C5B0>,11
+26207,184.62,C9H9ClO2,184.62,CCOc1c(Cl)cccc1C=O,AOBChem USA,32954,,3-Chloro-2-ethoxybenzaldehyde,MFCD24678078,49862576,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF7C930>,11
+26219,184.62,C9H9ClO2,184.62,CCOc1ccc(C=O)c(Cl)c1,AOBChem USA,18360,,2-Chloro-4-ethoxybenzaldehyde,MFCD23132246,53886564,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF7CC30>,10
+26251,184.62,C9H9ClO2,184.62,COc1ccc(Cl)c(C)c1C=O,Pharmablock,0,,3-chloro-6-methoxy-2-methyl-benzaldehyde,MFCD24677396,313245631,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF7F470>,10
+26399,185.11,C7H4FNO4,185.11,Oc1cc(F)c(C=O)cc1[N+]([O-])=O,Chemcia,0,,2-Fluoro-4-hydroxy-5-nitro-benzaldehyde,MFCD27995610,49789372,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF8F9F0>,16
+26489,185.56,C7H4ClNO3,185.56,[O-][N+](=O)c1cccc(Cl)c1C=O,Acros Organics,14775,,"2-Chloro-6-nitrobenzaldehyde, 98%",MFCD00007204,478049,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF9B0F0>,32
+26521,185.56,C7H4ClNO3,185.56,[O-][N+](=O)c1ccc(Cl)c(C=O)c1,InterBioScreen,0,,2-chloro-5-nitrobenzaldehyde,MFCD00007293,481393,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFF9B8F0>,43
+26564,185.56,C7H4ClNO3,185.56,[O-][N+](=O)c1ccc(Cl)cc1C=O,"Combi-Blocks, Inc.",0,,5-Chloro-2-nitrobenzaldehyde,MFCD00007289,492242,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFA43F0>,36
+26600,185.56,C7H4ClNO3,185.56,[O-][N+](=O)c1cc(Cl)ccc1C=O,"Combi-Blocks, Inc.",0,,4-Chloro-2-nitrobenzaldehyde,MFCD00056104,536151,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFA4CF0>,28
+26628,185.56,C7H4ClNO3,185.56,[O-][N+](=O)c1cc(C=O)ccc1Cl,InterBioScreen,0,,4-chloro-3-nitrobenzaldehyde,MFCD00007078,536256,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFAF430>,39
+26667,185.56,C7H4ClNO3,185.56,[O-][N+](=O)c1cc(Cl)cc(C=O)c1,"Combi-Blocks, Inc.",0,,3-Chloro-5-nitrobenzaldehyde,MFCD08236780,32179775,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFAFDF0>,20
+26687,185.56,C7H4ClNO3,185.56,[O-][N+](=O)c1cccc(C=O)c1Cl,Accela ChemBio (ASD),0,,2-Chloro-3-nitrobenzaldehyde,MFCD08236804,36750864,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFB8330>,22
+26709,185.56,C7H4ClNO3,185.56,[O-][N+](=O)c1c(Cl)cccc1C=O,Chemcia,0,,3-Chloro-2-nitro-benzaldehyde,MFCD06797953,43443470,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFB88B0>,29
+26738,185.56,C7H4ClNO3,185.56,[O-][N+](=O)c1ccc(C=O)cc1Cl,"Combi-Blocks, Inc.",0,,3-Chloro-4-nitrobenzaldehyde,MFCD00968938,43447970,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFC3030>,16
+26949,186.11,C8H4F2O3,186.11,FC1(F)Oc2ccc(C=O)cc2O1,Alfa Aesar (US),0,,"2,2-Difluoro-1,3-benzodioxole-5-carboxaldehyde, 97%",MFCD00792420,524118,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFE05B0>,18
+26967,186.11,C8H4F2O3,186.11,FC1(F)Oc2cccc(C=O)c2O1,Alfa Aesar (US),0,,"2,2-Difluoro-1,3-benzodioxole-4-carboxaldehyde, 97%",MFCD00792419,907233,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFE0A30>,14
+26981,186.11,C8H4F2O3,186.11,OC(=O)c1c(F)cc(C=O)cc1F,AOBChem USA,20123,,"2,6-Difluoro-4-formylbenzoic acid",MFCD17011991,45980655,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFE0DB0>,15
+26996,186.11,C8H4F2O3,186.11,OC(=O)c1cc(F)c(C=O)c(F)c1,Advamacs,0,,"3,5-Difluoro-4-formylbenzoic acid 97%",MFCD09835188,46114517,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFEB1B0>,27
+27039,186.11,C8H4F2O3,186.11,OC(=O)c1cc(F)c(C=O)cc1F,Enamine - UA Backorder,0,,"2,5-difluoro-4-formylbenzoic acid",MFCD30497656,106492537,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFEBC70>,10
+27049,186.11,C8H4F2O3,186.11,OC(=O)c1c(F)ccc(C=O)c1F,AOBChem USA,32218,,"2,6-Difluoro-3-formylbenzoic acid",MFCD26687989,194334806,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFEBEF0>,10
+27070,186.16,C9H8F2O2,186.16,COc1cc(C=O)ccc1C(F)F,"Combi-Blocks, Inc.",0,,4-(Difluoromethyl)-3-methoxybenzaldehyde,MFCD07357530,11466405,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFF5470>,14
+27084,186.16,C9H8F2O2,186.16,CCOc1ccc(C=O)c(F)c1F,Alfa Aesar (US),0,,"4-Ethoxy-2,3-difluorobenzaldehyde, 97%",MFCD09258700,17116212,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFF57F0>,15
+27099,186.16,C9H8F2O2,186.16,CCOc1c(F)cc(C=O)cc1F,Alfa Aesar (US),0,,"4-Ethoxy-3,5-difluorobenzaldehyde, 97%",MFCD06247325,24630703,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFF5BB0>,16
+27115,186.16,C9H8F2O2,186.16,CCOc1cc(F)c(C=O)c(F)c1,Alfa Aesar (US),0,,"4-Ethoxy-2,6-difluorobenzaldehyde, 97%",MFCD09258695,24630729,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFF5FB0>,14
+27145,186.16,C9H8F2O2,186.16,CCOc1ccc(F)c(C=O)c1F,AOBChem USA,21519,,"3-Ethoxy-2,6-difluorobenzaldehyde",MFCD11519366,30512105,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFFA770>,13
+27158,186.16,C9H8F2O2,186.16,FC(F)COc1ccc(C=O)cc1,Crea-Chim,0,,"4-(2,2-difluoroethoxy)benzaldehyde",MFCD12807547,31745475,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFFAAB0>,26
+27184,186.16,C9H8F2O2,186.16,FC(F)COc1ccccc1C=O,Crea-Chim,0,,"2-(2,2-difluoroethoxy)benzaldehyde",MFCD12807550,31745481,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFFB170>,11
+27195,186.16,C9H8F2O2,186.16,FC(F)COc1cccc(C=O)c1,Crea-Chim,0,,"3-(2,2-difluoroethoxy)benzaldehyde",MFCD12807548,31745517,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFFB430>,12
+27207,186.16,C9H8F2O2,186.16,Cc1ccc(OC(F)F)c(C=O)c1,Bio-Farma,0,,2-(difluoromethoxy)-5-methylbenzaldehyde,MFCD18331348,39749761,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFFB730>,10
+27221,186.16,C9H8F2O2,186.16,CCOc1ccc(F)c(F)c1C=O,AOBChem USA,18129,,"6-Ethoxy-2,3-difluorobenzaldehyde",MFCD13181644,45980952,<rdkit.Chem.rdchem.Mol object at 0x0000020EDFFFBAB0>,14
+27319,186.18,C7H6O4S,186.18,OS(=O)(=O)c1ccc(C=O)cc1,AstaTech,79124,,4-FORMYLBENZENESULFONIC ACID,MFCD22570289,43478902,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00003B0>,18
+27337,186.21,C12H10O2,186.21,COc1ccc(C=O)c2ccccc12,Accela ChemBio (ASD),0,,4-Methoxy-1-naphthaldehyde,MFCD00004006,477802,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0000830>,36
+27373,186.21,C12H10O2,186.21,COc1ccc2ccccc2c1C=O,Alinda Chemical,0,,2-methoxy-1-naphthaldehyde,MFCD00004004,482890,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0005170>,37
+27410,186.21,C12H10O2,186.21,COc1ccc2cc(C=O)ccc2c1,Alfa Aesar (US),0,,"6-Methoxy-2-naphthaldehyde, 99%",MFCD00081152,518129,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0005AB0>,39
+27449,186.21,C12H10O2,186.21,Cc1ccc(o1)-c1ccc(C=O)cc1,ChemBridge,4003068,,4-(5-methyl-2-furyl)benzaldehyde,MFCD04039125,819949,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00064B0>,10
+27459,186.21,C12H10O2,186.21,Cc1ccc(o1)-c1cccc(C=O)c1,ChemBridge,4003502,,3-(5-methyl-2-furyl)benzaldehyde,MFCD03030047,819951,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0006730>,14
+27480,186.21,C12H10O2,186.21,COc1cc2ccccc2cc1C=O,"Combi-Blocks, Inc.",0,,3-Methoxy-2-naphthaldehyde,MFCD13191799,32273826,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0006C70>,26
+27515,186.21,C12H10O2,186.21,COc1c(C=O)ccc2ccccc12,Advamacs,0,,1-Methoxynaphthalene-2-carboxaldehyde 95%,MFCD17012300,50450655,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0009570>,20
+27580,186.21,C11H10N2O,186.21,Cc1nccn1-c1ccc(C=O)cc1,Alinda Chemical,0,,4-(2-methyl-1H-imidazol-1-yl)benzaldehyde,MFCD05864665,1522854,<rdkit.Chem.rdchem.Mol object at 0x0000020EE000B5F0>,27
+27607,186.21,C11H10N2O,186.21,Cc1nccn1-c1ccccc1C=O,Key Organics/BIONET,0,,2-(2-Methylimidazol-1-yl)benzaldehyde,MFCD05864668,4352375,<rdkit.Chem.rdchem.Mol object at 0x0000020EE000BCB0>,23
+27646,186.21,C11H10N2O,186.21,O=Cc1ccc(Cn2cccn2)cc1,ChemBridge,4011465,,4-(1H-pyrazol-1-ylmethyl)benzaldehyde,MFCD08059835,5849927,<rdkit.Chem.rdchem.Mol object at 0x0000020EE000E6B0>,11
+27657,186.21,C11H10N2O,186.21,O=Cc1cccc(Cn2cccn2)c1,ChemBridge,4011471,,3-(1H-pyrazol-1-ylmethyl)benzaldehyde,MFCD08059836,5849939,<rdkit.Chem.rdchem.Mol object at 0x0000020EE000E970>,12
+27669,186.21,C11H10N2O,186.21,Cc1cc(ccc1C=O)-n1cccn1,ChemBridge,4013219,,2-methyl-4-(1H-pyrazol-1-yl)benzaldehyde,MFCD08059904,11489634,<rdkit.Chem.rdchem.Mol object at 0x0000020EE000EC70>,16
+27685,186.21,C11H10N2O,186.21,Cn1ccc(n1)-c1ccc(C=O)cc1,Maybridge,0,,4-(1-methyl-1H-pyrazol-3-yl)benzaldehyde,MFCD08669906,15802022,<rdkit.Chem.rdchem.Mol object at 0x0000020EE000F0B0>,23
+27715,186.21,C11H10N2O,186.21,O=Cc1ccccc1Cn1cccn1,"Combi-Blocks, Inc.",0,,2-(1H-Pyrazol-1-ylmethyl)benzaldehyde,MFCD09864294,18188706,<rdkit.Chem.rdchem.Mol object at 0x0000020EE000F830>,10
+27749,186.21,C11H10N2O,186.21,Cn1nccc1-c1ccc(C=O)cc1,Aldlab Chemicals,0,,4-(1-methyl-1H-pyrazol-5-yl)benzaldehyde,MFCD08669907,37896158,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00120F0>,11
+27793,186.21,C11H10N2O,186.21,Cn1nccc1-c1ccccc1C=O,Enamine - US Stock,0,,2-(1-methyl-1H-pyrazol-5-yl)benzaldehyde,MFCD19620711,40166687,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0012BF0>,10
+27862,186.59,C8H7ClO3,186.59,COc1cc(C=O)cc(Cl)c1O,Alinda Chemical,0,,3-chloro-4-hydroxy-5-methoxybenzaldehyde,MFCD00016982,483882,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0014D70>,25
+27887,186.59,C8H7ClO3,186.59,COc1ccc(C=O)c(Cl)c1O,BetaPharma,86,,2-CHLORO-3-HYDROXY-4-METHOXYBENZALDEHYDE,MFCD03425852,522109,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00173F0>,21
+27914,186.59,C8H7ClO3,186.59,COc1cc(C=O)c(Cl)cc1O,ChemBridge,4004195,,2-chloro-4-hydroxy-5-methoxybenzaldehyde,MFCD02379943,858243,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0017AB0>,13
+27927,186.59,C8H7ClO3,186.59,COc1cc(O)c(C=O)cc1Cl,"Combi-Blocks, Inc.",0,,5-Chloro-2-hydroxy-4-methoxy-benzaldehyde,MFCD08059080,42803596,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0017DF0>,20
+27951,186.59,C8H7ClO3,186.59,COc1cc(O)c(C=O)c(Cl)c1,Accela ChemBio (ASD),0,,2-Chloro-6-hydroxy-4-methoxybenzaldehyde,MFCD23705594,48606251,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0018430>,15
+27966,186.59,C8H7ClO3,186.59,COc1ccc(C=O)c(O)c1Cl,"Combi-Blocks, Inc.",0,,3-Chloro-2-hydroxy-4-methoxy-benzaldehyde,MFCD11052872,48606490,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00187F0>,13
+28072,186.65,C8H7ClOS,186.65,CSc1ccc(C=O)cc1Cl,AOBChem USA,24358,,3-Chloro-4-methylsulfanyl-benzaldehyde,MFCD24056861,96481968,<rdkit.Chem.rdchem.Mol object at 0x0000020EE001F2F0>,12
+28095,187.1,C7H3F2NO3,187.1,[O-][N+](=O)c1cc(C=O)c(F)cc1F,Bio-Farma,0,,"2,4-difluoro-5-nitrobenzaldehyde",MFCD11857779,31408779,<rdkit.Chem.rdchem.Mol object at 0x0000020EE001F8B0>,13
+28108,187.1,C7H3F2NO3,187.1,[O-][N+](=O)c1ccc(F)c(C=O)c1F,"Combi-Blocks, Inc.",0,,"2,6-Difluoro-3-nitrobenzaldehyde",MFCD16877510,36765935,<rdkit.Chem.rdchem.Mol object at 0x0000020EE001FBF0>,12
+28134,187.1,C7H3F2NO3,187.1,[O-][N+](=O)c1cc(F)c(C=O)c(F)c1,"Combi-Blocks, Inc.",0,,"2,6-Difluoro-4-nitrobenzaldehyde",MFCD15528806,50277065,<rdkit.Chem.rdchem.Mol object at 0x0000020EE002B2B0>,11
+28276,187.24,C12H13NO,187.24,CC(C)n1ccc2ccc(C=O)cc12,Alinda Chemical,0,,1-isopropyl-1H-indole-6-carbaldehyde,MFCD11877854,30488638,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00326B0>,10
+28355,188.13,C8H6F2O3,188.13,Oc1cc(C=O)ccc1OC(F)F,Accela ChemBio (ASD),0,,4-(Difluoromethoxy)-3-hydroxybenzaldehyde,MFCD04406687,2730878,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0034AB0>,33
+28388,188.13,C8H6F2O3,188.13,Oc1ccc(C=O)cc1OC(F)F,ChemShuttle,101108,,3-difluoromethoxy-4-hydroxybenzaldehyde,MFCD00720656,44827761,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0037330>,21
+28414,188.15,C9H7F3O,188.15,Cc1c(C=O)cccc1C(F)(F)F,Alfa Aesar (US),0,,"2-Methyl-3-(trifluoromethyl)benzaldehyde, 97%",MFCD04116032,4849763,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00379B0>,20
+28443,188.15,C9H7F3O,188.15,Cc1ccc(c(C=O)c1)C(F)(F)F,Alfa Aesar (US),0,,"5-Methyl-2-(trifluoromethyl)benzaldehyde, 97%",MFCD06660294,4849979,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0038130>,11
+28454,188.15,C9H7F3O,188.15,Cc1ccc(cc1C=O)C(F)(F)F,Alfa Aesar (US),0,,"2-Methyl-5-(trifluoromethyl)benzaldehyde, 97%",MFCD06660200,4850135,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00383F0>,15
+28469,188.15,C9H7F3O,188.15,Cc1cc(ccc1C=O)C(F)(F)F,Frontier Scientific (Logan),0,,2-Methyl-4-(trifluoromethyl)benzaldehyde,MFCD18399853,36088043,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00387B0>,19
+28488,188.15,C9H7F3O,188.15,Cc1cc(C=O)cc(c1)C(F)(F)F,Alfa Aesar (US),0,,"3-Methyl-5-(trifluoromethyl)benzaldehyde, 97%",MFCD16652409,43619960,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0038C70>,13
+28501,188.15,C9H7F3O,188.15,Cc1cc(C=O)ccc1C(F)(F)F,Frontier Scientific (Logan),0,,3-Methyl-4-(trifluoromethyl)benzaldehyde,MFCD18399856,50221738,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0038FB0>,10
+28617,188.19,C10H8N2O2,188.19,Cc1nc(no1)-c1cccc(C=O)c1,Alinda Chemical,0,,"3-(5-methyl-1,2,4-oxadiazol-3-yl)benzaldehyde",MFCD07368545,726170,<rdkit.Chem.rdchem.Mol object at 0x0000020EE003DD30>,13
+28630,188.19,C10H8N2O2,188.19,Cc1nc(no1)-c1ccc(C=O)cc1,Maybridge,0,,"4-(5-methyl-1,2,4-oxadiazol-3-yl)benzaldehyde",MFCD07772818,726468,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00410B0>,11
+28717,188.19,C8H6F2OS,188.19,CSc1c(F)cc(C=O)cc1F,AOBChem USA,24336,,"3,5-Difluoro-4-(methylthio)benzaldehyde",MFCD18887994,40039708,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00426B0>,10
+28742,188.19,C8H6F2OS,188.19,CSc1cc(F)c(C=O)c(F)c1,AOBChem USA,25501,,"2,6-Difluoro-4-(methylthio)benzaldehyde",MFCD23713123,45981566,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0042CF0>,10
+28772,188.23,C12H12O2,188.23,CC(C)(O)C#Cc1ccc(C=O)cc1,ChemBridge,4003333,,4-(3-hydroxy-3-methylbut-1-yn-1-yl)benzaldehyde,MFCD07187866,1508627,<rdkit.Chem.rdchem.Mol object at 0x0000020EE004A4B0>,11
+28790,188.23,C12H12O2,188.23,CC1(C)Oc2ccc(C=O)cc2C=C1,Accela ChemBio (ASD),0,,"2,2-Dimethyl-2H-chromene-6-carbaldehyde",MFCD17215738,48664608,<rdkit.Chem.rdchem.Mol object at 0x0000020EE004A930>,11
+28831,188.23,C11H12N2O,188.23,CN(CCC#N)c1ccc(C=O)cc1,Bio-Farma,0,,3-[(4-formylphenyl)(methyl)amino]propanenitrile,MFCD00021067,517096,<rdkit.Chem.rdchem.Mol object at 0x0000020EE004E3B0>,18
+28866,188.24,C11H8OS,188.24,O=Cc1ccc(cc1)-c1cccs1,"Combi-Blocks, Inc.",0,,4-(2-Thienyl)benzaldehyde,MFCD02682003,524391,<rdkit.Chem.rdchem.Mol object at 0x0000020EE004EC70>,20
+28886,188.24,C11H8OS,188.24,O=Cc1ccccc1-c1cccs1,Aldlab Chemicals,0,,2-Thien-2-ylbenzaldehyde,MFCD04039148,725188,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00511B0>,25
+28915,188.24,C11H8OS,188.24,O=Cc1ccc(cc1)-c1ccsc1,"Combi-Blocks, Inc.",0,,4-(3-Thienyl)benzaldehyde,MFCD04039151,813004,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00518F0>,19
+28934,188.24,C11H8OS,188.24,O=Cc1cccc(c1)-c1ccsc1,Aldlab Chemicals,0,,3-Thien-3-ylbenzaldehyde,MFCD04039150,813006,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0051DB0>,25
+28959,188.24,C11H8OS,188.24,O=Cc1ccccc1-c1ccsc1,Key Organics/BIONET,0,,2-thien-3-ylbenzaldehyde,MFCD04039149,813098,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0052430>,13
+28972,188.27,C13H16O,188.27,O=Cc1ccccc1C1CCCCC1,"Combi-Blocks, Inc.",0,,2-Cyclohexylbenzaldehyde,MFCD06658151,1836950,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0052770>,12
+28984,188.27,C13H16O,188.27,O=Cc1ccc(cc1)C1CCCCC1,Aldlab Chemicals,0,,"Benzaldehyde,4-cyclohexyl-",MFCD11111735,10475548,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0052A70>,23
+29009,188.58,C8H6ClFO2,188.58,COc1c(F)cc(C=O)cc1Cl,Alfa Aesar (US),0,,"3-Chloro-5-fluoro-4-methoxybenzaldehyde, 97%",MFCD04115863,4849446,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00550F0>,15
+29024,188.58,C8H6ClFO2,188.58,COc1ccc(F)c(C=O)c1Cl,Alfa Aesar (US),0,,"2-Chloro-6-fluoro-3-methoxybenzaldehyde, 97%",MFCD04115941,4849596,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00554B0>,13
+29037,188.58,C8H6ClFO2,188.58,COc1ccc(Cl)c(C=O)c1F,Sinova,0,,6-Chloro-2-fluoro-3-methoxy-benzaldehyde,MFCD04115946,4849606,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00557F0>,17
+29054,188.58,C8H6ClFO2,188.58,COc1cc(C=O)c(F)cc1Cl,"Combi-Blocks, Inc.",0,,4-Chloro-2-fluoro-5-methoxy benzaldehyde,MFCD05863886,17253099,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0055C30>,20
+29081,188.58,C8H6ClFO2,188.58,COc1c(Cl)ccc(C=O)c1F,Aldlab Chemicals,0,,4-chloro-2-fluoro-3-methoxybenzaldehyde,MFCD19687172,44479583,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0060330>,20
+29152,188.58,C8H6ClFO2,188.58,COc1c(F)c(Cl)ccc1C=O,Key Organics/BIONET,0,,4-chloro-3-fluoro-2-methoxybenzaldehyde,MFCD24686301,289951139,<rdkit.Chem.rdchem.Mol object at 0x0000020EE006C530>,10
+29196,189.04,C8H6Cl2O,189.04,Cc1cc(Cl)c(C=O)c(Cl)c1,"Combi-Blocks, Inc.",0,,"2,6-Dichloro-4-methylbenzaldehyde",MFCD09753749,31262333,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0071070>,28
+29224,189.04,C8H6Cl2O,189.04,Cc1ccc(C=O)c(Cl)c1Cl,ChemBridge,4045123,,"2,3-dichloro-4-methylbenzaldehyde",MFCD18917081,36092782,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0071770>,15
+29239,189.04,C8H6Cl2O,189.04,Cc1cc(C=O)c(Cl)cc1Cl,"Combi-Blocks, Inc.",0,,"2,4-Dichloro-5-methylbenzaldehyde",MFCD11845977,36763624,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0071B30>,13
+29255,189.04,C8H6Cl2O,189.04,Cc1ccc(Cl)c(C=O)c1Cl,AOBChem USA,16326,,"2,6-Dichloro-3-methylbenzaldehyde",MFCD09999657,45981178,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0071F30>,12
+29369,189.21,C11H11NO2,189.21,O=Cc1ccc(cc1)N1CCCC1=O,Alinda Chemical,0,,4-(2-oxopyrrolidin-1-yl)benzaldehyde,MFCD00454011,724966,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0080C30>,19
+29548,189.23,C10H7NOS,189.23,O=Cc1ccccc1-c1nccs1,"Combi-Blocks, Inc.",0,,2-Thiazol-2-yl-benzaldehyde,MFCD06657778,4351603,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00879B0>,21
+29569,189.23,C10H7NOS,189.23,O=Cc1ccc(cc1)-c1nccs1,Maybridge,0,,"4-(1,3-thiazol-2-yl)benzaldehyde",MFCD06797780,4352749,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0087EF0>,24
+29593,189.23,C10H7NOS,189.23,O=Cc1cccc(c1)-c1nccs1,Maybridge,0,,"3-(1,3-thiazol-2-yl)benzaldehyde",MFCD06797781,4352751,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0089530>,20
+29634,189.26,C12H15NO,189.26,CCN1CCCc2cc(C=O)ccc12,InterBioScreen,0,,"1-ethyl-1,2,3,4-tetrahydroquinoline-6-carbaldehyde",MFCD01551995,1381857,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0089F70>,19
+29653,189.26,C12H15NO,189.26,Cc1cc(C=O)ccc1N1CCCC1,ChemBridge,6444352,,3-methyl-4-pyrrolidin-1-ylbenzaldehyde,MFCD03063768,1405768,<rdkit.Chem.rdchem.Mol object at 0x0000020EE008C470>,14
+29667,189.26,C12H15NO,189.26,O=Cc1ccc(cc1)N1CCCCC1,InterBioScreen,0,,4-(piperidin-1-yl)benzaldehyde,MFCD00778395,1413376,<rdkit.Chem.rdchem.Mol object at 0x0000020EE008C7F0>,29
+29696,189.26,C12H15NO,189.26,Cc1cc(ccc1C=O)N1CCCC1,Alinda Chemical,0,,2-methyl-4-pyrrolidin-1-ylbenzaldehyde,MFCD04084439,1445517,<rdkit.Chem.rdchem.Mol object at 0x0000020EE008CF30>,14
+29710,189.26,C12H15NO,189.26,CC(C)N1CCc2cc(C=O)ccc12,ChemBridge,4006394,,1-isopropylindoline-5-carbaldehyde,MFCD07186368,1508682,<rdkit.Chem.rdchem.Mol object at 0x0000020EE008D2F0>,11
+29726,189.26,C12H15NO,189.26,O=Cc1ccccc1N1CCCCC1,"Combi-Blocks, Inc.",0,,2-Piperidinobenzaldehyde,MFCD03419311,1523160,<rdkit.Chem.rdchem.Mol object at 0x0000020EE008D6F0>,27
+29753,189.26,C12H15NO,189.26,CC1CCc2cc(C=O)ccc2N1C,InterBioScreen,0,,"1,2-dimethyl-1,2,3,4-tetrahydroquinoline-6-carbaldehyde",MFCD06809641,1535065,<rdkit.Chem.rdchem.Mol object at 0x0000020EE008DDB0>,12
+29765,189.26,C12H15NO,189.26,O=Cc1cccc(CN2CCCC2)c1,Alinda Chemical,0,,3-(pyrrolidin-1-ylmethyl)benzaldehyde,MFCD07782420,5415365,<rdkit.Chem.rdchem.Mol object at 0x0000020EE00900F0>,13
+29778,189.26,C12H15NO,189.26,O=Cc1ccc(CN2CCCC2)cc1,Alinda Chemical,0,,4-(pyrrolidin-1-ylmethyl)benzaldehyde,MFCD07782421,5415367,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0090430>,12
+29946,190.12,C8H5F3O2,190.12,FC(F)(F)Oc1cccc(C=O)c1,Alinda Chemical,0,,3-(trifluoromethoxy)benzaldehyde,MFCD00042406,500102,<rdkit.Chem.rdchem.Mol object at 0x0000020EE0095EB0>,39
+29985,190.12,C8H5F3O2,190.12,FC(F)(F)Oc1ccc(C=O)cc1,Alfa Aesar (US),0,,"4-(Trifluoromethoxy)benzaldehyde, 96%",MFCD00041530,502110,<rdkit.Chem.rdchem.Mol object at 0x0000020EE009E8B0>,40
+30025,190.12,C8H5F3O2,190.12,FC(F)(F)Oc1ccccc1C=O,InterBioScreen,0,,2-(trifluoromethoxy)benzaldehyde,MFCD00042405,517761,<rdkit.Chem.rdchem.Mol object at 0x0000020EE22DA2F0>,38
+30063,190.12,C8H5F3O2,190.12,Oc1ccc(C=O)cc1C(F)(F)F,Alfa Aesar (US),0,,"4-Hydroxy-3-(trifluoromethyl)benzaldehyde, 98%",MFCD01091006,909840,<rdkit.Chem.rdchem.Mol object at 0x0000020EE22DAC70>,31
+30094,190.12,C8H5F3O2,190.12,Oc1c(C=O)cccc1C(F)(F)F,Alfa Aesar (US),0,,"3-(Trifluoromethyl)salicylaldehyde, 98+%",MFCD03788529,912652,<rdkit.Chem.rdchem.Mol object at 0x0000020EE22E5470>,20
+30118,190.12,C8H5F3O2,190.12,Oc1ccc(C=O)c(c1)C(F)(F)F,AstaTech,0,,4-HYDROXY-2-TRIFLUOROMETHYLBENZALDEHYDE,MFCD15528830,36761998,<rdkit.Chem.rdchem.Mol object at 0x0000020EE22E5A70>,24
+30142,190.12,C8H5F3O2,190.12,FC(F)Oc1cccc(F)c1C=O,Aldlab Chemicals,0,,2-(Difluoromethoxy)-6-fluorobenzaldehyde,MFCD14698497,43338586,<rdkit.Chem.rdchem.Mol object at 0x0000020EE22F10B0>,17
+30159,190.12,C8H5F3O2,190.12,FC(F)Oc1ccc(C=O)c(F)c1,HE Chemical,6999,,4-Difluoromethoxy-2-fluorobenzaldehyde,MFCD11847162,43338600,<rdkit.Chem.rdchem.Mol object at 0x0000020EE22F14F0>,12
+30171,190.12,C8H5F3O2,190.12,FC(F)Oc1ccc(C=O)cc1F,AstaTech,0,,3-FLUORO-4-DIFLUOROMETHOXYBENZALDEHYD,MFCD11847153,44197210,<rdkit.Chem.rdchem.Mol object at 0x0000020EE22F17F0>,14
+30185,190.12,C8H5F3O2,190.12,Oc1cccc(c1C=O)C(F)(F)F,Apollo Scientific US,0,,2-Hydroxy-6-(trifluoromethyl)benzaldehyde,MFCD16999701,44386839,<rdkit.Chem.rdchem.Mol object at 0x0000020EE22F1B70>,19
+30204,190.12,C8H5F3O2,190.12,Oc1cc(ccc1C=O)C(F)(F)F,"Combi-Blocks, Inc.",0,,2-Hydroxy-4-(trifluoromethyl)benzaldehyde,MFCD04039240,44386841,<rdkit.Chem.rdchem.Mol object at 0x0000020EE22FB070>,31
+30244,190.12,C8H5F3O2,190.12,Oc1ccc(cc1C=O)C(F)(F)F,Aldlab Chemicals,0,,"Benzaldehyde,2-hydroxy-5-(trifluoromethyl)-",MFCD16999709,49252102,<rdkit.Chem.rdchem.Mol object at 0x0000020EE22FBA70>,19
+30286,190.12,C8H5F3O2,190.12,FC(F)Oc1cc(C=O)ccc1F,Accela ChemBio (ASD),0,,3-(Difluoromethoxy)-4-fluorobenzaldehyde,MFCD14698501,50432424,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2307530>,19
+30305,190.12,C8H5F3O2,190.12,FC(F)Oc1ccc(F)cc1C=O,Apollo Scientific US,0,,2-(Difluoromethoxy)-5-fluorobenzaldehyde,MFCD14698502,50432426,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23079F0>,11
+30433,190.18,C10H7FN2O,190.18,Fc1ccc(c(C=O)c1)-n1cccn1,ChemBridge,4011979,,5-fluoro-2-(1H-pyrazol-1-yl)benzaldehyde,MFCD08059861,11482696,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2319A70>,12
+30495,190.2,C11H10O3,190.2,COc1cc(C=O)ccc1OCC#C,Alinda Chemical,0,,3-methoxy-4-(prop-2-yn-1-yloxy)benzaldehyde,MFCD02380252,857849,<rdkit.Chem.rdchem.Mol object at 0x0000020EE231AA30>,21
+30516,190.2,C11H10O3,190.2,COc1ccc(C=O)cc1OCC#C,Aldlab Chemicals,0,,4-Methoxy-3-prop-2-ynyloxy-benzaldehyde,MFCD03001224,1553693,<rdkit.Chem.rdchem.Mol object at 0x0000020EE231AF70>,12
+30551,190.2,C11H10O3,190.2,COC(=O)\C=C\c1ccc(C=O)cc1,"Combi-Blocks, Inc.",0,,Methyl 3-(4-formylphenyl)acrylate,MFCD00157179,43446180,<rdkit.Chem.rdchem.Mol object at 0x0000020EE231D870>,29
+30600,190.2,C10H10N2O2,190.2,Cn1c2ccc(C=O)cc2n(C)c1=O,InterBioScreen,0,,"1,3-dimethyl-2-oxo-2,3-dihydro-1H-benzo[d]imidazole-5-carbaldehyde",MFCD00772536,1425217,<rdkit.Chem.rdchem.Mol object at 0x0000020EE231F4F0>,25
+30645,190.24,C12H14O2,190.24,CC1(C)CCc2cc(C=O)ccc2O1,"Combi-Blocks, Inc.",0,,"2,2-Dimethylchromane-6-carbaldehyde",MFCD00052286,721351,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2322070>,21
+30666,190.24,C12H14O2,190.24,O=Cc1ccccc1OC1CCCC1,ChemBridge,4002832,,2-(cyclopentyloxy)benzaldehyde,MFCD04132910,858184,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23225B0>,10
+30676,190.24,C12H14O2,190.24,O=Cc1ccc(OC2CCCC2)cc1,Alinda Chemical,0,,4-(cyclopentyloxy)benzaldehyde,MFCD04133155,858188,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2322830>,24
+30708,190.24,C12H14O2,190.24,O=Cc1cccc(OC2CCCC2)c1,ChemBridge,4002831,,3-(cyclopentyloxy)benzaldehyde,MFCD04037397,1508622,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2323070>,16
+30724,190.24,C12H14O2,190.24,CCOc1cc2CCCc2cc1C=O,Vitas M Labs,0,,"6-ethoxy-2,3-dihydro-1H-indene-5-carbaldehyde",MFCD06247351,1523039,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2323470>,15
+30764,190.24,C12H14O2,190.24,Cc1cc(C=O)cc2CC(C)(C)Oc12,Alinda Chemical,0,,"2,2,7-trimethyl-2,3-dihydro-1-benzofuran-5-carbaldehyde",MFCD13704775,31266763,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2323E70>,10
+30954,190.29,C13H18O,190.29,CC(C)c1cccc(C(C)C)c1C=O,Key Organics/BIONET,0,,"2,6-Diisopropylbenzaldehyde",MFCD24675884,85193267,<rdkit.Chem.rdchem.Mol object at 0x0000020EE232BEB0>,12
+31016,191.01,C7H4Cl2O2,191.01,Oc1c(Cl)cc(Cl)cc1C=O,InterBioScreen,0,,"3,5-dichloro-2-hydroxybenzaldehyde",MFCD00003320,492918,<rdkit.Chem.rdchem.Mol object at 0x0000020EE232CE70>,36
+31052,191.01,C7H4Cl2O2,191.01,Oc1c(Cl)cc(C=O)cc1Cl,Maybridge,0,,"3,5-dichloro-4-hydroxybenzaldehyde",MFCD00017605,858495,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23317B0>,37
+31089,191.01,C7H4Cl2O2,191.01,Oc1cc(Cl)cc(Cl)c1C=O,"Combi-Blocks, Inc.",0,,"2,4-Dichloro-6-hydroxybenzaldehyde",MFCD00016590,1014535,<rdkit.Chem.rdchem.Mol object at 0x0000020EE233A130>,12
+31101,191.01,C7H4Cl2O2,191.01,Oc1cc(Cl)c(C=O)c(Cl)c1,Alfa Aesar (US),0,,"2,6-Dichloro-4-hydroxybenzaldehyde, 98%",MFCD06797919,6237251,<rdkit.Chem.rdchem.Mol object at 0x0000020EE233A430>,23
+31124,191.01,C7H4Cl2O2,191.01,Oc1cc(Cl)c(Cl)cc1C=O,"Combi-Blocks, Inc.",0,,"4,5-Dichloro-2-hydroxy-benzaldehyde",MFCD06739497,6237261,<rdkit.Chem.rdchem.Mol object at 0x0000020EE233A9F0>,14
+31145,191.01,C7H4Cl2O2,191.01,Oc1c(Cl)c(Cl)ccc1C=O,AOBChem USA,32412,,"3,4-Dichloro-2-hydroxybenzaldehyde",MFCD13192524,40901953,<rdkit.Chem.rdchem.Mol object at 0x0000020EE233AF30>,16
+31161,191.01,C7H4Cl2O2,191.01,Oc1c(Cl)ccc(C=O)c1Cl,Aldlab Chemicals,0,,"2,4-Dichloro-3-hydroxybenzaldehyde",MFCD22199563,43469424,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2344370>,18
+31179,191.01,C7H4Cl2O2,191.01,Oc1cc(Cl)c(C=O)cc1Cl,Key Organics/BIONET,0,,"2,5-dichloro-4-hydroxybenzaldehyde",MFCD06656940,44596057,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23447F0>,11
+31190,191.01,C7H4Cl2O2,191.01,Oc1ccc(C=O)c(Cl)c1Cl,Chem-Impex,23798,,"2,3-Dichloro-4-Hydroxybenzaldehyde",MFCD07775189,45492238,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2344AB0>,12
+31202,191.01,C7H4Cl2O2,191.01,Oc1ccc(Cl)c(Cl)c1C=O,Advamacs,0,,"5,6-Dichlorosalicylaldehyde 97%",MFCD23705585,49426110,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2344DB0>,26
+31278,191.19,C10H9NO3,191.19,COc1cc(C=O)ccc1OCC#N,Alinda Chemical,0,,(4-formyl-2-methoxyphenoxy)acetonitrile,MFCD01038240,838985,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2352130>,17
+31295,191.19,C10H9NO3,191.19,COc1cccc(C=O)c1OCC#N,Key Organics/BIONET,8,,2-(2-formyl-6-methoxyphenoxy)acetonitrile,MFCD02082429,1012780,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2352570>,10
+31340,191.19,C10H9NO3,191.19,COc1cc(C=O)c(cc1OC)C#N,"Combi-Blocks, Inc.",0,,"2-Formyl-4,5-dimethoxybenzonitrile",MFCD24678322,76733029,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23540F0>,17
+31457,191.23,C11H13NO2,191.23,O=Cc1ccc(cc1)N1CCOCC1,Accela ChemBio (ASD),0,,4-Morpholinobenzaldehyde,MFCD00735826,590504,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2357E70>,39
+31496,191.23,C11H13NO2,191.23,O=Cc1ccccc1N1CCOCC1,Accela ChemBio (ASD),0,,2-Morpholinobenzaldehyde,MFCD00662562,722742,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2358870>,39
+31535,191.23,C11H13NO2,191.23,O=Cc1cccc(c1)N1CCOCC1,Aldlab Chemicals,0,,3-Morpholinobenzaldehyde,MFCD07772811,726996,<rdkit.Chem.rdchem.Mol object at 0x0000020EE235B270>,23
+31721,191.61,C10H6ClNO,191.61,Clc1nccc2cc(C=O)ccc12,Frontier Scientific (Logan),0,,1-Chloroisoquinoline-6-carbaldehyde,MFCD15526625,37095584,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23611B0>,10
+31731,191.61,C10H6ClNO,191.61,Clc1nccc2ccc(C=O)cc12,Frontier Scientific (Logan),0,,1-Chloroisoquinoline-7-carbaldehyde,MFCD09835329,37095586,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2361430>,14
+31749,191.61,C10H6ClNO,191.61,Clc1cc2ccc(C=O)cc2cn1,Angene Chemical,0,,"3-Chloro-2-azanaphthalene-7-carboxaldehyde, 3-Chloro-7-formylisoquinoline",MFCD22380180,43480437,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23618B0>,12
+31771,191.61,C10H6ClNO,191.61,Clc1ccc2cc(C=O)ccc2n1,"Combi-Blocks, Inc.",0,,2-Chloroquinoline-6-carbaldehyde,MFCD08236769,44846039,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2361E30>,10
+31869,192.11,C8H4F4O,192.11,Fc1c(C=O)cccc1C(F)(F)F,InterBioScreen,0,,2-fluoro-3-(trifluoromethyl)benzaldehyde,MFCD00061246,500104,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2366730>,33
+31902,192.11,C8H4F4O,192.11,Fc1cccc(c1C=O)C(F)(F)F,Alfa Aesar (US),0,,"2-Fluoro-6-(trifluoromethyl)benzaldehyde, 97%",MFCD00061273,507847,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2366F70>,36
+31938,192.11,C8H4F4O,192.11,Fc1ccc(C=O)c(c1)C(F)(F)F,Alfa Aesar (US),0,,"4-Fluoro-2-(trifluoromethyl)benzaldehyde, 98%",MFCD00061313,507849,<rdkit.Chem.rdchem.Mol object at 0x0000020EE236D8B0>,28
+31966,192.11,C8H4F4O,192.11,Fc1ccc(C=O)cc1C(F)(F)F,Activate Scientific,0,,4-Fluoro-3-trifluoromethylbenzaldehyde,MFCD00061314,511997,<rdkit.Chem.rdchem.Mol object at 0x0000020EE236DFB0>,37
+32003,192.11,C8H4F4O,192.11,Fc1cc(C=O)cc(c1)C(F)(F)F,Alfa Aesar (US),0,,"3-Fluoro-5-(trifluoromethyl)benzaldehyde, 97%",MFCD00061312,517769,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2376930>,30
+32033,192.11,C8H4F4O,192.11,Fc1cc(ccc1C=O)C(F)(F)F,Alfa Aesar (US),0,,"2-Fluoro-4-(trifluoromethyl)benzaldehyde, 97%",MFCD00061310,517771,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23810F0>,30
+32063,192.11,C8H4F4O,192.11,Fc1ccc(cc1C=O)C(F)(F)F,InterBioScreen,0,,2-fluoro-5-(trifluoromethyl)benzaldehyde,MFCD00061311,517773,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2381870>,38
+32101,192.11,C8H4F4O,192.11,Fc1cc(C=O)ccc1C(F)(F)F,Alfa Aesar (US),0,,"3-Fluoro-4-(trifluoromethyl)benzaldehyde, 97%",MFCD00236275,885124,<rdkit.Chem.rdchem.Mol object at 0x0000020EE238B230>,26
+32127,192.11,C8H4F4O,192.11,Fc1ccc(c(C=O)c1)C(F)(F)F,Alfa Aesar (US),0,,"5-Fluoro-2-(trifluoromethyl)benzaldehyde, 97%",MFCD00236276,892189,<rdkit.Chem.rdchem.Mol object at 0x0000020EE238B8B0>,25
+32152,192.11,C8H4F4O,192.11,Fc1cccc(C=O)c1C(F)(F)F,Alfa Aesar (US),0,,"3-Fluoro-2-(trifluoromethyl)benzaldehyde, 97%",MFCD04116354,6249791,<rdkit.Chem.rdchem.Mol object at 0x0000020EE238BEF0>,12
+32235,192.21,C11H12O3,192.21,COc1cc(CC=C)cc(C=O)c1O,Acros Organics,37936,,"5-Allyl-2-hydroxy-3-methoxybenzaldehyde, 98%",MFCD06408022,719613,<rdkit.Chem.rdchem.Mol object at 0x0000020EE239A430>,13
+32248,192.21,C11H12O3,192.21,COc1cc(C=O)ccc1OCC=C,Alinda Chemical,0,,4-(allyloxy)-3-methoxybenzaldehyde,MFCD01157220,838103,<rdkit.Chem.rdchem.Mol object at 0x0000020EE239A770>,16
+32264,192.21,C11H12O3,192.21,COc1cc(C=O)cc(CC=C)c1O,ChemBridge,4012328,,3-allyl-4-hydroxy-5-methoxybenzaldehyde,MFCD01590282,858212,<rdkit.Chem.rdchem.Mol object at 0x0000020EE239AB70>,14
+32278,192.21,C11H12O3,192.21,COc1cccc(C=O)c1OCC=C,Aldlab Chemicals,0,,2-(Allyloxy)-3-methoxybenzenecarbaldehyde,MFCD03001271,877433,<rdkit.Chem.rdchem.Mol object at 0x0000020EE239AEF0>,16
+32366,192.21,C11H12O3,192.21,Oc1ccc(C=O)cc1OCC1CC1,"Combi-Blocks, Inc.",0,,3-(Cyclopropylmethoxy)-4-hydroxybenzaldehyde,MFCD16999806,44834488,<rdkit.Chem.rdchem.Mol object at 0x0000020EE239F570>,17
+32394,192.21,C11H12O3,192.21,CCOC(=O)Cc1ccc(C=O)cc1,Key Organics/BIONET,0,,Ethyl 2-(4-formylphenyl)acetate,MFCD15523550,50270915,<rdkit.Chem.rdchem.Mol object at 0x0000020EE239FC70>,13
+32561,192.26,C12H16O2,192.26,CCCCCOc1ccc(C=O)cc1,InterBioScreen,0,,4-(pentyloxy)benzaldehyde,MFCD00014135,836933,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23A66F0>,19
+32580,192.26,C12H16O2,192.26,CCCCCOc1ccccc1C=O,Aldlab Chemicals,0,,2-(Pentyloxy)benzaldehyde,MFCD00451949,848386,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23A6BB0>,10
+32590,192.26,C12H16O2,192.26,CC(C)CCOc1ccccc1C=O,Alinda Chemical,0,,2-(3-methylbutoxy)benzaldehyde,MFCD03422398,848388,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23A6E30>,17
+32607,192.26,C12H16O2,192.26,CCCCCOc1cccc(C=O)c1,Aldlab Chemicals,0,,3-PentYl-Oxy-Benzaldehyde,MFCD01922044,1012826,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23A82B0>,10
+32617,192.26,C12H16O2,192.26,COc1cc(C)c(C=O)cc1C(C)C,ChemBridge,6531894,,5-isopropyl-4-methoxy-2-methylbenzaldehyde,MFCD02629380,1560316,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23A8530>,18
+32635,192.26,C12H16O2,192.26,CC(C)CCOc1ccc(C=O)cc1,"Combi-Blocks, Inc.",0,,4-(3-Methyl-butoxy)-benzaldehyde,MFCD02254125,2852807,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23A89B0>,12
+32647,192.26,C12H16O2,192.26,COc1ccc(cc1C=O)C(C)(C)C,"Combi-Blocks, Inc.",0,,5-(tert-Butyl)-2-methoxybenzaldehyde,MFCD06246086,4853648,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23A8CB0>,17
+32664,192.26,C12H16O2,192.26,CC(C)CCOc1cccc(C=O)c1,ChemBridge,9071441,,3-(3-methylbutoxy)benzaldehyde,MFCD09864622,18189664,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23AB130>,11
+32930,193.0,C7H3Cl2FO,193.0,Fc1ccc(Cl)c(Cl)c1C=O,Alfa Aesar (US),0,,"2,3-Dichloro-6-fluorobenzaldehyde, 97%",MFCD04115870,4849462,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23B54B0>,19
+32949,193.0,C7H3Cl2FO,193.0,Fc1c(Cl)ccc(Cl)c1C=O,Alfa Aesar (US),0,,"3,6-Dichloro-2-fluorobenzaldehyde, 97%",MFCD09025381,24630554,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23B5970>,17
+32966,193.0,C7H3Cl2FO,193.0,Fc1cc(C=O)c(Cl)cc1Cl,HE Chemical,396418,,"2,4-Dichloro-5-fluorobenzaldehyde",MFCD01631379,31262796,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23B5DB0>,23
+32989,193.0,C7H3Cl2FO,193.0,Fc1cc(Cl)cc(Cl)c1C=O,"Combi-Blocks, Inc.",0,,"2,4-Dichloro-6-fluorobenzaldehyde",MFCD12404935,31528190,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23BB3B0>,23
+33012,193.0,C7H3Cl2FO,193.0,Fc1c(Cl)cc(C=O)cc1Cl,"Combi-Blocks, Inc.",0,,"3,5-Dichloro-4-fluorobenzaldehyde",MFCD11845864,36763398,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23BB970>,11
+33023,193.0,C7H3Cl2FO,193.0,Fc1cc(C=O)cc(Cl)c1Cl,"Combi-Blocks, Inc.",0,,"3,4-Dichloro-5-fluorobenzaldehyde",MFCD11845917,36763503,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23BBC30>,14
+33037,193.0,C7H3Cl2FO,193.0,Fc1c(Cl)c(Cl)ccc1C=O,AOBChem USA,34328,,"3,4-Dichloro-2-fluorobenzaldehyde",MFCD19686189,36770833,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23BBFB0>,11
+33048,193.0,C7H3Cl2FO,193.0,Fc1ccc(Cl)c(C=O)c1Cl,"Combi-Blocks, Inc.",0,,"2,6-Dichloro-3-fluorobenzaldehyde",MFCD09835189,43469538,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23C52B0>,23
+33071,193.0,C7H3Cl2FO,193.0,Fc1cc(Cl)c(C=O)c(Cl)c1,Advamacs,0,,"2,6-Dichloro-4-fluorobenzaldehyde 95+%",MFCD20526366,44391340,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23C5870>,31
+33102,193.0,C7H3Cl2FO,193.0,Fc1c(Cl)ccc(C=O)c1Cl,"Combi-Blocks, Inc.",0,,"2,4-Dichloro-3-fluorobenzaldehyde",MFCD26407306,48579496,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23CE070>,10
+33115,193.0,C7H3Cl2FO,193.0,Fc1ccc(C=O)c(Cl)c1Cl,HE Chemical,396414,,"2,3-Dichloro-4-fluorobenzaldehyde",MFCD24685796,49825387,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23CE3B0>,12
+33135,193.0,C7H3Cl2FO,193.0,Fc1c(Cl)cc(Cl)cc1C=O,AOBChem USA,31052,,"3,5-Dichloro-2-fluorobenzaldehyde",MFCD26687657,50488857,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23CE8B0>,18
+33153,193.0,C7H3Cl2FO,193.0,Fc1cc(Cl)c(Cl)cc1C=O,HE Chemical,396429,,"4,5-Dichloro-2-fluorobenzaldehyde",MFCD28785955,50488859,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23CED30>,11
+33307,193.2,C10H11NO3,193.2,CN(C)C(=O)Oc1ccc(C=O)cc1,Advamacs,0,,"Carbamic acid, N,N-dimethyl-, 4-formylphenyl ester 95%",MFCD24677452,289949102,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23DD470>,11
+33369,193.22,C11H12FNO,193.22,Fc1cccc(N2CCCC2)c1C=O,HTS Biochemie,0,,2-fluoro-6-pyrrolidin-1-ylbenzaldehyde,MFCD06660487,2858978,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23DF430>,12
+33382,193.22,C11H12FNO,193.22,Fc1ccc(C=O)cc1N1CCCC1,Accela ChemBio (ASD),0,,4-Fluoro-3-pyrrolidinobenzaldehyde,MFCD13191603,30151703,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23DF770>,15
+33423,193.25,C11H15NO2,193.25,CCN(CC)c1ccc(C=O)c(O)c1,Alinda Chemical,0,,4-(diethylamino)-2-hydroxybenzaldehyde,MFCD00003326,489804,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23E21F0>,38
+33461,193.25,C11H15NO2,193.25,CN(C)CCOc1ccc(C=O)cc1,Aldlab Chemicals,0,,4-(2-(Dimethylamino)ethoxy)benzaldehyde,MFCD07368978,1508648,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23E2B70>,31
+33496,193.25,C11H15NO2,193.25,CN(C)CCOc1ccccc1C=O,Maybridge,0,,2-[2-(dimethylamino)ethoxy]benzaldehyde,MFCD08146610,5769592,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23E3470>,16
+33512,193.25,C11H15NO2,193.25,CN(C)CCOc1cccc(C=O)c1,Alinda Chemical,0,,3-[2-(dimethylamino)ethoxy]benzaldehyde,MFCD09675043,14272754,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23E3870>,12
+33717,194.19,C10H10O4,194.19,COc1cc(C=O)ccc1OC(C)=O,Aldlab Chemicals,0,,4-Formyl-2-methoxyphenylacetate,MFCD00003362,492627,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23EBC70>,29
+33767,194.19,C10H10O4,194.19,COc1cc(C=O)cc2OCCOc12,InterBioScreen,0,,"8-methoxy-2,3-dihydrobenzo[b][1,4]dioxine-6-carbaldehyde",MFCD06342801,840246,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23EE930>,20
+33787,194.19,C10H10O4,194.19,COC(=O)COc1ccccc1C=O,Vitas M Labs,0,,methyl (2-formylphenoxy)acetate,MFCD02629604,857997,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23EEE30>,30
+33817,194.19,C10H10O4,194.19,COC(=O)COc1ccc(C=O)cc1,Aldlab Chemicals,0,,Methyl2-(4-formylphenoxy)acetate,MFCD00463122,858015,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23F15F0>,34
+33851,194.19,C10H10O4,194.19,COC(=O)COc1cccc(C=O)c1,Key Organics/BIONET,9,,methyl 2-(3-formylphenoxy)acetate,MFCD04227169,858439,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23F1E70>,10
+33861,194.19,C10H10O4,194.19,COc1ccc(C=O)cc1OC(C)=O,Accela ChemBio (ASD),0,,3-Acetoxy-4-methoxybenzaldehyde,MFCD00266441,1073697,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23F3130>,24
+33897,194.19,C10H10O4,194.19,COc1cc2OCCOc2cc1C=O,ChemBridge,4027572,,"7-methoxy-2,3-dihydro-1,4-benzodioxine-6-carbaldehyde",MFCD08144775,2723279,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23F3A30>,14
+33911,194.19,C10H10O4,194.19,CC(Oc1ccc(C=O)cc1)C(O)=O,ChemBridge,6251408,,2-(4-formylphenoxy)propanoic acid,MFCD03850823,4803633,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23F3DB0>,17
+33934,194.19,C10H10O4,194.19,COC(=O)c1cc(C=O)ccc1OC,Activate Scientific,0,,Methyl 5-Formyl-2-methoxybenzoate,MFCD10565654,11553500,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23F63B0>,28
+33987,194.19,C10H10O4,194.19,Cc1ccc(OCC(O)=O)c(C=O)c1,Aldlab Chemicals,0,,"Aceticacid,2-(2-formyl-4-methylphenoxy)-,",MFCD18331345,36729097,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23F7130>,12
+34002,194.19,C10H10O4,194.19,COC(=O)Cc1ccc(O)c(C=O)c1,Aldlab Chemicals,0,,Methyl2-(3-formyl-4-hydroxyphenyl)acetate,MFCD04972464,43608426,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23F74F0>,16
+34021,194.19,C10H10O4,194.19,COC(=O)c1ccc(C=O)c(OC)c1,"Combi-Blocks, Inc.",0,,Methyl 4-formyl-3-methoxybenzoate,MFCD17169951,44479626,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23F79B0>,23
+34044,194.19,C10H10O4,194.19,COC(=O)c1ccc(OC)c(C=O)c1,"Combi-Blocks, Inc.",0,,Methyl 3-formyl-4-methoxybenzoate,MFCD09832059,44479707,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23F7F70>,19
+34071,194.19,C10H10O4,194.19,COC(=O)c1cc(OC)cc(C=O)c1,"Combi-Blocks, Inc.",0,,methyl 3-formyl-5-methoxybenzoate,MFCD11045770,48606422,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23FA670>,17
+34092,194.19,C10H10O4,194.19,COC(=O)c1cccc(C=O)c1OC,Key Organics/BIONET,0,,Methyl 3-formyl-2-methoxybenzoate,MFCD24387418,49265502,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23FABB0>,12
+34106,194.19,C10H10O4,194.19,COC(=O)c1ccc(C=O)cc1OC,Aldlab Chemicals,0,,Methyl4-formyl-2-methoxybenzoate,MFCD24673848,50501752,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23FAF30>,18
+34128,194.19,C10H10O4,194.19,COC(=O)c1cc(OC)ccc1C=O,Aldlab Chemicals,0,,"Benzoicacid,2-formyl-5-methoxy-,methylester",MFCD23098280,95736487,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23FC4F0>,12
+34182,194.19,C9H10N2O3,194.19,CN(C)c1ccc(C=O)cc1[N+]([O-])=O,Alinda Chemical,0,,4-(dimethylamino)-3-nitrobenzaldehyde,MFCD00480831,551462,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23FF2B0>,12
+34202,194.19,C9H10N2O3,194.19,CN(C)c1ccc(c(C=O)c1)[N+]([O-])=O,Advamacs,0,,5-(dimethylamino)-2-nitrobenzaldehyde 95%,MFCD05148755,4345921,<rdkit.Chem.rdchem.Mol object at 0x0000020EE23FF7B0>,11
+34307,194.23,C11H14O3,194.23,CCc1cc(OC)c(C=O)cc1OC,Key Organics/BIONET,0,,"4-ethyl-2,5-dimethoxybenzaldehyde",MFCD09743613,30721,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2403270>,11
+34319,194.23,C11H14O3,194.23,CCOc1ccc(C=O)c(OCC)c1,Alinda Chemical,0,,"2,4-diethoxybenzaldehyde",MFCD00995010,516377,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2403570>,23
+34347,194.23,C11H14O3,194.23,CCOc1ccc(C=O)cc1OCC,Alinda Chemical,0,,"3,4-diethoxybenzaldehyde",MFCD00016607,522011,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2403C70>,22
+34371,194.23,C11H14O3,194.23,CCCOc1ccc(C=O)cc1OC,Alinda Chemical,0,,3-methoxy-4-propoxybenzaldehyde,MFCD00189329,836748,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24052B0>,16
+34387,194.23,C11H14O3,194.23,COc1cc(C=O)ccc1OC(C)C,InterBioScreen,0,,4-isopropoxy-3-methoxybenzaldehyde,MFCD00837588,836758,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24056B0>,26
+34413,194.23,C11H14O3,194.23,CCOCc1cc(C=O)ccc1OC,Alinda Chemical,0,,3-(ethoxymethyl)-4-methoxybenzaldehyde,MFCD03419347,846627,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2405D30>,16
+34429,194.23,C11H14O3,194.23,CCCOc1c(OC)cccc1C=O,Alinda Chemical,0,,3-methoxy-2-propoxybenzaldehyde,MFCD03422449,848530,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2408170>,13
+34442,194.23,C11H14O3,194.23,CCCOc1cc(C=O)ccc1OC,Alinda Chemical,0,,4-methoxy-3-propoxybenzaldehyde,MFCD00831057,848594,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24084B0>,17
+34508,194.23,C11H14O3,194.23,COc1ccc(C=O)c(OC(C)C)c1,Bio-Farma,0,,4-methoxy-2-(propan-2-yloxy)benzaldehyde,MFCD14607625,36084893,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2409570>,15
+34542,194.23,C11H14O3,194.23,Cc1cc(C=O)cc(C)c1OCCO,Accela ChemBio (ASD),0,,"4-(2-Hydroxyethoxy)-3,5-dimethylbenzaldehyde",MFCD11188381,37478013,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2409DF0>,26
+34688,194.23,C14H10O,194.23,O=Cc1ccc-2c(Cc3ccccc-23)c1,Alfa Aesar (US),0,,"Fluorene-2-carboxaldehyde, 99%",MFCD00001123,482604,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2411330>,14
+34721,194.29,C11H14OS,194.29,CC(C)CSc1ccc(C=O)cc1,Crea-Chim,0,,4-(isobutylthio)benzaldehyde,MFCD04971071,853892,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2411B70>,12
+34764,194.31,C10H14O2Si,194.31,C[Si](C)(C)Oc1ccc(C=O)cc1,Accela ChemBio (ASD),0,,4-[(Trimethylsilyl)oxy]benzaldehyde,MFCD00040723,891265,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2412670>,17
+34823,195.13,C8H5NO5,195.13,[O-][N+](=O)c1cc2OCOc2cc1C=O,InterBioScreen,0,,"6-nitrobenzo[d][1,3]dioxole-5-carbaldehyde",MFCD00005829,481222,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2416570>,28
+35028,195.22,C13H9NO,195.22,O=Cc1ccc2[nH]c3ccccc3c2c1,Bellen Chem,0,,9H-carbazole-3-carbaldehyde,MFCD09743119,37541695,<rdkit.Chem.rdchem.Mol object at 0x0000020EE241C970>,11
+35136,196.08,C7HF5O,196.08,Fc1c(F)c(F)c(C=O)c(F)c1F,Alfa Aesar (US),0,,"Pentafluorobenzaldehyde, 98+%",MFCD00003303,477840,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24214F0>,33
+35169,196.12,C7H4N2O5,196.12,[O-][N+](=O)c1ccc(C=O)c(c1)[N+]([O-])=O,Alfa Aesar (US),0,,"2,4-Dinitrobenzaldehyde, 98%",MFCD00013376,537098,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2421D30>,18
+35195,196.12,C7H4N2O5,196.12,[O-][N+](=O)c1cc(C=O)cc(c1)[N+]([O-])=O,Specs,0,,"3,5-dinitrobenzaldehyde",MFCD04971227,29542231,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24283F0>,11
+35249,196.18,C10H9FO3,196.18,CCOC(=O)c1ccc(C=O)c(F)c1,Activate Scientific,0,,Ethyl 3-fluoro-4-formylbenzoate,MFCD28795855,50492661,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24291B0>,13
+35313,196.2,C10H12O4,196.2,COc1cc(OC)c(C=O)cc1OC,Aldlab Chemicals,0,,Asarylaldehyde,MFCD00003312,480653,<rdkit.Chem.rdchem.Mol object at 0x0000020EE242C1F0>,51
+35364,196.2,C10H12O4,196.2,COc1cc(OC)c(C=O)c(OC)c1,InterBioScreen,0,,"2,4,6-trimethoxybenzaldehyde",MFCD00003313,481373,<rdkit.Chem.rdchem.Mol object at 0x0000020EE242CEB0>,42
+35406,196.2,C10H12O4,196.2,COc1ccc(C=O)c(OC)c1OC,InterBioScreen,0,,"2,3,4-trimethoxybenzaldehyde",MFCD00003310,483055,<rdkit.Chem.rdchem.Mol object at 0x0000020EE242E970>,44
+35450,196.2,C10H12O4,196.2,COc1cc(C=O)cc(OC)c1OC,InterBioScreen,0,,"3,4,5-trimethoxybenzaldehyde",MFCD00003364,532789,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24314B0>,39
+35489,196.2,C10H12O4,196.2,COc1cc(C=O)ccc1OCCO,Crea-Chim,0,,4-(2-hydroxyethoxy)-3-methoxybenzaldehyde,MFCD02256123,838957,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2431E70>,11
+35548,196.21,C13H8O2,196.21,O=Cc1cccc2c3ccccc3oc12,Alinda Chemical,0,,"dibenzo[b,d]furan-4-carbaldehyde",MFCD03306027,521717,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2432D70>,21
+35569,196.21,C13H8O2,196.21,O=Cc1ccc2oc3ccccc3c2c1,Vitas M Labs,0,,"dibenzo[b,d]furan-2-carbaldehyde",MFCD00136272,724538,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24352F0>,34
+35723,196.25,C14H12O,196.25,Cc1ccc(cc1)-c1ccc(C=O)cc1,Chem-Impex,23502,,4?-Methyl-4-formylbiphenyl,MFCD02258938,528602,<rdkit.Chem.rdchem.Mol object at 0x0000020EE243A9F0>,20
+35743,196.25,C14H12O,196.25,Cc1ccc(cc1)-c1cccc(C=O)c1,"Combi-Blocks, Inc.",0,,3-(4-Methylphenyl)benzaldehyde,MFCD03424625,528604,<rdkit.Chem.rdchem.Mol object at 0x0000020EE243AEF0>,13
+35756,196.25,C14H12O,196.25,Cc1ccccc1-c1ccc(C=O)cc1,ChemBridge,4301965,,2'-methylbiphenyl-4-carbaldehyde,MFCD01631915,812750,<rdkit.Chem.rdchem.Mol object at 0x0000020EE243B270>,20
+35776,196.25,C14H12O,196.25,Cc1cccc(c1)-c1ccc(C=O)cc1,Alfa Aesar (US),0,,"3'-Methylbiphenyl-4-carboxaldehyde, 96%",MFCD03424618,812752,<rdkit.Chem.rdchem.Mol object at 0x0000020EE243B770>,27
+35803,196.25,C14H12O,196.25,Cc1ccccc1-c1cccc(C=O)c1,Frontier Scientific Services,500020227,,2'-Methyl-Biphenyl-3-Carboxaldehyde,MFCD03424623,812766,<rdkit.Chem.rdchem.Mol object at 0x0000020EE243BE30>,17
+35820,196.25,C14H12O,196.25,Cc1cccc(c1)-c1cccc(C=O)c1,"Combi-Blocks, Inc.",0,,3-(3-Methylphenyl)benzaldehyde,MFCD03424624,812768,<rdkit.Chem.rdchem.Mol object at 0x0000020EE243E2B0>,19
+35839,196.25,C14H12O,196.25,Cc1ccccc1-c1ccccc1C=O,Alfa Aesar (US),0,,"2'-Methylbiphenyl-2-carboxaldehyde, 98%",MFCD03424630,812972,<rdkit.Chem.rdchem.Mol object at 0x0000020EE243E770>,14
+35868,196.25,C14H12O,196.25,O=Cc1ccc(Cc2ccccc2)cc1,Alfa Aesar (US),0,,"4-Benzylbenzaldehyde, 97%",MFCD01666418,4358994,<rdkit.Chem.rdchem.Mol object at 0x0000020EE243EEB0>,24
+35901,196.25,C14H12O,196.25,Cc1c(C=O)cccc1-c1ccccc1,Aldlab Chemicals,0,,"2-Methyl-[1,1'-biphenyl]-3-carbaldehyde",MFCD11553605,25679799,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2440730>,16
+35951,196.63,C10H9ClO2,196.63,Clc1ccc(OCC=C)c(C=O)c1,ChemBridge,4021966,,2-(allyloxy)-5-chlorobenzaldehyde,MFCD03946381,3925878,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24433F0>,12
+35963,196.63,C10H9ClO2,196.63,Clc1cc(C=O)ccc1OCC=C,Aldlab Chemicals,0,,"Benzaldehyde,3-chloro-4-(2-propen-1-yloxy)-",MFCD07432493,9895423,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24436F0>,11
+36056,197.15,C8H7NO5,197.15,COc1cc(cc(C=O)c1O)[N+]([O-])=O,Alinda Chemical,0,,2-hydroxy-3-methoxy-5-nitrobenzaldehyde,MFCD00017033,507741,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2444E70>,25
+36081,197.15,C8H7NO5,197.15,COc1cc(C=O)cc(c1O)[N+]([O-])=O,Vitas M Labs,0,,4-hydroxy-3-methoxy-5-nitrobenzaldehyde,MFCD00007118,529956,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24474F0>,36
+36117,197.15,C8H7NO5,197.15,COc1cc(C=O)c(O)c(c1)[N+]([O-])=O,Alinda Chemical,0,,2-hydroxy-5-methoxy-3-nitrobenzaldehyde,MFCD00016640,811670,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2447DF0>,11
+36128,197.15,C8H7NO5,197.15,COc1c(O)ccc(C=O)c1[N+]([O-])=O,Accela ChemBio (ASD),0,,4-Hydroxy-3-methoxy-2-nitrobenzaldehyde,MFCD00017020,857893,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24490F0>,34
+36171,197.15,C8H7NO5,197.15,COc1cc(C=O)c(cc1O)[N+]([O-])=O,Bio-Farma,0,,4-hydroxy-5-methoxy-2-nitrobenzaldehyde,MFCD00034536,2871252,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2449BB0>,21
+36284,197.24,C13H11NO,197.24,Cc1ccc(nc1)-c1ccc(C=O)cc1,AOBChem USA,27783,,4-(5-Methylpyridin-2-yl)benzaldehyde,MFCD17677990,36497257,<rdkit.Chem.rdchem.Mol object at 0x0000020EE244D870>,11
+36383,197.66,C10H12ClNO,197.66,CN(CCCl)c1ccc(C=O)cc1,"Combi-Blocks, Inc.",0,,4-((2-Chloroethyl)(methyl)amino)benzaldehyde,MFCD00071777,2724322,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24521B0>,16
+36623,198.22,C13H10O2,198.22,O=Cc1cccc(Oc2ccccc2)c1,Aldlab Chemicals,0,,3-Phenoxybenzaldehyde,MFCD00003353,487063,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2459E70>,26
+36649,198.22,C13H10O2,198.22,O=Cc1ccc(Oc2ccccc2)cc1,Alfa Aesar (US),0,,"4-Phenoxybenzaldehyde, 98%",MFCD00003383,488597,<rdkit.Chem.rdchem.Mol object at 0x0000020EE245B530>,44
+36706,198.22,C13H10O2,198.22,Oc1ccc(cc1)-c1ccccc1C=O,"Combi-Blocks, Inc.",0,,4-(2-Formylphenyl)phenol,MFCD04117373,819771,<rdkit.Chem.rdchem.Mol object at 0x0000020EE245E3B0>,11
+36717,198.22,C13H10O2,198.22,O=Cc1ccccc1Oc1ccccc1,Alfa Aesar (US),0,,"2-Phenoxybenzaldehyde, 98%",MFCD00800666,887771,<rdkit.Chem.rdchem.Mol object at 0x0000020EE245E670>,31
+36757,198.22,C13H10O2,198.22,Oc1c(C=O)cccc1-c1ccccc1,Key Organics/BIONET,0,,"2-Hydroxy-[1,1'-biphenyl]-3-carbaldehyde",MFCD13192635,36729212,<rdkit.Chem.rdchem.Mol object at 0x0000020EE245F0B0>,13
+36799,198.22,C13H10O2,198.22,Oc1ccc(cc1)-c1ccc(C=O)cc1,Toronto Research Chemicals,0,,4-(4-Formylphenyl)phenol,MFCD00804656,45493407,<rdkit.Chem.rdchem.Mol object at 0x0000020EE245FB30>,15
+36887,198.24,C9H10O3S,198.24,CCS(=O)(=O)c1ccc(C=O)cc1,Alinda Chemical,0,,4-(ethylsulfonyl)benzaldehyde,MFCD09264545,17117593,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24641B0>,24
+36915,198.24,C9H10O3S,198.24,CS(=O)(=O)Cc1ccc(C=O)cc1,Key Organics/BIONET,0,,4-((Methylsulfonyl)methyl)benzaldehyde,MFCD21603748,49258982,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24648B0>,14
+37001,198.6,C9H7ClO3,198.6,Clc1cc2COCOc2c(C=O)c1,InterBioScreen,0,,"6-chloro-4H-benzo[d][1,3]dioxine-8-carbaldehyde",MFCD00805987,6138430,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2467E70>,11
+37017,198.6,C9H7ClO3,198.6,COC(=O)c1ccc(C=O)c(Cl)c1,"Combi-Blocks, Inc.",0,,Methyl 3-chloro-4-formylbenzoate,MFCD16036862,44391147,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24682B0>,29
+37052,198.6,C9H7ClO3,198.6,COC(=O)c1cc(Cl)cc(C=O)c1,Accela ChemBio (ASD),0,,Methyl 3-Chloro-5-formylbenzoate,MFCD22544335,48606461,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2468B70>,17
+37069,198.6,C9H7ClO3,198.6,COC(=O)c1ccc(C=O)cc1Cl,"Combi-Blocks, Inc.",0,,Methyl 2-chloro-4-formylbenzoate,MFCD24685927,49851231,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2468FB0>,21
+37090,198.6,C9H7ClO3,198.6,COC(=O)c1ccc(Cl)c(C=O)c1,Key Organics/BIONET,0,,methyl 4-chloro-3-formylbenzoate,MFCD16036863,50240997,<rdkit.Chem.rdchem.Mol object at 0x0000020EE246B530>,25
+37116,198.6,C9H7ClO3,198.6,COC(=O)c1ccc(Cl)cc1C=O,Princeton BioMolecular Research,0,,methyl 4-chloro-2-formylbenzoate,MFCD25459256,106451028,<rdkit.Chem.rdchem.Mol object at 0x0000020EE246BBB0>,16
+37160,198.65,C10H11ClO2,198.65,CCCOc1ccc(Cl)cc1C=O,Alinda Chemical,0,,5-chloro-2-propoxybenzaldehyde,MFCD03422441,848514,<rdkit.Chem.rdchem.Mol object at 0x0000020EE246D6F0>,18
+37178,198.65,C10H11ClO2,198.65,CC(C)Oc1ccc(Cl)cc1C=O,Alinda Chemical,0,,5-chloro-2-isopropoxybenzaldehyde,MFCD03422443,848518,<rdkit.Chem.rdchem.Mol object at 0x0000020EE246DB70>,25
+37212,198.65,C10H11ClO2,198.65,CCCOc1ccc(C=O)cc1Cl,ChemBridge,4015101,,3-chloro-4-propoxybenzaldehyde,MFCD06246436,28218591,<rdkit.Chem.rdchem.Mol object at 0x0000020EE2470430>,13
+37234,198.65,C10H11ClO2,198.65,CC(C)Oc1ccc(C=O)cc1Cl,AOBChem USA,25631,,3-Chloro-4-isopropoxybenzaldehyde,MFCD02629659,38494420,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24709B0>,12
+37770,199.13,C9H4F3NO,199.13,FC(F)(F)c1cc(C=O)cc(c1)C#N,"Combi-Blocks, Inc.",0,,3-Formyl-5-(trifluoromethyl)benzonitrile,MFCD22544347,50485155,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24B71F0>,13
+37783,199.13,C9H4F3NO,199.13,FC(F)(F)c1cc(ccc1C=O)C#N,Bellen Chem,0,,4-formyl-3-(trifluoromethyl)benzonitrile,MFCD24676075,50485157,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24B7530>,11
+37859,199.21,C12H9NO2,199.21,O=Cc1cccc(Oc2ccccn2)c1,Maybridge,0,,3-(pyrid-2-yloxy)benzaldehyde,MFCD03840110,917813,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24C3870>,21
+37888,199.21,C12H9NO2,199.21,O=Cc1ccc(Oc2cccnc2)cc1,Chem-Impex,23675,,4-(Pyridin-3-yloxy)benzaldehyde,MFCD03840161,932825,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24C3FB0>,23
+37911,199.21,C12H9NO2,199.21,O=Cc1ccccc1Oc1ccccn1,Maybridge,0,,2-(pyrid-2-yloxy)benzaldehyde,MFCD09025852,11467419,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24C65B0>,17
+37970,199.21,C12H9NO2,199.21,O=Cc1ccc(Oc2ccccn2)cc1,Maybridge,0,,4-(pyrid-2-yloxy)benzaldehyde,MFCD08435899,299999421,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24C94B0>,14
+38083,199.25,C13H13NO,199.25,Cc1ccc(C)n1-c1ccc(C=O)cc1,Key Organics/BIONET,9,,"4-(2,5-dimethyl-1H-pyrrol-1-yl)benzene carbaldehyde",MFCD00177098,930141,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24CD170>,11
+38097,199.25,C13H13NO,199.25,CN(C)c1ccc2cc(C=O)ccc2c1,Advamacs,0,,"2-Naphthalenecarboxaldehyde, 6-(dimethylamino)- 95%",MFCD07776686,43552933,<rdkit.Chem.rdchem.Mol object at 0x0000020EE24CD4F0>,18
